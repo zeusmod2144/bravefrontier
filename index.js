@@ -1,11 +1,11 @@
 const request = require("request");
 const cheerio = require("cheerio");
 
-request("https://bravefrontierglobal.fandom.com/wiki/Unit_List", (error, response, html) => {
+request("https://bravefrontierglobal.fandom.com/wiki/Unit_List", (error, response, body) => {
   if (!error && response.statusCode == 200) {
-    const $ = cheerio.load(html);
-    const body = $("table.wikitable tbody").first();
-    body.each((i, el) => {
+    const $ = cheerio.load(body);
+    const tableBbody = $("table.wikitable tbody").first();
+    tableBbody.each((i, el) => {
       const rows = $(el).find($("tr"));
       rows.each((i, el) => {
         const columns = $(el).find($("td"));
