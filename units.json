@@ -1,0 +1,802 @@
+[
+    {
+        "name": "Fencer Vargas",
+        "link": "/wiki/Fencer_Vargas",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/f4/Unit_ills_thum_10011.png/revision/latest/scale-to-width-down/42?cb=20131008160641",
+        "element": "Category:Fire",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 2"
+    },
+    {
+        "name": "Burning Vargas",
+        "link": "/wiki/Burning_Vargas",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/05/Unit_ills_thum_10012.png/revision/latest/scale-to-width-down/42?cb=20131014132929",
+        "element": "Category:Fire",
+        "rarity": "Category:3★ Rarity (Unit)",
+        "cost": "Category:Cost 4"
+    },
+    {
+        "name": "Fire King Vargas",
+        "link": "/wiki/Fire_King_Vargas",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/d1/Unit_ills_thum_10013.png/revision/latest/scale-to-width-down/42?cb=20131029085340",
+        "element": "Category:Fire",
+        "rarity": "Category:4★ Rarity (Unit)",
+        "cost": "Category:Cost 8"
+    },
+    {
+        "name": "Fire God Vargas",
+        "link": "/wiki/Fire_God_Vargas",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/8b/Unit_ills_thum_10014.png/revision/latest/scale-to-width-down/42?cb=20131029085406",
+        "element": "Category:Fire",
+        "rarity": "Category:5★ Rarity (Unit)",
+        "cost": "Category:Cost 10"
+    },
+    {
+        "name": "Selena",
+        "link": "/wiki/Selena",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/34/Unit_ills_thum_20011.png/revision/latest/scale-to-width-down/42?cb=20131008160834",
+        "element": "Category:Water",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 2"
+    },
+    {
+        "name": "Ice Selena",
+        "link": "/wiki/Ice_Selena",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e0/Unit_ills_thum_20012.png/revision/latest/scale-to-width-down/42?cb=20131014133530",
+        "element": "Category:Water",
+        "rarity": "Category:3★ Rarity (Unit)",
+        "cost": "Category:Cost 4"
+    },
+    {
+        "name": "Ice Queen Selena",
+        "link": "/wiki/Ice_Queen_Selena",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/99/Unit_ills_thum_20013.png/revision/latest/scale-to-width-down/42?cb=20131029085731",
+        "element": "Category:Water",
+        "rarity": "Category:4★ Rarity (Unit)",
+        "cost": "Category:Cost 8"
+    },
+    {
+        "name": "Ice Goddess Selena",
+        "link": "/wiki/Ice_Goddess_Selena",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/3e/Unit_ills_thum_20014.png/revision/latest/scale-to-width-down/42?cb=20131029085753",
+        "element": "Category:Water",
+        "rarity": "Category:5★ Rarity (Unit)",
+        "cost": "Category:Cost 10"
+    },
+    {
+        "name": "Pikeman Lance",
+        "link": "/wiki/Pikeman_Lance",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/81/Unit_ills_thum_30011.png/revision/latest/scale-to-width-down/42?cb=20131008160932",
+        "element": "Category:Earth",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 2"
+    },
+    {
+        "name": "Vine Pike Lance",
+        "link": "/wiki/Vine_Pike_Lance",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/37/Unit_ills_thum_30012.png/revision/latest/scale-to-width-down/42?cb=20131014133834",
+        "element": "Category:Earth",
+        "rarity": "Category:3★ Rarity (Unit)",
+        "cost": "Category:Cost 4"
+    },
+    {
+        "name": "Earth Pike Lance",
+        "link": "/wiki/Earth_Pike_Lance",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/f2/Unit_ills_thum_30013.png/revision/latest/scale-to-width-down/42?cb=20131029090114",
+        "element": "Category:Earth",
+        "rarity": "Category:4★ Rarity (Unit)",
+        "cost": "Category:Cost 8"
+    },
+    {
+        "name": "Nature God Lance",
+        "link": "/wiki/Nature_God_Lance",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/ae/Unit_ills_thum_30014.png/revision/latest/scale-to-width-down/42?cb=20131029090137",
+        "element": "Category:Earth",
+        "rarity": "Category:5★ Rarity (Unit)",
+        "cost": "Category:Cost 10"
+    },
+    {
+        "name": "Warrior Eze",
+        "link": "/wiki/Warrior_Eze",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/90/Unit_ills_thum_40011.png/revision/latest/scale-to-width-down/42?cb=20131008161005",
+        "element": "Category:Thunder",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 2"
+    },
+    {
+        "name": "Thunder Eze",
+        "link": "/wiki/Thunder_Eze",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/fa/Unit_ills_thum_40012.png/revision/latest/scale-to-width-down/42?cb=20131014133953",
+        "element": "Category:Thunder",
+        "rarity": "Category:3★ Rarity (Unit)",
+        "cost": "Category:Cost 4"
+    },
+    {
+        "name": "Thunder King Eze",
+        "link": "/wiki/Thunder_King_Eze",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/15/Unit_ills_thum_40013.png/revision/latest/scale-to-width-down/42?cb=20131029090542",
+        "element": "Category:Thunder",
+        "rarity": "Category:4★ Rarity (Unit)",
+        "cost": "Category:Cost 8"
+    },
+    {
+        "name": "Thunder God Eze",
+        "link": "/wiki/Thunder_God_Eze",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/65/Unit_ills_thum_40014.png/revision/latest/scale-to-width-down/42?cb=20131029090607",
+        "element": "Category:Thunder",
+        "rarity": "Category:5★ Rarity (Unit)",
+        "cost": "Category:Cost 10"
+    },
+    {
+        "name": "Squire Atro",
+        "link": "/wiki/Squire_Atro",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/cd/Unit_ills_thum_50011.png/revision/latest/scale-to-width-down/42?cb=20131029090901",
+        "element": "Category:Light",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 2"
+    },
+    {
+        "name": "Knight Atro",
+        "link": "/wiki/Knight_Atro",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/a3/Unit_ills_thum_50012.png/revision/latest/scale-to-width-down/42?cb=20131029090939",
+        "element": "Category:Light",
+        "rarity": "Category:3★ Rarity (Unit)",
+        "cost": "Category:Cost 4"
+    },
+    {
+        "name": "Holy Knight Atro",
+        "link": "/wiki/Holy_Knight_Atro",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/13/Unit_ills_thum_50013.png/revision/latest/scale-to-width-down/42?cb=20131029091002",
+        "element": "Category:Light",
+        "rarity": "Category:4★ Rarity (Unit)",
+        "cost": "Category:Cost 8"
+    },
+    {
+        "name": "God Atro",
+        "link": "/wiki/God_Atro",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/a1/Unit_ills_thum_50014.png/revision/latest/scale-to-width-down/42?cb=20131029091031",
+        "element": "Category:Light",
+        "rarity": "Category:5★ Rarity (Unit)",
+        "cost": "Category:Cost 10"
+    },
+    {
+        "name": "Iron Magress",
+        "link": "/wiki/Iron_Magress",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/d4/Unit_ills_thum_60011.png/revision/latest/scale-to-width-down/42?cb=20131031040434",
+        "element": "Category:Dark",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 2"
+    },
+    {
+        "name": "Heavy Magress",
+        "link": "/wiki/Heavy_Magress",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/51/Unit_ills_thum_60012.png/revision/latest/scale-to-width-down/42?cb=20131031040523",
+        "element": "Category:Dark",
+        "rarity": "Category:3★ Rarity (Unit)",
+        "cost": "Category:Cost 4"
+    },
+    {
+        "name": "Black Magress",
+        "link": "/wiki/Black_Magress",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/ca/Unit_ills_thum_60013.png/revision/latest/scale-to-width-down/42?cb=20131031040546",
+        "element": "Category:Dark",
+        "rarity": "Category:4★ Rarity (Unit)",
+        "cost": "Category:Cost 8"
+    },
+    {
+        "name": "Death Magress",
+        "link": "/wiki/Death_Magress",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/43/Unit_ills_thum_60014.png/revision/latest/scale-to-width-down/42?cb=20131031040607",
+        "element": "Category:Dark",
+        "rarity": "Category:5★ Rarity (Unit)",
+        "cost": "Category:Cost 10"
+    },
+    {
+        "name": "Beast Zegar",
+        "link": "/wiki/Beast_Zegar",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/8d/Unit_ills_thum_10021.png/revision/latest/scale-to-width-down/42?cb=20131029074821",
+        "element": "Category:Fire",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 3"
+    },
+    {
+        "name": "Rage Beast Zegar",
+        "link": "/wiki/Rage_Beast_Zegar",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/75/Unit_ills_thum_10022.png/revision/latest/scale-to-width-down/42?cb=20131029092335",
+        "element": "Category:Fire",
+        "rarity": "Category:3★ Rarity (Unit)",
+        "cost": "Category:Cost 5"
+    },
+    {
+        "name": "Fire Beast Zegar",
+        "link": "/wiki/Fire_Beast_Zegar",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/d5/Unit_ills_thum_10023.png/revision/latest/scale-to-width-down/42?cb=20131029092351",
+        "element": "Category:Fire",
+        "rarity": "Category:4★ Rarity (Unit)",
+        "cost": "Category:Cost 9"
+    },
+    {
+        "name": "Zephu",
+        "link": "/wiki/Zephu",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/c1/Unit_ills_thum_20021.png/revision/latest/scale-to-width-down/42?cb=20131029092831",
+        "element": "Category:Water",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 3"
+    },
+    {
+        "name": "Knight Zephu",
+        "link": "/wiki/Knight_Zephu",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/c2/Unit_ills_thum_20022.png/revision/latest/scale-to-width-down/42?cb=20131029092916",
+        "element": "Category:Water",
+        "rarity": "Category:3★ Rarity (Unit)",
+        "cost": "Category:Cost 5"
+    },
+    {
+        "name": "Dragoon Zephu",
+        "link": "/wiki/Dragoon_Zephu",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/69/Unit_ills_thum_20023.png/revision/latest/scale-to-width-down/42?cb=20131029092933",
+        "element": "Category:Water",
+        "rarity": "Category:4★ Rarity (Unit)",
+        "cost": "Category:Cost 9"
+    },
+    {
+        "name": "Archer Lario",
+        "link": "/wiki/Archer_Lario",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/7e/Unit_ills_thum_30021.png/revision/latest/scale-to-width-down/42?cb=20131029094306",
+        "element": "Category:Earth",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 3"
+    },
+    {
+        "name": "Marksman Lario",
+        "link": "/wiki/Marksman_Lario",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/ad/Unit_ills_thum_30022.png/revision/latest/scale-to-width-down/42?cb=20131029094331",
+        "element": "Category:Earth",
+        "rarity": "Category:3★ Rarity (Unit)",
+        "cost": "Category:Cost 5"
+    },
+    {
+        "name": "Hawkeye Lario",
+        "link": "/wiki/Hawkeye_Lario",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/55/Unit_ills_thum_30023.png/revision/latest/scale-to-width-down/42?cb=20131029094407",
+        "element": "Category:Earth",
+        "rarity": "Category:4★ Rarity (Unit)",
+        "cost": "Category:Cost 9"
+    },
+    {
+        "name": "Advisor Weiss",
+        "link": "/wiki/Advisor_Weiss",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/15/Unit_ills_thum_40021.png/revision/latest/scale-to-width-down/42?cb=20131029094820",
+        "element": "Category:Thunder",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 3"
+    },
+    {
+        "name": "Strategist Weiss",
+        "link": "/wiki/Strategist_Weiss",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e2/Unit_ills_thum_40022.png/revision/latest/scale-to-width-down/42?cb=20131029094852",
+        "element": "Category:Thunder",
+        "rarity": "Category:3★ Rarity (Unit)",
+        "cost": "Category:Cost 5"
+    },
+    {
+        "name": "Commander Weiss",
+        "link": "/wiki/Commander_Weiss",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/5d/Unit_ills_thum_40023.png/revision/latest/scale-to-width-down/42?cb=20131029094938",
+        "element": "Category:Thunder",
+        "rarity": "Category:4★ Rarity (Unit)",
+        "cost": "Category:Cost 9"
+    },
+    {
+        "name": "Luna",
+        "link": "/wiki/Luna",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/be/Unit_ills_thum_50021.png/revision/latest/scale-to-width-down/42?cb=20131029095309",
+        "element": "Category:Light",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 3"
+    },
+    {
+        "name": "Sunshine Luna",
+        "link": "/wiki/Sunshine_Luna",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/c9/Unit_ills_thum_50022.png/revision/latest/scale-to-width-down/42?cb=20131029095340",
+        "element": "Category:Light",
+        "rarity": "Category:3★ Rarity (Unit)",
+        "cost": "Category:Cost 5"
+    },
+    {
+        "name": "Holy Queen Luna",
+        "link": "/wiki/Holy_Queen_Luna",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/ee/Unit_ills_thum_50023.png/revision/latest/scale-to-width-down/42?cb=20131029095558",
+        "element": "Category:Light",
+        "rarity": "Category:4★ Rarity (Unit)",
+        "cost": "Category:Cost 9"
+    },
+    {
+        "name": "Mifune",
+        "link": "/wiki/Mifune",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/96/Unit_ills_thum_60021.png/revision/latest/scale-to-width-down/42?cb=20131029100048",
+        "element": "Category:Dark",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 3"
+    },
+    {
+        "name": "Samurai Mifune",
+        "link": "/wiki/Samurai_Mifune",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/72/Unit_ills_thum_60022.png/revision/latest/scale-to-width-down/42?cb=20131030140652",
+        "element": "Category:Dark",
+        "rarity": "Category:3★ Rarity (Unit)",
+        "cost": "Category:Cost 5"
+    },
+    {
+        "name": "God Blade Mifune",
+        "link": "/wiki/God_Blade_Mifune",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/a1/Unit_ills_thum_60023.png/revision/latest/scale-to-width-down/42?cb=20131030141002",
+        "element": "Category:Dark",
+        "rarity": "Category:4★ Rarity (Unit)",
+        "cost": "Category:Cost 9"
+    },
+    {
+        "name": "Burny",
+        "link": "/wiki/Burny",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/d3/Unit_ills_thum_10030.png/revision/latest/scale-to-width-down/42?cb=20131030141433",
+        "element": "Category:Fire",
+        "rarity": "Category:1★ Rarity (Unit)",
+        "cost": "Category:Cost 1"
+    },
+    {
+        "name": "King Burny",
+        "link": "/wiki/King_Burny",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/0f/Unit_ills_thum_10031.png/revision/latest/scale-to-width-down/42?cb=20131030141637",
+        "element": "Category:Fire",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 3"
+    },
+    {
+        "name": "Squirty",
+        "link": "/wiki/Squirty",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/7d/Unit_ills_thum_20030.png/revision/latest/scale-to-width-down/42?cb=20131030141911",
+        "element": "Category:Water",
+        "rarity": "Category:1★ Rarity (Unit)",
+        "cost": "Category:Cost 1"
+    },
+    {
+        "name": "King Squirty",
+        "link": "/wiki/King_Squirty",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/1f/Unit_ills_thum_20031.png/revision/latest/scale-to-width-down/42?cb=20131030142047",
+        "element": "Category:Water",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 3"
+    },
+    {
+        "name": "Mossy",
+        "link": "/wiki/Mossy",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/9c/Unit_ills_thum_30030.png/revision/latest/scale-to-width-down/42?cb=20131030142714",
+        "element": "Category:Earth",
+        "rarity": "Category:1★ Rarity (Unit)",
+        "cost": "Category:Cost 1"
+    },
+    {
+        "name": "King Mossy",
+        "link": "/wiki/King_Mossy",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/90/Unit_ills_thum_30031.png/revision/latest/scale-to-width-down/42?cb=20131030142810",
+        "element": "Category:Earth",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 3"
+    },
+    {
+        "name": "Sparky",
+        "link": "/wiki/Sparky",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/cd/Unit_ills_thum_40030.png/revision/latest/scale-to-width-down/42?cb=20131030142938",
+        "element": "Category:Thunder",
+        "rarity": "Category:1★ Rarity (Unit)",
+        "cost": "Category:Cost 1"
+    },
+    {
+        "name": "King Sparky",
+        "link": "/wiki/King_Sparky",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/54/Unit_ills_thum_40031.png/revision/latest/scale-to-width-down/42?cb=20131030143036",
+        "element": "Category:Thunder",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 3"
+    },
+    {
+        "name": "Glowy",
+        "link": "/wiki/Glowy",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/a2/Unit_ills_thum_50030.png/revision/latest/scale-to-width-down/42?cb=20131030143241",
+        "element": "Category:Light",
+        "rarity": "Category:1★ Rarity (Unit)",
+        "cost": "Category:Cost 1"
+    },
+    {
+        "name": "King Glowy",
+        "link": "/wiki/King_Glowy",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/58/Unit_ills_thum_50031.png/revision/latest/scale-to-width-down/42?cb=20131030143309",
+        "element": "Category:Light",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 3"
+    },
+    {
+        "name": "Gloomy",
+        "link": "/wiki/Gloomy",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/20/Unit_ills_thum_60030.png/revision/latest/scale-to-width-down/42?cb=20131030143537",
+        "element": "Category:Dark",
+        "rarity": "Category:1★ Rarity (Unit)",
+        "cost": "Category:Cost 1"
+    },
+    {
+        "name": "King Gloomy",
+        "link": "/wiki/King_Gloomy",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/97/Unit_ills_thum_60031.png/revision/latest/scale-to-width-down/42?cb=20131030143558",
+        "element": "Category:Dark",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 3"
+    },
+    {
+        "name": "Witch Liza",
+        "link": "/wiki/Witch_Liza",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/30/Unit_ills_thum_10040.png/revision/latest/scale-to-width-down/42?cb=20131031042133",
+        "element": "Category:Fire",
+        "rarity": "Category:1★ Rarity (Unit)",
+        "cost": "Category:Cost 2"
+    },
+    {
+        "name": "Warlock Liza",
+        "link": "/wiki/Warlock_Liza",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/52/Unit_ills_thum_10041.png/revision/latest/scale-to-width-down/42?cb=20131031042248",
+        "element": "Category:Fire",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 4"
+    },
+    {
+        "name": "Priest Merith",
+        "link": "/wiki/Priest_Merith",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/c0/Unit_ills_thum_20040.png/revision/latest/scale-to-width-down/42?cb=20131031042758",
+        "element": "Category:Water",
+        "rarity": "Category:1★ Rarity (Unit)",
+        "cost": "Category:Cost 2"
+    },
+    {
+        "name": "Healer Merith",
+        "link": "/wiki/Healer_Merith",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/3a/Unit_ills_thum_20041.png/revision/latest/scale-to-width-down/42?cb=20131031042912",
+        "element": "Category:Water",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 4"
+    },
+    {
+        "name": "Geomancer Claris",
+        "link": "/wiki/Geomancer_Claris",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/b1/Unit_ills_thum_30040.png/revision/latest/scale-to-width-down/42?cb=20131031043051",
+        "element": "Category:Earth",
+        "rarity": "Category:1★ Rarity (Unit)",
+        "cost": "Category:Cost 2"
+    },
+    {
+        "name": "Time Mage Claris",
+        "link": "/wiki/Time_Mage_Claris",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/87/Unit_ills_thum_30041.png/revision/latest/scale-to-width-down/42?cb=20131031045802",
+        "element": "Category:Earth",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 4"
+    },
+    {
+        "name": "Dancer May",
+        "link": "/wiki/Dancer_May",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/b1/Unit_ills_thum_40040.png/revision/latest/scale-to-width-down/42?cb=20131031050423",
+        "element": "Category:Thunder",
+        "rarity": "Category:1★ Rarity (Unit)",
+        "cost": "Category:Cost 2"
+    },
+    {
+        "name": "High Dancer May",
+        "link": "/wiki/High_Dancer_May",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/c7/Unit_ills_thum_40041.png/revision/latest/scale-to-width-down/42?cb=20131031050630",
+        "element": "Category:Thunder",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 4"
+    },
+    {
+        "name": "Sage Mimir",
+        "link": "/wiki/Sage_Mimir",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/79/Unit_ills_thum_50040.png/revision/latest/scale-to-width-down/42?cb=20131031051125",
+        "element": "Category:Light",
+        "rarity": "Category:1★ Rarity (Unit)",
+        "cost": "Category:Cost 2"
+    },
+    {
+        "name": "Light Lord Mimir",
+        "link": "/wiki/Light_Lord_Mimir",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/94/Unit_ills_thum_50041.png/revision/latest/scale-to-width-down/42?cb=20131031051249",
+        "element": "Category:Light",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 4"
+    },
+    {
+        "name": "Sorceress Lily",
+        "link": "/wiki/Sorceress_Lily",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/08/Unit_ills_thum_60040.png/revision/latest/scale-to-width-down/42?cb=20131031054259",
+        "element": "Category:Dark",
+        "rarity": "Category:1★ Rarity (Unit)",
+        "cost": "Category:Cost 2"
+    },
+    {
+        "name": "Magician Lily",
+        "link": "/wiki/Magician_Lily",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/d6/Unit_ills_thum_60041.png/revision/latest/scale-to-width-down/42?cb=20131031054423",
+        "element": "Category:Dark",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 4"
+    },
+    {
+        "name": "Goblin",
+        "link": "/wiki/Goblin",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/98/Unit_ills_thum_10050.png/revision/latest/scale-to-width-down/42?cb=20131031054735",
+        "element": "Category:Fire",
+        "rarity": "Category:1★ Rarity (Unit)",
+        "cost": "Category:Cost 2"
+    },
+    {
+        "name": "Redcap",
+        "link": "/wiki/Redcap",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/47/Unit_ills_thum_10051.png/revision/latest/scale-to-width-down/42?cb=20131031055108",
+        "element": "Category:Fire",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 4"
+    },
+    {
+        "name": "Merman",
+        "link": "/wiki/Merman",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/3c/Unit_ills_thum_20050.png/revision/latest/scale-to-width-down/42?cb=20131031055256",
+        "element": "Category:Water",
+        "rarity": "Category:1★ Rarity (Unit)",
+        "cost": "Category:Cost 2"
+    },
+    {
+        "name": "Sahuagin",
+        "link": "/wiki/Sahuagin",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/1e/Unit_ills_thum_20051.png/revision/latest/scale-to-width-down/42?cb=20131031055349",
+        "element": "Category:Water",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 4"
+    },
+    {
+        "name": "Mandragora",
+        "link": "/wiki/Mandragora",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/79/Unit_ills_thum_30050.png/revision/latest/scale-to-width-down/42?cb=20131031055524",
+        "element": "Category:Earth",
+        "rarity": "Category:1★ Rarity (Unit)",
+        "cost": "Category:Cost 2"
+    },
+    {
+        "name": "Polevik",
+        "link": "/wiki/Polevik",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/2e/Unit_ills_thum_30051.png/revision/latest/scale-to-width-down/42?cb=20131031055710",
+        "element": "Category:Earth",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 4"
+    },
+    {
+        "name": "Harpy",
+        "link": "/wiki/Harpy",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/f7/Unit_ills_thum_40050.png/revision/latest/scale-to-width-down/42?cb=20131031055937",
+        "element": "Category:Thunder",
+        "rarity": "Category:1★ Rarity (Unit)",
+        "cost": "Category:Cost 2"
+    },
+    {
+        "name": "Aero",
+        "link": "/wiki/Aero",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/5b/Unit_ills_thum_40051.png/revision/latest/scale-to-width-down/42?cb=20131031060027",
+        "element": "Category:Thunder",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 4"
+    },
+    {
+        "name": "Angel",
+        "link": "/wiki/Angel",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/5e/Unit_ills_thum_50050.png/revision/latest/scale-to-width-down/42?cb=20131031060232",
+        "element": "Category:Light",
+        "rarity": "Category:1★ Rarity (Unit)",
+        "cost": "Category:Cost 2"
+    },
+    {
+        "name": "Archangel",
+        "link": "/wiki/Archangel",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/42/Unit_ills_thum_50051.png/revision/latest/scale-to-width-down/42?cb=20131031060325",
+        "element": "Category:Light",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 4"
+    },
+    {
+        "name": "Skeleton",
+        "link": "/wiki/Skeleton",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/3d/Unit_ills_thum_60050.png/revision/latest/scale-to-width-down/42?cb=20131031061215",
+        "element": "Category:Dark",
+        "rarity": "Category:1★ Rarity (Unit)",
+        "cost": "Category:Cost 2"
+    },
+    {
+        "name": "Skeleton King",
+        "link": "/wiki/Skeleton_King",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e4/Unit_ills_thum_60051.png/revision/latest/scale-to-width-down/42?cb=20131031061258",
+        "element": "Category:Dark",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 4"
+    },
+    {
+        "name": "Thief Leon",
+        "link": "/wiki/Thief_Leon",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/68/Unit_ills_thum_10061.png/revision/latest/scale-to-width-down/42?cb=20131031062142",
+        "element": "Category:Fire",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 3"
+    },
+    {
+        "name": "Head Thief Leon",
+        "link": "/wiki/Head_Thief_Leon",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/ec/Unit_ills_thum_10062.png/revision/latest/scale-to-width-down/42?cb=20131031062159",
+        "element": "Category:Fire",
+        "rarity": "Category:3★ Rarity (Unit)",
+        "cost": "Category:Cost 6"
+    },
+    {
+        "name": "Pirate Verica",
+        "link": "/wiki/Pirate_Verica",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e9/Unit_ills_thum_20061.png/revision/latest/scale-to-width-down/42?cb=20131031063033",
+        "element": "Category:Water",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 3"
+    },
+    {
+        "name": "Plunderer Verica",
+        "link": "/wiki/Plunderer_Verica",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/7b/Unit_ills_thum_20062.png/revision/latest/scale-to-width-down/42?cb=20131031063051",
+        "element": "Category:Water",
+        "rarity": "Category:3★ Rarity (Unit)",
+        "cost": "Category:Cost 6"
+    },
+    {
+        "name": "Bandit Zaza",
+        "link": "/wiki/Bandit_Zaza",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/7d/Unit_ills_thum_30061.png/revision/latest/scale-to-width-down/42?cb=20131031063446",
+        "element": "Category:Earth",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 3"
+    },
+    {
+        "name": "Head Bandit Zaza",
+        "link": "/wiki/Head_Bandit_Zaza",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/2c/Unit_ills_thum_30062.png/revision/latest/scale-to-width-down/42?cb=20131031063504",
+        "element": "Category:Earth",
+        "rarity": "Category:3★ Rarity (Unit)",
+        "cost": "Category:Cost 6"
+    },
+    {
+        "name": "Sky Pirate Grafl",
+        "link": "/wiki/Sky_Pirate_Grafl",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/5b/Unit_ills_thum_40061.png/revision/latest/scale-to-width-down/42?cb=20131031063752",
+        "element": "Category:Thunder",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 3"
+    },
+    {
+        "name": "Sky Boss Grafl",
+        "link": "/wiki/Sky_Boss_Grafl",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/90/Unit_ills_thum_40062.png/revision/latest/scale-to-width-down/42?cb=20131031063816",
+        "element": "Category:Thunder",
+        "rarity": "Category:3★ Rarity (Unit)",
+        "cost": "Category:Cost 6"
+    },
+    {
+        "name": "Orthos",
+        "link": "/wiki/Orthos",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/08/Unit_ills_thum_10071.png/revision/latest/scale-to-width-down/42?cb=20131031065641",
+        "element": "Category:Fire",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 2"
+    },
+    {
+        "name": "Cerberus",
+        "link": "/wiki/Cerberus",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/8e/Unit_ills_thum_10072.png/revision/latest/scale-to-width-down/42?cb=20131031065712",
+        "element": "Category:Fire",
+        "rarity": "Category:3★ Rarity (Unit)",
+        "cost": "Category:Cost 5"
+    },
+    {
+        "name": "Ramia",
+        "link": "/wiki/Ramia",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/7c/Unit_ills_thum_20071.png/revision/latest/scale-to-width-down/42?cb=20131031070041",
+        "element": "Category:Water",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 2"
+    },
+    {
+        "name": "Scylla",
+        "link": "/wiki/Scylla",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/79/Unit_ills_thum_20072.png/revision/latest/scale-to-width-down/42?cb=20131031070107",
+        "element": "Category:Water",
+        "rarity": "Category:3★ Rarity (Unit)",
+        "cost": "Category:Cost 5"
+    },
+    {
+        "name": "Fairy",
+        "link": "/wiki/Fairy",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/da/Unit_ills_thum_30071.png/revision/latest/scale-to-width-down/42?cb=20131031071430",
+        "element": "Category:Earth",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 2"
+    },
+    {
+        "name": "Titania",
+        "link": "/wiki/Titania",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/ff/Unit_ills_thum_30072.png/revision/latest/scale-to-width-down/42?cb=20131031071448",
+        "element": "Category:Earth",
+        "rarity": "Category:3★ Rarity (Unit)",
+        "cost": "Category:Cost 5"
+    },
+    {
+        "name": "Minotaur",
+        "link": "/wiki/Minotaur",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/46/Unit_ills_thum_40071.png/revision/latest/scale-to-width-down/42?cb=20131031071848",
+        "element": "Category:Thunder",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 2"
+    },
+    {
+        "name": "Cyclops",
+        "link": "/wiki/Cyclops",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/14/Unit_ills_thum_40072.png/revision/latest/scale-to-width-down/42?cb=20131031071918",
+        "element": "Category:Thunder",
+        "rarity": "Category:3★ Rarity (Unit)",
+        "cost": "Category:Cost 5"
+    },
+    {
+        "name": "Unicorn",
+        "link": "/wiki/Unicorn",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/96/Unit_ills_thum_50060.png/revision/latest/scale-to-width-down/42?cb=20131031072604",
+        "element": "Category:Light",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 3"
+    },
+    {
+        "name": "Pegasus",
+        "link": "/wiki/Pegasus",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/52/Unit_ills_thum_50061.png/revision/latest/scale-to-width-down/42?cb=20131031072801",
+        "element": "Category:Light",
+        "rarity": "Category:3★ Rarity (Unit)",
+        "cost": "Category:Cost 6"
+    },
+    {
+        "name": "Medusa",
+        "link": "/wiki/Medusa",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/ed/Unit_ills_thum_60061.png/revision/latest/scale-to-width-down/42?cb=20131031073112",
+        "element": "Category:Dark",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 3"
+    },
+    {
+        "name": "Zahhak",
+        "link": "/wiki/Zahhak",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/a4/Unit_ills_thum_60062.png/revision/latest/scale-to-width-down/42?cb=20131031073131",
+        "element": "Category:Dark",
+        "rarity": "Category:3★ Rarity (Unit)",
+        "cost": "Category:Cost 6"
+    },
+    {
+        "name": "Salamander",
+        "link": "/wiki/Salamander",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/82/Unit_ills_thum_10081.png/revision/latest/scale-to-width-down/42?cb=20131031073409",
+        "element": "Category:Fire",
+        "rarity": "Category:2★ Rarity (Unit)",
+        "cost": "Category:Cost 2"
+    },
+    {
+        "name": "Ifrit",
+        "link": "/wiki/Ifrit",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/54/Unit_ills_thum_10082.png/revision/latest/scale-to-width-down/42?cb=20131031073428",
+        "element": "Category:Fire",
+        "rarity": "Category:3★ Rarity (Unit)",
+        "cost": "Category:Cost 4"
+    }
+]
