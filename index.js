@@ -6,7 +6,8 @@ const axios = require("axios");
 const rootUrl = "https://bravefrontierglobal.fandom.com";
 const firstMainSeriesUrl = "https://bravefrontierglobal.fandom.com/wiki/Unit_List";
 const firstGlobalExclusiveSeriesUrl = "https://bravefrontierglobal.fandom.com/wiki/Unit_List:7000";
-const units = [];
+const mainUnits = [];
+const exclusiveUnits = [];
 const outputFile = 'units.json';
 
 console.log(chalk.yellow.bgBlue(`\n Scraping of Brave Frontier units started initiated...\n`));
@@ -42,20 +43,20 @@ const getMainSeriesUnits = async (url) => {
             break;
         }
       })
-      units.push({
+      mainUnits.push({
         name, link, thumbnail, element, rarity, cost
       });
     });
 
     // Remove first element
-    units.shift();
+    mainUnits.shift();
 
     // Recursion start
     const nextPageHref = $('div#mw-content-text > div > p').find('strong').next().attr('href');
 
     if (nextPageHref === undefined) {
       console.log('finish');
-      return units;
+      return mainUnits;
     }
 
     nextUrl = `${rootUrl}${nextPageHref}`;
@@ -99,20 +100,20 @@ const getGlobalExclusiveSeriesUnits = async (url) => {
             break;
         }
       })
-      units.push({
+      exclusiveUnits.push({
         name, link, thumbnail, element, rarity, cost
       });
     });
 
     // Remove first element
-    units.shift();
+    exclusiveUnits.shift();
 
     // Recursion start
     const nextPageHref = $('div#mw-content-text > div > div > p').find('strong').next().attr('href');
 
     if (nextPageHref === undefined) {
       console.log('finish');
-      return units;
+      return exclusiveUnits;
     }
 
     nextUrl = `${rootUrl}${nextPageHref}`;
