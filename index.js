@@ -10,7 +10,7 @@ const outputFile = 'units.json';
 
 console.log(chalk.yellow.bgBlue(`\n Scraping of Brave Frontier units started initiated...\n`));
 
-const getUnits = async (url) => {
+const getMainSeriesUnits = async (url) => {
   try {
     const response = await axios.get(url);
     const $ = cheerio.load(response.data);
@@ -68,10 +68,10 @@ const getUnits = async (url) => {
     nextUrl = `${rootUrl}${nextPageHref}`;
     console.log(chalk.cyan(`Scraping next url: ${nextUrl}`));
 
-    getUnits(nextUrl);
+    getMainSeriesUnits(nextUrl);
   } catch (error) {
     console.error(error);
   }
 }
 
-getUnits(url);
+getMainSeriesUnits(url);
