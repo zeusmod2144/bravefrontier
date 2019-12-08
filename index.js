@@ -55,20 +55,18 @@ const getMainSeriesUnits = async (url) => {
 
     if (nextPageHref === undefined) {
       console.log('finish');
-      return false;
+      return units;
     }
 
     nextUrl = `${rootUrl}${nextPageHref}`;
     console.log(chalk.cyan(`Scraping next url: ${nextUrl}`));
 
-    getMainSeriesUnits(nextUrl);
+    return await getMainSeriesUnits(nextUrl);
     // Recursion end
   } catch (error) {
     console.error(error);
   }
 }
-
-getMainSeriesUnits(firstMainSeriesUrl);
 
 const getGlobalExclusiveSeriesUnits = async (url) => {
   try {
@@ -114,17 +112,24 @@ const getGlobalExclusiveSeriesUnits = async (url) => {
 
     if (nextPageHref === undefined) {
       console.log('finish');
-      return false;
+      return units;
     }
 
     nextUrl = `${rootUrl}${nextPageHref}`;
     console.log(chalk.cyan(`Scraping next url: ${nextUrl}`));
 
-    getGlobalExclusiveSeriesUnits(nextUrl);
+    return await getGlobalExclusiveSeriesUnits(nextUrl);
     // Recursion end
   } catch (error) {
     console.error(error);
   }
 }
 
-getGlobalExclusiveSeriesUnits(firstGlobalExclusiveSeriesUrl);
+async function collectUnits() {
+  let [mainUnits, exclusiveUnits] = await Promise.all([getMainSeriesUnits(firstMainSeriesUrl), getGlobalExclusiveSeriesUnits(firstGlobalExclusiveSeriesUrl)]);
+
+  console.log(mainUnits.length);
+  console.log(exclusiveUnits.length);
+}
+
+collectUnits();
