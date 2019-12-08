@@ -5,6 +5,7 @@ const axios = require("axios");
 
 const rootUrl = "https://bravefrontierglobal.fandom.com";
 const firstMainSeriesUrl = "https://bravefrontierglobal.fandom.com/wiki/Unit_List";
+const firstGlobalExclusiveSeriesUrl = "https://bravefrontierglobal.fandom.com/wiki/Unit_List:7000";
 const units = [];
 const outputFile = 'units.json';
 
@@ -76,7 +77,6 @@ const getMainSeriesUnits = async (firstMainSeriesUrl) => {
 
 getMainSeriesUnits(firstMainSeriesUrl);
 
-const firstGlobalExclusiveSeriesUrl = "https://bravefrontierglobal.fandom.com/wiki/Unit_List:7000";
 const getGlobalExclusiveSeriesUnits = async (firstGlobalExclusiveSeriesUrl) => {
   try {
     const response = await axios.get(firstGlobalExclusiveSeriesUrl);
