@@ -11,9 +11,9 @@ const outputFile = 'units.json';
 
 console.log(chalk.yellow.bgBlue(`\n Scraping of Brave Frontier units started initiated...\n`));
 
-const getMainSeriesUnits = async (firstMainSeriesUrl) => {
+const getMainSeriesUnits = async (url) => {
   try {
-    const response = await axios.get(firstMainSeriesUrl);
+    const response = await axios.get(url);
     const $ = cheerio.load(response.data);
 
     const rows = $("table.wikitable tbody").first().find("tr");
@@ -77,9 +77,9 @@ const getMainSeriesUnits = async (firstMainSeriesUrl) => {
 
 getMainSeriesUnits(firstMainSeriesUrl);
 
-const getGlobalExclusiveSeriesUnits = async (firstGlobalExclusiveSeriesUrl) => {
+const getGlobalExclusiveSeriesUnits = async (url) => {
   try {
-    const response = await axios.get(firstGlobalExclusiveSeriesUrl);
+    const response = await axios.get(url);
     const $ = cheerio.load(response.data);
 
     const rows = $("table.wikitable tbody").first().find("tr");
