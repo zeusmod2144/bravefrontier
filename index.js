@@ -59,17 +59,14 @@ const getUnits = async (url) => {
       });
     }
 
-    const lastPageText = $('div#mw-content-text > div > p').find('a').last().text();
-    const lastPage = parseInt(lastPageText.split("-")[0], 10);
+    const nextPageHref = $('div#mw-content-text > div > p').find('strong').next().attr('href');
 
-    if (pageCounter >= lastPage) {
-      exportResults(units);
+    if (nextPageHref === undefined) {
+      console.log('finish');
       return false;
     }
-    
-    pageCounter += 100;
 
-    const nextUrl = `${rootUrl}/wiki/Unit_List:${pageCounter}`;
+    nextUrl = `${rootUrl}${nextPageHref}`;
     console.log(chalk.cyan(`Scraping next url: ${nextUrl}`));
 
     getUnits(nextUrl);
