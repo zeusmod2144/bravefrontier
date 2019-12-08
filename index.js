@@ -59,6 +59,7 @@ const getMainSeriesUnits = async (url) => {
       });
     }
 
+    // Recursion start
     const nextPageHref = $('div#mw-content-text > div > p').find('strong').next().attr('href');
 
     if (nextPageHref === undefined) {
@@ -70,6 +71,7 @@ const getMainSeriesUnits = async (url) => {
     console.log(chalk.cyan(`Scraping next url: ${nextUrl}`));
 
     getMainSeriesUnits(nextUrl);
+    // Recursion end
   } catch (error) {
     console.error(error);
   }
@@ -125,6 +127,7 @@ const getGlobalExclusiveSeriesUnits = async (url) => {
       });
     }
 
+    // Recursion start
     const nextPageHref = $('div#mw-content-text > div > div > p').find('strong').next().attr('href');
 
     if (nextPageHref === undefined) {
@@ -136,6 +139,7 @@ const getGlobalExclusiveSeriesUnits = async (url) => {
     console.log(chalk.cyan(`Scraping next url: ${nextUrl}`));
 
     getGlobalExclusiveSeriesUnits(nextUrl);
+    // Recursion end
   } catch (error) {
     console.error(error);
   }
