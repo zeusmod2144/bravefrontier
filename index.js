@@ -4,15 +4,15 @@ const chalk = require("chalk");
 const axios = require("axios");
 
 const rootUrl = "https://bravefrontierglobal.fandom.com";
-const url = "https://bravefrontierglobal.fandom.com/wiki/Unit_List";
+const firstMainSeriesUrl = "https://bravefrontierglobal.fandom.com/wiki/Unit_List";
 const units = [];
 const outputFile = 'units.json';
 
 console.log(chalk.yellow.bgBlue(`\n Scraping of Brave Frontier units started initiated...\n`));
 
-const getMainSeriesUnits = async (url) => {
+const getMainSeriesUnits = async (firstMainSeriesUrl) => {
   try {
-    const response = await axios.get(url);
+    const response = await axios.get(firstMainSeriesUrl);
     const $ = cheerio.load(response.data);
 
     const rows = $("table.wikitable tbody").first().find("tr");
@@ -74,7 +74,7 @@ const getMainSeriesUnits = async (url) => {
   }
 }
 
-getMainSeriesUnits(url);
+getMainSeriesUnits(firstMainSeriesUrl);
 
 const firstGlobalExclusiveSeriesUrl = "https://bravefrontierglobal.fandom.com/wiki/Unit_List:7000";
 const getGlobalExclusiveSeriesUnits = async (firstGlobalExclusiveSeriesUrl) => {
