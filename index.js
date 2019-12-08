@@ -7,7 +7,6 @@ const rootUrl = "https://bravefrontierglobal.fandom.com";
 const url = "https://bravefrontierglobal.fandom.com/wiki/Unit_List";
 const units = [];
 const outputFile = 'units.json';
-let pageCounter = 0;
 
 console.log(chalk.yellow.bgBlue(`\n Scraping of Brave Frontier units started initiated...\n`));
 
