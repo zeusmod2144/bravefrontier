@@ -50,15 +50,6 @@ const getMainSeriesUnits = async (url) => {
     // Remove first element
     units.shift();
 
-    const exportResults = (units) => {
-      fs.writeFile(outputFile, JSON.stringify(units, null, 4), (err) => {
-        if (err) {
-          console.log(err)
-        }
-        console.log(chalk.yellow.bgBlue(`\n ${chalk.underline.bold(units.length)} Results exported successfully to ${chalk.underline.bold(outputFile)}\n`));
-      });
-    }
-
     // Recursion start
     const nextPageHref = $('div#mw-content-text > div > p').find('strong').next().attr('href');
 
@@ -117,15 +108,6 @@ const getGlobalExclusiveSeriesUnits = async (url) => {
 
     // Remove first element
     units.shift();
-
-    const exportResults = (units) => {
-      fs.writeFile(outputFile, JSON.stringify(units, null, 4), (err) => {
-        if (err) {
-          console.log(err)
-        }
-        console.log(chalk.yellow.bgBlue(`\n ${chalk.underline.bold(units.length)} Results exported successfully to ${chalk.underline.bold(outputFile)}\n`));
-      });
-    }
 
     // Recursion start
     const nextPageHref = $('div#mw-content-text > div > div > p').find('strong').next().attr('href');
