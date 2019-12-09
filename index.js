@@ -134,4 +134,13 @@ async function collectUnits() {
     }
   }
 
+  // Store the result to units.json file
+  fs.writeFile(outputFile, JSON.stringify(units, null, 4), err => {
+    if (err) {
+      console.log(err);
+    }
+    console.log('success export to units.json');
+  });
+}
+
 collectUnits();
