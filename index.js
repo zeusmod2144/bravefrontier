@@ -124,12 +124,11 @@ async function collectUnits() {
   let [mainUnits, exclusiveUnits] = await Promise.all([getMainSeriesUnits(firstMainSeriesUrl), getGlobalExclusiveSeriesUnits(firstGlobalExclusiveSeriesUrl)]);
 
   let result = [...mainUnits, ...exclusiveUnits];
-  
-  
+
   const units = [];
   // Filter from an object that has undefined values
   for (const unit of result) {
-    if (! Object.values(unit).includes(undefined)) {
+    if (!Object.values(unit).includes(undefined)) {
       units.push(unit);
     }
   }
