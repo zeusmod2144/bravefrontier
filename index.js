@@ -52,7 +52,7 @@ const getMainSeriesUnits = async (url) => {
     const nextPageHref = $('div#mw-content-text > div > p').find('strong').next().attr('href');
 
     if (nextPageHref === undefined) {
-      console.log('finish');
+      console.log(chalk.yellow.bgBlue(`\n Finish scraping main series units. \n`));
       return mainUnits;
     }
 
@@ -106,7 +106,7 @@ const getGlobalExclusiveSeriesUnits = async (url) => {
     const nextPageHref = $('div#mw-content-text > div > div > p').find('strong').next().attr('href');
 
     if (nextPageHref === undefined) {
-      console.log('finish');
+      console.log(chalk.yellow.bgBlue(`\n Finish scraping global exclusive series units. \n`));
       return exclusiveUnits;
     }
 
@@ -139,7 +139,7 @@ async function collectUnits() {
     if (err) {
       console.log(err);
     }
-    console.log('success export to units.json');
+    console.log(chalk.yellow.bgBlue(`\n Success export ${units.length} units to ${outputFile}. \n`));
   });
 }
 
