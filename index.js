@@ -48,9 +48,6 @@ const getMainSeriesUnits = async (url) => {
       });
     });
 
-    // Remove first element
-    mainUnits.shift();
-
     // Recursion start
     const nextPageHref = $('div#mw-content-text > div > p').find('strong').next().attr('href');
 
@@ -105,9 +102,6 @@ const getGlobalExclusiveSeriesUnits = async (url) => {
       });
     });
 
-    // Remove first element
-    exclusiveUnits.shift();
-
     // Recursion start
     const nextPageHref = $('div#mw-content-text > div > div > p').find('strong').next().attr('href');
 
@@ -129,8 +123,15 @@ const getGlobalExclusiveSeriesUnits = async (url) => {
 async function collectUnits() {
   let [mainUnits, exclusiveUnits] = await Promise.all([getMainSeriesUnits(firstMainSeriesUrl), getGlobalExclusiveSeriesUnits(firstGlobalExclusiveSeriesUrl)]);
 
-  console.log(mainUnits.length);
-  console.log(exclusiveUnits.length);
-}
+  let result = [...mainUnits, ...exclusiveUnits];
+  
+  
+  const units = [];
+  // Filter from an object that has undefined values
+  for (const unit of result) {
+    if (! Object.values(unit).includes(undefined)) {
+      units.push(unit);
+    }
+  }
 
 collectUnits();
