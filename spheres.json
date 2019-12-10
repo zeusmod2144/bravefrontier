@@ -1,0 +1,4107 @@
+[
+    {
+        "name": "Ares' Crest",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ares%27_Crest",
+        "rarity": "1"
+    },
+    {
+        "name": "Beast Armor",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Beast_Armor",
+        "rarity": "1"
+    },
+    {
+        "name": "Beast Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Beast_Blade",
+        "rarity": "1"
+    },
+    {
+        "name": "Beast Spear",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Beast_Spear",
+        "rarity": "1"
+    },
+    {
+        "name": "Bravest Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Bravest_Blade",
+        "rarity": "1"
+    },
+    {
+        "name": "Broken Light",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Broken_Light",
+        "rarity": "1"
+    },
+    {
+        "name": "Champion Axe",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Champion_Axe",
+        "rarity": "1"
+    },
+    {
+        "name": "Clear Cloak",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Clear_Cloak",
+        "rarity": "1"
+    },
+    {
+        "name": "Cure Bracer",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Cure_Bracer",
+        "rarity": "1"
+    },
+    {
+        "name": "Cursed Light",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Cursed_Light",
+        "rarity": "1"
+    },
+    {
+        "name": "Cursed Robe",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Cursed_Robe",
+        "rarity": "1"
+    },
+    {
+        "name": "Cursed Sabre",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Cursed_Sabre",
+        "rarity": "1"
+    },
+    {
+        "name": "Death Scythe",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Death_Scythe",
+        "rarity": "1"
+    },
+    {
+        "name": "Demon Rifle",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Demon_Rifle",
+        "rarity": "1"
+    },
+    {
+        "name": "Divine Crest",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Divine_Crest",
+        "rarity": "1"
+    },
+    {
+        "name": "Dragon Seal",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Dragon_Seal",
+        "rarity": "1"
+    },
+    {
+        "name": "Faint Light",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Faint_Light",
+        "rarity": "1"
+    },
+    {
+        "name": "Famous Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Famous_Blade",
+        "rarity": "1"
+    },
+    {
+        "name": "Giant Shield",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Giant_Shield",
+        "rarity": "1"
+    },
+    {
+        "name": "Gilded Pearl",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Gilded_Pearl",
+        "rarity": "1"
+    },
+    {
+        "name": "Goddess Seal",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Goddess_Seal",
+        "rarity": "1"
+    },
+    {
+        "name": "Growth Light",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Growth_Light",
+        "rarity": "1"
+    },
+    {
+        "name": "Hell's Edge",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Hell%27s_Edge",
+        "rarity": "1"
+    },
+    {
+        "name": "Holy Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Holy_Blade",
+        "rarity": "1"
+    },
+    {
+        "name": "Holy Cane",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Holy_Cane",
+        "rarity": "1"
+    },
+    {
+        "name": "Holy Robe",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Holy_Robe",
+        "rarity": "1"
+    },
+    {
+        "name": "Monster Robe",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Monster_Robe",
+        "rarity": "1"
+    },
+    {
+        "name": "Muramasa",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Muramasa",
+        "rarity": "1"
+    },
+    {
+        "name": "Numb Light",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Numb_Light",
+        "rarity": "1"
+    },
+    {
+        "name": "Poison Light",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Poison_Light",
+        "rarity": "1"
+    },
+    {
+        "name": "Poison Shiv",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Poison_Shiv",
+        "rarity": "1"
+    },
+    {
+        "name": "Royal Shield",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Royal_Shield",
+        "rarity": "1"
+    },
+    {
+        "name": "Sentry Cane",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sentry_Cane",
+        "rarity": "1"
+    },
+    {
+        "name": "Skill Bracer",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Skill_Bracer",
+        "rarity": "1"
+    },
+    {
+        "name": "Soul Bracer",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Soul_Bracer",
+        "rarity": "1"
+    },
+    {
+        "name": "Spirit Armor",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Spirit_Armor",
+        "rarity": "1"
+    },
+    {
+        "name": "Thunder Bow",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Thunder_Bow",
+        "rarity": "1"
+    },
+    {
+        "name": "Vine Lance",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Vine_Lance",
+        "rarity": "1"
+    },
+    {
+        "name": "White Cane",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/White_Cane",
+        "rarity": "1"
+    },
+    {
+        "name": "Wise Mask",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Wise_Mask",
+        "rarity": "1"
+    },
+    {
+        "name": "Zelnite Ring",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Zelnite_Ring",
+        "rarity": "1"
+    },
+    {
+        "name": "Alter Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Alter_Blade",
+        "rarity": "2"
+    },
+    {
+        "name": "Angelic Foil",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Angelic_Foil",
+        "rarity": "2"
+    },
+    {
+        "name": "Bahamut Rage",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Bahamut_Rage",
+        "rarity": "2"
+    },
+    {
+        "name": "Beast Bracer",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Beast_Bracer",
+        "rarity": "2"
+    },
+    {
+        "name": "Blight's Core",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Blight%27s_Core",
+        "rarity": "2"
+    },
+    {
+        "name": "Blood Scythe",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Blood_Scythe",
+        "rarity": "2"
+    },
+    {
+        "name": "Blue Dragon",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Blue_Dragon",
+        "rarity": "2"
+    },
+    {
+        "name": "Brave Crest",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Brave_Crest",
+        "rarity": "2"
+    },
+    {
+        "name": "Brave Emblem",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Brave_Emblem",
+        "rarity": "2"
+    },
+    {
+        "name": "Burny's Soul Stone",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Burny%27s_Soul_Stone",
+        "rarity": "2"
+    },
+    {
+        "name": "Charge Stone",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Charge_Stone",
+        "rarity": "2"
+    },
+    {
+        "name": "Cordelicite",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Cordelicite",
+        "rarity": "2"
+    },
+    {
+        "name": "Crown Light",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Crown_Light",
+        "rarity": "2"
+    },
+    {
+        "name": "Cure Gizmo 2",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Cure_Gizmo_2",
+        "rarity": "2"
+    },
+    {
+        "name": "Curse Shard",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Curse_Shard",
+        "rarity": "2"
+    },
+    {
+        "name": "Cursed Sword",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Cursed_Sword",
+        "rarity": "2"
+    },
+    {
+        "name": "Dark Mail",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Dark_Mail",
+        "rarity": "2"
+    },
+    {
+        "name": "Death Cannon",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Death_Cannon",
+        "rarity": "2"
+    },
+    {
+        "name": "Death Jewel",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Death_Jewel",
+        "rarity": "2"
+    },
+    {
+        "name": "Demon Lance",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Demon_Lance",
+        "rarity": "2"
+    },
+    {
+        "name": "Demon Robe",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Demon_Robe",
+        "rarity": "2"
+    },
+    {
+        "name": "Demon Shard",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Demon_Shard",
+        "rarity": "2"
+    },
+    {
+        "name": "Divine Gem",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Divine_Gem",
+        "rarity": "2"
+    },
+    {
+        "name": "Divine Sword",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Divine_Sword",
+        "rarity": "2"
+    },
+    {
+        "name": "Dogma Shield",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Dogma_Shield",
+        "rarity": "2"
+    },
+    {
+        "name": "Dragon Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Dragon_Blade",
+        "rarity": "2"
+    },
+    {
+        "name": "Dragon Ring",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Dragon_Ring",
+        "rarity": "2"
+    },
+    {
+        "name": "Earth Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Earth_Blade",
+        "rarity": "2"
+    },
+    {
+        "name": "Earth Mail",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Earth_Mail",
+        "rarity": "2"
+    },
+    {
+        "name": "Earth Shield",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Earth_Shield",
+        "rarity": "2"
+    },
+    {
+        "name": "Electric Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Electric_Blade",
+        "rarity": "2"
+    },
+    {
+        "name": "Electric Shield",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Electric_Shield",
+        "rarity": "2"
+    },
+    {
+        "name": "Ember Armor",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ember_Armor",
+        "rarity": "2"
+    },
+    {
+        "name": "Exyl Shield",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Exyl_Shield",
+        "rarity": "2"
+    },
+    {
+        "name": "Fire Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Fire_Blade",
+        "rarity": "2"
+    },
+    {
+        "name": "Fire Mail",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Fire_Mail",
+        "rarity": "2"
+    },
+    {
+        "name": "Fire Shield",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Fire_Shield",
+        "rarity": "2"
+    },
+    {
+        "name": "Flesh Armor",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Flesh_Armor",
+        "rarity": "2"
+    },
+    {
+        "name": "Force Amulet",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Force_Amulet",
+        "rarity": "2"
+    },
+    {
+        "name": "Glass Crown",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Glass_Crown",
+        "rarity": "2"
+    },
+    {
+        "name": "God Armor",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/God_Armor",
+        "rarity": "2"
+    },
+    {
+        "name": "God Sword",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/God_Sword",
+        "rarity": "2"
+    },
+    {
+        "name": "Godly Staff",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Godly_Staff",
+        "rarity": "2"
+    },
+    {
+        "name": "Harbinger's Core",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Harbinger%27s_Core",
+        "rarity": "2"
+    },
+    {
+        "name": "Hero Stone",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Hero_Stone",
+        "rarity": "2"
+    },
+    {
+        "name": "Hope Stone",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Hope_Stone",
+        "rarity": "2"
+    },
+    {
+        "name": "Ill Shard",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ill_Shard",
+        "rarity": "2"
+    },
+    {
+        "name": "Inferno Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Inferno_Blade",
+        "rarity": "2"
+    },
+    {
+        "name": "Inferno Shield",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Inferno_Shield",
+        "rarity": "2"
+    },
+    {
+        "name": "King Shield",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/King_Shield",
+        "rarity": "2"
+    },
+    {
+        "name": "Life Shield",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Life_Shield",
+        "rarity": "2"
+    },
+    {
+        "name": "Light Helm",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Light_Helm",
+        "rarity": "2"
+    },
+    {
+        "name": "Light Mail",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Light_Mail",
+        "rarity": "2"
+    },
+    {
+        "name": "Lightning Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Lightning_Blade",
+        "rarity": "2"
+    },
+    {
+        "name": "Lightning Shield",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Lightning_Shield",
+        "rarity": "2"
+    },
+    {
+        "name": "Limbo Stone",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Limbo_Stone",
+        "rarity": "2"
+    },
+    {
+        "name": "Lizeria Gem",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Lizeria_Gem",
+        "rarity": "2"
+    },
+    {
+        "name": "Magical Axe",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Magical_Axe",
+        "rarity": "2"
+    },
+    {
+        "name": "Mech Sword",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Mech_Sword",
+        "rarity": "2"
+    },
+    {
+        "name": "Miroku Pearl",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Miroku_Pearl",
+        "rarity": "2"
+    },
+    {
+        "name": "Ogre Lance",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ogre_Lance",
+        "rarity": "2"
+    },
+    {
+        "name": "Old Dagger",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Old_Dagger",
+        "rarity": "2"
+    },
+    {
+        "name": "Order Staff",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Order_Staff",
+        "rarity": "2"
+    },
+    {
+        "name": "Phantom Pike",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Phantom_Pike",
+        "rarity": "2"
+    },
+    {
+        "name": "Phoenix Eye",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Phoenix_Eye",
+        "rarity": "2"
+    },
+    {
+        "name": "Pure Crystal",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Pure_Crystal",
+        "rarity": "2"
+    },
+    {
+        "name": "Royal Bud",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Royal_Bud",
+        "rarity": "2"
+    },
+    {
+        "name": "Royal Crest",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Royal_Crest",
+        "rarity": "2"
+    },
+    {
+        "name": "Royal Light",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Royal_Light",
+        "rarity": "2"
+    },
+    {
+        "name": "Shiny Armor",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Shiny_Armor",
+        "rarity": "2"
+    },
+    {
+        "name": "Silver Aegis",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Silver_Aegis",
+        "rarity": "2"
+    },
+    {
+        "name": "Sky Staff",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sky_Staff",
+        "rarity": "2"
+    },
+    {
+        "name": "Soul Gun",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Soul_Gun",
+        "rarity": "2"
+    },
+    {
+        "name": "Star Shield",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Star_Shield",
+        "rarity": "2"
+    },
+    {
+        "name": "Starry Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Starry_Blade",
+        "rarity": "2"
+    },
+    {
+        "name": "Stupor Shard",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Stupor_Shard",
+        "rarity": "2"
+    },
+    {
+        "name": "Tech Gizmo 2",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Tech_Gizmo_2",
+        "rarity": "2"
+    },
+    {
+        "name": "Terra Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Terra_Blade",
+        "rarity": "2"
+    },
+    {
+        "name": "Terra Shield",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Terra_Shield",
+        "rarity": "2"
+    },
+    {
+        "name": "Thief Bracer",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Thief_Bracer",
+        "rarity": "2"
+    },
+    {
+        "name": "Thunder Mail",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Thunder_Mail",
+        "rarity": "2"
+    },
+    {
+        "name": "Tidal Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Tidal_Blade",
+        "rarity": "2"
+    },
+    {
+        "name": "Tidal Shield",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Tidal_Shield",
+        "rarity": "2"
+    },
+    {
+        "name": "Tree Shield",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Tree_Shield",
+        "rarity": "2"
+    },
+    {
+        "name": "Vampire Spear",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Vampire_Spear",
+        "rarity": "2"
+    },
+    {
+        "name": "Venom Knives",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Venom_Knives",
+        "rarity": "2"
+    },
+    {
+        "name": "Venom Shard",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Venom_Shard",
+        "rarity": "2"
+    },
+    {
+        "name": "Water Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Water_Blade",
+        "rarity": "2"
+    },
+    {
+        "name": "Water Mail",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Water_Mail",
+        "rarity": "2"
+    },
+    {
+        "name": "Water Shield",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Water_Shield",
+        "rarity": "2"
+    },
+    {
+        "name": "Weak Shard",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Weak_Shard",
+        "rarity": "2"
+    },
+    {
+        "name": "Weary Shard",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Weary_Shard",
+        "rarity": "2"
+    },
+    {
+        "name": "Weaver's Core",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Weaver%27s_Core",
+        "rarity": "2"
+    },
+    {
+        "name": "White Bangle",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/White_Bangle",
+        "rarity": "2"
+    },
+    {
+        "name": "Zel Ring",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Zel_Ring",
+        "rarity": "2"
+    },
+    {
+        "name": "Zeus's Bow",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Zeus%27s_Bow",
+        "rarity": "2"
+    },
+    {
+        "name": "Alpha Shield",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Alpha_Shield",
+        "rarity": "3"
+    },
+    {
+        "name": "Amanohabaken",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Amanohabaken",
+        "rarity": "3"
+    },
+    {
+        "name": "Angel Sword",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Angel_Sword",
+        "rarity": "3"
+    },
+    {
+        "name": "Auspicious Lion Charm",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Auspicious_Lion_Charm",
+        "rarity": "3"
+    },
+    {
+        "name": "AX Sphere",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/AX_Sphere",
+        "rarity": "3"
+    },
+    {
+        "name": "Bandit Ring",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Bandit_Ring",
+        "rarity": "3"
+    },
+    {
+        "name": "Bariura Gem",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Bariura_Gem",
+        "rarity": "3"
+    },
+    {
+        "name": "Blight's Affliction",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Blight%27s_Affliction",
+        "rarity": "3"
+    },
+    {
+        "name": "Blight's Curse",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Blight%27s_Curse",
+        "rarity": "3"
+    },
+    {
+        "name": "Blight's Ire",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Blight%27s_Ire",
+        "rarity": "3"
+    },
+    {
+        "name": "Bolt Bow",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Bolt_Bow",
+        "rarity": "3"
+    },
+    {
+        "name": "Bright Shard",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Bright_Shard",
+        "rarity": "3"
+    },
+    {
+        "name": "Carnage Edge",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Carnage_Edge",
+        "rarity": "3"
+    },
+    {
+        "name": "Chosen Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Chosen_Blade",
+        "rarity": "3"
+    },
+    {
+        "name": "Comet Helmet",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Comet_Helmet",
+        "rarity": "3"
+    },
+    {
+        "name": "Cosmos Armor",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Cosmos_Armor",
+        "rarity": "3"
+    },
+    {
+        "name": "Crystalline Egg",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Crystalline_Egg",
+        "rarity": "3"
+    },
+    {
+        "name": "Cursed Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Cursed_Blade",
+        "rarity": "3"
+    },
+    {
+        "name": "Dark Armor",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Dark_Armor",
+        "rarity": "3"
+    },
+    {
+        "name": "Dark Lance",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Dark_Lance",
+        "rarity": "3"
+    },
+    {
+        "name": "Dark Spear",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Dark_Spear",
+        "rarity": "3"
+    },
+    {
+        "name": "Death Axe",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Death_Axe",
+        "rarity": "3"
+    },
+    {
+        "name": "Demon Dress",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Demon_Dress",
+        "rarity": "3"
+    },
+    {
+        "name": "Demon Flag",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Demon_Flag",
+        "rarity": "3"
+    },
+    {
+        "name": "Demon Gun",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Demon_Gun",
+        "rarity": "3"
+    },
+    {
+        "name": "Demon Shield",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Demon_Shield",
+        "rarity": "3"
+    },
+    {
+        "name": "Divine Jewel",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Divine_Jewel",
+        "rarity": "3"
+    },
+    {
+        "name": "Divine Stone",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Divine_Stone",
+        "rarity": "3"
+    },
+    {
+        "name": "Dragon Sword",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Dragon_Sword",
+        "rarity": "3"
+    },
+    {
+        "name": "Emerald Pike",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Emerald_Pike",
+        "rarity": "3"
+    },
+    {
+        "name": "Eremorn's Aegis",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Eremorn%27s_Aegis",
+        "rarity": "3"
+    },
+    {
+        "name": "Evil Halberd",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Evil_Halberd",
+        "rarity": "3"
+    },
+    {
+        "name": "Evil Shard",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Evil_Shard",
+        "rarity": "3"
+    },
+    {
+        "name": "Evil Shield",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Evil_Shield",
+        "rarity": "3"
+    },
+    {
+        "name": "Fairy Robe",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Fairy_Robe",
+        "rarity": "3"
+    },
+    {
+        "name": "Fiend Fang",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Fiend_Fang",
+        "rarity": "3"
+    },
+    {
+        "name": "Frozen Myth",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Frozen_Myth",
+        "rarity": "3"
+    },
+    {
+        "name": "Giant Stone",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Giant_Stone",
+        "rarity": "3"
+    },
+    {
+        "name": "Glacies Staff",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Glacies_Staff",
+        "rarity": "3"
+    },
+    {
+        "name": "Goddess Flag",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Goddess_Flag",
+        "rarity": "3"
+    },
+    {
+        "name": "Godly Statue",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Godly_Statue",
+        "rarity": "3"
+    },
+    {
+        "name": "Gold Bangle",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Gold_Bangle",
+        "rarity": "3"
+    },
+    {
+        "name": "Grand Shield",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Grand_Shield",
+        "rarity": "3"
+    },
+    {
+        "name": "Hades Lance",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Hades_Lance",
+        "rarity": "3"
+    },
+    {
+        "name": "Hallowed Skull",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Hallowed_Skull",
+        "rarity": "3"
+    },
+    {
+        "name": "Harbinger's Ardor",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Harbinger%27s_Ardor",
+        "rarity": "3"
+    },
+    {
+        "name": "Harbinger's Spite",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Harbinger%27s_Spite",
+        "rarity": "3"
+    },
+    {
+        "name": "Harbinger's Thirst",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Harbinger%27s_Thirst",
+        "rarity": "3"
+    },
+    {
+        "name": "Havoc Axe",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Havoc_Axe",
+        "rarity": "3"
+    },
+    {
+        "name": "Health Charm",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Health_Charm",
+        "rarity": "3"
+    },
+    {
+        "name": "Holy Crown",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Holy_Crown",
+        "rarity": "3"
+    },
+    {
+        "name": "Life Jewel",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Life_Jewel",
+        "rarity": "3"
+    },
+    {
+        "name": "Luna Creator",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Luna_Creator",
+        "rarity": "3"
+    },
+    {
+        "name": "Masamune",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Masamune",
+        "rarity": "3"
+    },
+    {
+        "name": "Medulla Gem",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Medulla_Gem",
+        "rarity": "3"
+    },
+    {
+        "name": "Mira's Holy Relic",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Mira%27s_Holy_Relic",
+        "rarity": "3"
+    },
+    {
+        "name": "Mock Crystal",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Mock_Crystal",
+        "rarity": "3"
+    },
+    {
+        "name": "Most Bravest Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Most_Bravest_Blade",
+        "rarity": "3"
+    },
+    {
+        "name": "Mystic Lantern",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Mystic_Lantern",
+        "rarity": "3"
+    },
+    {
+        "name": "Nature Staff",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Nature_Staff",
+        "rarity": "3"
+    },
+    {
+        "name": "Nectar Wine",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Nectar_Wine",
+        "rarity": "3"
+    },
+    {
+        "name": "Nyami's Bells",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Nyami%27s_Bells",
+        "rarity": "3"
+    },
+    {
+        "name": "Odd Armor",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Odd_Armor",
+        "rarity": "3"
+    },
+    {
+        "name": "Omni Gizmo",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Omni_Gizmo",
+        "rarity": "3"
+    },
+    {
+        "name": "Phoenix Gaze",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Phoenix_Gaze",
+        "rarity": "3"
+    },
+    {
+        "name": "Prized Cloth",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Prized_Cloth",
+        "rarity": "3"
+    },
+    {
+        "name": "Providence Ring",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Providence_Ring",
+        "rarity": "3"
+    },
+    {
+        "name": "Raven Plume",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Raven_Plume",
+        "rarity": "3"
+    },
+    {
+        "name": "Ritus Staff",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ritus_Staff",
+        "rarity": "3"
+    },
+    {
+        "name": "Royal Aegis",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Royal_Aegis",
+        "rarity": "3"
+    },
+    {
+        "name": "Royal Shard",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Royal_Shard",
+        "rarity": "3"
+    },
+    {
+        "name": "Ruler Shield",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ruler_Shield",
+        "rarity": "3"
+    },
+    {
+        "name": "Ruler Staff",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ruler_Staff",
+        "rarity": "3"
+    },
+    {
+        "name": "Sacred Jewel",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sacred_Jewel",
+        "rarity": "3"
+    },
+    {
+        "name": "Sacred Snowglobe",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sacred_Snowglobe",
+        "rarity": "3"
+    },
+    {
+        "name": "Seal Sword",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Seal_Sword",
+        "rarity": "3"
+    },
+    {
+        "name": "Shamrock Circlet",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Shamrock_Circlet",
+        "rarity": "3"
+    },
+    {
+        "name": "Sinister Orb",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sinister_Orb",
+        "rarity": "3"
+    },
+    {
+        "name": "Sky Shield",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sky_Shield",
+        "rarity": "3"
+    },
+    {
+        "name": "Sol Creator",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sol_Creator",
+        "rarity": "3"
+    },
+    {
+        "name": "Song Jewel",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Song_Jewel",
+        "rarity": "3"
+    },
+    {
+        "name": "Soul Spear",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Soul_Spear",
+        "rarity": "3"
+    },
+    {
+        "name": "Sparkle Edge",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sparkle_Edge",
+        "rarity": "3"
+    },
+    {
+        "name": "Star Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Star_Blade",
+        "rarity": "3"
+    },
+    {
+        "name": "Star Helm",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Star_Helm",
+        "rarity": "3"
+    },
+    {
+        "name": "Star Talisman",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Star_Talisman",
+        "rarity": "3"
+    },
+    {
+        "name": "Stealth Robe",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Stealth_Robe",
+        "rarity": "3"
+    },
+    {
+        "name": "Steeple Rose",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Steeple_Rose",
+        "rarity": "3"
+    },
+    {
+        "name": "Summoner Hat",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Summoner_Hat",
+        "rarity": "3"
+    },
+    {
+        "name": "Tactical Treatise",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Tactical_Treatise",
+        "rarity": "3"
+    },
+    {
+        "name": "The Grail",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/The_Grail",
+        "rarity": "3"
+    },
+    {
+        "name": "Thief Gloves",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Thief_Gloves",
+        "rarity": "3"
+    },
+    {
+        "name": "Thief Guards",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Thief_Guards",
+        "rarity": "3"
+    },
+    {
+        "name": "Venom Flower",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Venom_Flower",
+        "rarity": "3"
+    },
+    {
+        "name": "Vorpal Chainblades",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Vorpal_Chainblades",
+        "rarity": "3"
+    },
+    {
+        "name": "Vulcan Axe",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Vulcan_Axe",
+        "rarity": "3"
+    },
+    {
+        "name": "Weaver's Conceit",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Weaver%27s_Conceit",
+        "rarity": "3"
+    },
+    {
+        "name": "Weaver's Deceit",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Weaver%27s_Deceit",
+        "rarity": "3"
+    },
+    {
+        "name": "Weaver's Poise",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Weaver%27s_Poise",
+        "rarity": "3"
+    },
+    {
+        "name": "Weaver's Pride",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Weaver%27s_Pride",
+        "rarity": "3"
+    },
+    {
+        "name": "Wolven Shroud",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Wolven_Shroud",
+        "rarity": "3"
+    },
+    {
+        "name": "World Lance",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/World_Lance",
+        "rarity": "3"
+    },
+    {
+        "name": "Worship Cane",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Worship_Cane",
+        "rarity": "3"
+    },
+    {
+        "name": "Wyvern Studs",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Wyvern_Studs",
+        "rarity": "3"
+    },
+    {
+        "name": "Zombie Jabot",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Zombie_Jabot",
+        "rarity": "3"
+    },
+    {
+        "name": "Aegis Cloak",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Aegis_Cloak",
+        "rarity": "4"
+    },
+    {
+        "name": "Alzeon Pearl",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Alzeon_Pearl",
+        "rarity": "4"
+    },
+    {
+        "name": "Barbatos's Ring",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Barbatos%27s_Ring",
+        "rarity": "4"
+    },
+    {
+        "name": "Baron's Shield",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Baron%27s_Shield",
+        "rarity": "4"
+    },
+    {
+        "name": "Beiorg Gem",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Beiorg_Gem",
+        "rarity": "4"
+    },
+    {
+        "name": "Blaze Lance",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Blaze_Lance",
+        "rarity": "4"
+    },
+    {
+        "name": "Blessed Robe",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Blessed_Robe",
+        "rarity": "4"
+    },
+    {
+        "name": "Blight's Oppression",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Blight%27s_Oppression",
+        "rarity": "4"
+    },
+    {
+        "name": "Blight's Rage",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Blight%27s_Rage",
+        "rarity": "4"
+    },
+    {
+        "name": "Blight's Scourge",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Blight%27s_Scourge",
+        "rarity": "4"
+    },
+    {
+        "name": "Bow of Fervor",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Bow_of_Fervor",
+        "rarity": "4"
+    },
+    {
+        "name": "Celgrad Gem",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Celgrad_Gem",
+        "rarity": "4"
+    },
+    {
+        "name": "Chrome Steerwheel",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Chrome_Steerwheel",
+        "rarity": "4"
+    },
+    {
+        "name": "Chronicle Staff",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Chronicle_Staff",
+        "rarity": "4"
+    },
+    {
+        "name": "Cloak of Lies",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Cloak_of_Lies",
+        "rarity": "4"
+    },
+    {
+        "name": "Colorful Oval",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Colorful_Oval",
+        "rarity": "4"
+    },
+    {
+        "name": "Communicator",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Communicator",
+        "rarity": "4"
+    },
+    {
+        "name": "Conqueror Bow",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Conqueror_Bow",
+        "rarity": "4"
+    },
+    {
+        "name": "Courage Buckler",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Courage_Buckler",
+        "rarity": "4"
+    },
+    {
+        "name": "Crescent of Khons",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Crescent_of_Khons",
+        "rarity": "4"
+    },
+    {
+        "name": "Crystallized Tear",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Crystallized_Tear",
+        "rarity": "4"
+    },
+    {
+        "name": "Dehn's Edge",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Dehn%27s_Edge",
+        "rarity": "4"
+    },
+    {
+        "name": "Demon Bow",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Demon_Bow",
+        "rarity": "4"
+    },
+    {
+        "name": "Demon Crown",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Demon_Crown",
+        "rarity": "4"
+    },
+    {
+        "name": "Demonic Skull",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Demonic_Skull",
+        "rarity": "4"
+    },
+    {
+        "name": "Devil Shield",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Devil_Shield",
+        "rarity": "4"
+    },
+    {
+        "name": "Diabolic Fang",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Diabolic_Fang",
+        "rarity": "4"
+    },
+    {
+        "name": "Divine Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Divine_Blade",
+        "rarity": "4"
+    },
+    {
+        "name": "Divine Spear",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Divine_Spear",
+        "rarity": "4"
+    },
+    {
+        "name": "Dragon Stud",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Dragon_Stud",
+        "rarity": "4"
+    },
+    {
+        "name": "Dragon Studs",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Dragon_Studs",
+        "rarity": "4"
+    },
+    {
+        "name": "Drain Spear",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Drain_Spear",
+        "rarity": "4"
+    },
+    {
+        "name": "Estria Gem",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Estria_Gem",
+        "rarity": "4"
+    },
+    {
+        "name": "Euphoric Illusion",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Euphoric_Illusion",
+        "rarity": "4"
+    },
+    {
+        "name": "Fairy Luck",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Fairy_Luck",
+        "rarity": "4"
+    },
+    {
+        "name": "Fake Stone",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Fake_Stone",
+        "rarity": "4"
+    },
+    {
+        "name": "Fal Nerga Gem",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Fal_Nerga_Gem",
+        "rarity": "4"
+    },
+    {
+        "name": "Forest Orb",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Forest_Orb",
+        "rarity": "4"
+    },
+    {
+        "name": "Fortune Cap",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Fortune_Cap",
+        "rarity": "4"
+    },
+    {
+        "name": "Geldnite Axe",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Geldnite_Axe",
+        "rarity": "4"
+    },
+    {
+        "name": "Golden Lion Regalia",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Golden_Lion_Regalia",
+        "rarity": "4"
+    },
+    {
+        "name": "Gray Gauntlet",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Gray_Gauntlet",
+        "rarity": "4"
+    },
+    {
+        "name": "Guard Brace",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Guard_Brace",
+        "rarity": "4"
+    },
+    {
+        "name": "Guardian Cloak",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Guardian_Cloak",
+        "rarity": "4"
+    },
+    {
+        "name": "Hallow Sword",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Hallow_Sword",
+        "rarity": "4"
+    },
+    {
+        "name": "Harbinger's Cruelty",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Harbinger%27s_Cruelty",
+        "rarity": "4"
+    },
+    {
+        "name": "Harbinger's Desire",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Harbinger%27s_Desire",
+        "rarity": "4"
+    },
+    {
+        "name": "Harbinger's Greed",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Harbinger%27s_Greed",
+        "rarity": "4"
+    },
+    {
+        "name": "Havoc Pike",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Havoc_Pike",
+        "rarity": "4"
+    },
+    {
+        "name": "Heavenly Bud",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Heavenly_Bud",
+        "rarity": "4"
+    },
+    {
+        "name": "Ice Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ice_Blade",
+        "rarity": "4"
+    },
+    {
+        "name": "Ice Dragon Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ice_Dragon_Blade",
+        "rarity": "4"
+    },
+    {
+        "name": "Ihsir's Guise",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ihsir%27s_Guise",
+        "rarity": "4"
+    },
+    {
+        "name": "Jeu'vrr's Breath",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Jeu%27vrr%27s_Breath",
+        "rarity": "4"
+    },
+    {
+        "name": "Jeu'vrr's Heart",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Jeu%27vrr%27s_Heart",
+        "rarity": "4"
+    },
+    {
+        "name": "Justice Axe",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Justice_Axe",
+        "rarity": "4"
+    },
+    {
+        "name": "Ka-rzn's Coils",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ka-rzn%27s_Coils",
+        "rarity": "4"
+    },
+    {
+        "name": "Ke'hret's Paw",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ke%27hret%27s_Paw",
+        "rarity": "4"
+    },
+    {
+        "name": "King's Crown",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/King%27s_Crown",
+        "rarity": "4"
+    },
+    {
+        "name": "Kiyomasa",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Kiyomasa",
+        "rarity": "4"
+    },
+    {
+        "name": "Lament Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Lament_Blade",
+        "rarity": "4"
+    },
+    {
+        "name": "Legwand Gem",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Legwand_Gem",
+        "rarity": "4"
+    },
+    {
+        "name": "Lem Gem",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Lem_Gem",
+        "rarity": "4"
+    },
+    {
+        "name": "Lunar Orb",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Lunar_Orb",
+        "rarity": "4"
+    },
+    {
+        "name": "Magic Ore",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Magic_Ore",
+        "rarity": "4"
+    },
+    {
+        "name": "Malice Jewel",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Malice_Jewel",
+        "rarity": "4"
+    },
+    {
+        "name": "Menon Gem",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Menon_Gem",
+        "rarity": "4"
+    },
+    {
+        "name": "Miss Confire",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Miss_Confire",
+        "rarity": "4"
+    },
+    {
+        "name": "Nhe'hed's Blessing",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Nhe%27hed%27s_Blessing",
+        "rarity": "4"
+    },
+    {
+        "name": "Ominous Orb",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ominous_Orb",
+        "rarity": "4"
+    },
+    {
+        "name": "Origin Slate",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Origin_Slate",
+        "rarity": "4"
+    },
+    {
+        "name": "Orochi's Mark",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Orochi%27s_Mark",
+        "rarity": "4"
+    },
+    {
+        "name": "Paskuan Enhancer",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Paskuan_Enhancer",
+        "rarity": "4"
+    },
+    {
+        "name": "Phoenix Wing",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Phoenix_Wing",
+        "rarity": "4"
+    },
+    {
+        "name": "Pyre Orb",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Pyre_Orb",
+        "rarity": "4"
+    },
+    {
+        "name": "Ragna Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ragna_Blade",
+        "rarity": "4"
+    },
+    {
+        "name": "Rainbow Carrot",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Rainbow_Carrot",
+        "rarity": "4"
+    },
+    {
+        "name": "Rakshult Gem",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Rakshult_Gem",
+        "rarity": "4"
+    },
+    {
+        "name": "Refined Gem",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Refined_Gem",
+        "rarity": "4"
+    },
+    {
+        "name": "Ruin Lance",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ruin_Lance",
+        "rarity": "4"
+    },
+    {
+        "name": "Sacred Treasure",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sacred_Treasure",
+        "rarity": "4"
+    },
+    {
+        "name": "Samurai Gauntlet",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Samurai_Gauntlet",
+        "rarity": "4"
+    },
+    {
+        "name": "Sereine",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sereine",
+        "rarity": "4"
+    },
+    {
+        "name": "Serpent Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Serpent_Blade",
+        "rarity": "4"
+    },
+    {
+        "name": "Shiny Anklet",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Shiny_Anklet",
+        "rarity": "4"
+    },
+    {
+        "name": "Shiny Bauble",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Shiny_Bauble",
+        "rarity": "4"
+    },
+    {
+        "name": "Sky Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sky_Blade",
+        "rarity": "4"
+    },
+    {
+        "name": "Sky Buckler",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sky_Buckler",
+        "rarity": "4"
+    },
+    {
+        "name": "Solar Orb",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Solar_Orb",
+        "rarity": "4"
+    },
+    {
+        "name": "Storm Orb",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Storm_Orb",
+        "rarity": "4"
+    },
+    {
+        "name": "Swordian Atwight",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Swordian_Atwight",
+        "rarity": "4"
+    },
+    {
+        "name": "Swordian Dymlos",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Swordian_Dymlos",
+        "rarity": "4"
+    },
+    {
+        "name": "Thief Cloak",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Thief_Cloak",
+        "rarity": "4"
+    },
+    {
+        "name": "Thorn Crown",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Thorn_Crown",
+        "rarity": "4"
+    },
+    {
+        "name": "Tide Orb",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Tide_Orb",
+        "rarity": "4"
+    },
+    {
+        "name": "True Ore",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/True_Ore",
+        "rarity": "4"
+    },
+    {
+        "name": "Ultima Weapon",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ultima_Weapon",
+        "rarity": "4"
+    },
+    {
+        "name": "Violet Pearl",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Violet_Pearl",
+        "rarity": "4"
+    },
+    {
+        "name": "Virtue Stone",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Virtue_Stone",
+        "rarity": "4"
+    },
+    {
+        "name": "Weaver's Guile",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Weaver%27s_Guile",
+        "rarity": "4"
+    },
+    {
+        "name": "Weaver's Wisdom",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Weaver%27s_Wisdom",
+        "rarity": "4"
+    },
+    {
+        "name": "White Vestments",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/White_Vestments",
+        "rarity": "4"
+    },
+    {
+        "name": "Wicked Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Wicked_Blade",
+        "rarity": "4"
+    },
+    {
+        "name": "Wulgee Gem",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Wulgee_Gem",
+        "rarity": "4"
+    },
+    {
+        "name": "Xentar",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Xentar",
+        "rarity": "4"
+    },
+    {
+        "name": "Zamburg Gem",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Zamburg_Gem",
+        "rarity": "4"
+    },
+    {
+        "name": "アーサーの鎧",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E3%82%A2%E3%83%BC%E3%82%B5%E3%83%BC%E3%81%AE%E9%8E%A7",
+        "rarity": "4"
+    },
+    {
+        "name": "ジークフリード",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E3%82%B8%E3%83%BC%E3%82%AF%E3%83%95%E3%83%AA%E3%83%BC%E3%83%89",
+        "rarity": "4"
+    },
+    {
+        "name": "スマッシュ＆マジック",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%EF%BC%86%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF",
+        "rarity": "4"
+    },
+    {
+        "name": "バルムンク",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E3%83%90%E3%83%AB%E3%83%A0%E3%83%B3%E3%82%AF",
+        "rarity": "4"
+    },
+    {
+        "name": "剛力の鉄槌",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E5%89%9B%E5%8A%9B%E3%81%AE%E9%89%84%E6%A7%8C",
+        "rarity": "4"
+    },
+    {
+        "name": "天地無双剣",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E5%A4%A9%E5%9C%B0%E7%84%A1%E5%8F%8C%E5%89%A3",
+        "rarity": "4"
+    },
+    {
+        "name": "妖剣ダーインスレイヴ",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E5%A6%96%E5%89%A3%E3%83%80%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%B4",
+        "rarity": "4"
+    },
+    {
+        "name": "盤古の龍骸",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E7%9B%A4%E5%8F%A4%E3%81%AE%E9%BE%8D%E9%AA%B8",
+        "rarity": "4"
+    },
+    {
+        "name": "聖天杖レラスティマ",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E8%81%96%E5%A4%A9%E6%9D%96%E3%83%AC%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%9E",
+        "rarity": "4"
+    },
+    {
+        "name": "英宝サウザンドメモリーズ",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E8%8B%B1%E5%AE%9D%E3%82%B5%E3%82%A6%E3%82%B6%E3%83%B3%E3%83%89%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA",
+        "rarity": "4"
+    },
+    {
+        "name": "Adaptation Jewel",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Adaptation_Jewel",
+        "rarity": "5"
+    },
+    {
+        "name": "Arondight",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Arondight",
+        "rarity": "5"
+    },
+    {
+        "name": "Astral Robe",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Astral_Robe",
+        "rarity": "5"
+    },
+    {
+        "name": "Blight's Misfortune",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Blight%27s_Misfortune",
+        "rarity": "5"
+    },
+    {
+        "name": "Blight's Torment",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Blight%27s_Torment",
+        "rarity": "5"
+    },
+    {
+        "name": "Blight's Wrath",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Blight%27s_Wrath",
+        "rarity": "5"
+    },
+    {
+        "name": "Blighted Seal",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Blighted_Seal",
+        "rarity": "5"
+    },
+    {
+        "name": "Bow of Devotion",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Bow_of_Devotion",
+        "rarity": "5"
+    },
+    {
+        "name": "Buccaneer Banner",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Buccaneer_Banner",
+        "rarity": "5"
+    },
+    {
+        "name": "Buffer Jewel",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Buffer_Jewel",
+        "rarity": "5"
+    },
+    {
+        "name": "Caliburn",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Caliburn",
+        "rarity": "5"
+    },
+    {
+        "name": "Cosmic Dust",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Cosmic_Dust",
+        "rarity": "5"
+    },
+    {
+        "name": "Courage Shield",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Courage_Shield",
+        "rarity": "5"
+    },
+    {
+        "name": "Cured Glass",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Cured_Glass",
+        "rarity": "5"
+    },
+    {
+        "name": "Dehn's Bladesong",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Dehn%27s_Bladesong",
+        "rarity": "5"
+    },
+    {
+        "name": "Demon Heart",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Demon_Heart",
+        "rarity": "5"
+    },
+    {
+        "name": "Demon Sickle",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Demon_Sickle",
+        "rarity": "5"
+    },
+    {
+        "name": "DL-44",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/DL-44",
+        "rarity": "5"
+    },
+    {
+        "name": "Dragon Edge",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Dragon_Edge",
+        "rarity": "5"
+    },
+    {
+        "name": "Elder Hat",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Elder_Hat",
+        "rarity": "5"
+    },
+    {
+        "name": "Emperor Axe",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Emperor_Axe",
+        "rarity": "5"
+    },
+    {
+        "name": "Empyrean Gem",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Empyrean_Gem",
+        "rarity": "5"
+    },
+    {
+        "name": "Excelsior Chip MK-1",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Excelsior_Chip_MK-1",
+        "rarity": "5"
+    },
+    {
+        "name": "Existence Jewel",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Existence_Jewel",
+        "rarity": "5"
+    },
+    {
+        "name": "Fairy Fortune",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Fairy_Fortune",
+        "rarity": "5"
+    },
+    {
+        "name": "Flag Flower",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Flag_Flower",
+        "rarity": "5"
+    },
+    {
+        "name": "Flower Stud",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Flower_Stud",
+        "rarity": "5"
+    },
+    {
+        "name": "Forestseed Orb",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Forestseed_Orb",
+        "rarity": "5"
+    },
+    {
+        "name": "Fortunate Phoenix Crest",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Fortunate_Phoenix_Crest",
+        "rarity": "5"
+    },
+    {
+        "name": "Frozen Fantasy",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Frozen_Fantasy",
+        "rarity": "5"
+    },
+    {
+        "name": "Fury Core",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Fury_Core",
+        "rarity": "5"
+    },
+    {
+        "name": "Geared Steerwheel",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Geared_Steerwheel",
+        "rarity": "5"
+    },
+    {
+        "name": "Godly Flower",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Godly_Flower",
+        "rarity": "5"
+    },
+    {
+        "name": "Grudge Bow",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Grudge_Bow",
+        "rarity": "5"
+    },
+    {
+        "name": "Harbinger's Avarice",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Harbinger%27s_Avarice",
+        "rarity": "5"
+    },
+    {
+        "name": "Harbinger's Lust",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Harbinger%27s_Lust",
+        "rarity": "5"
+    },
+    {
+        "name": "Harbinger's Malice",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Harbinger%27s_Malice",
+        "rarity": "5"
+    },
+    {
+        "name": "Harmony of Khons",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Harmony_of_Khons",
+        "rarity": "5"
+    },
+    {
+        "name": "Humble Egg Goo",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Humble_Egg_Goo",
+        "rarity": "5"
+    },
+    {
+        "name": "Illusion Gizmo",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Illusion_Gizmo",
+        "rarity": "5"
+    },
+    {
+        "name": "Jeu'vrr's Battleheart",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Jeu%27vrr%27s_Battleheart",
+        "rarity": "5"
+    },
+    {
+        "name": "Jeu'vrr's Oration",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Jeu%27vrr%27s_Oration",
+        "rarity": "5"
+    },
+    {
+        "name": "Ka-rzn's Coilwhip",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ka-rzn%27s_Coilwhip",
+        "rarity": "5"
+    },
+    {
+        "name": "Ke'hret's Disintegration",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ke%27hret%27s_Disintegration",
+        "rarity": "5"
+    },
+    {
+        "name": "Lens Shield",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Lens_Shield",
+        "rarity": "5"
+    },
+    {
+        "name": "Lop Blessing",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Lop_Blessing",
+        "rarity": "5"
+    },
+    {
+        "name": "Lovely Earrings",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Lovely_Earrings",
+        "rarity": "5"
+    },
+    {
+        "name": "Luna Laguliz",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Luna_Laguliz",
+        "rarity": "5"
+    },
+    {
+        "name": "Lunarshadow Orb",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Lunarshadow_Orb",
+        "rarity": "5"
+    },
+    {
+        "name": "May's Pirate Tricorn",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/May%27s_Pirate_Tricorn",
+        "rarity": "5"
+    },
+    {
+        "name": "Mem Cache",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Mem_Cache",
+        "rarity": "5"
+    },
+    {
+        "name": "Miss Travailler",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Miss_Travailler",
+        "rarity": "5"
+    },
+    {
+        "name": "Nhe'hed's Wish",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Nhe%27hed%27s_Wish",
+        "rarity": "5"
+    },
+    {
+        "name": "Occult Treasure",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Occult_Treasure",
+        "rarity": "5"
+    },
+    {
+        "name": "Orochi's Symbol",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Orochi%27s_Symbol",
+        "rarity": "5"
+    },
+    {
+        "name": "Patriot",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Patriot",
+        "rarity": "5"
+    },
+    {
+        "name": "Patterned Egg",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Patterned_Egg",
+        "rarity": "5"
+    },
+    {
+        "name": "Perseverance Jewel",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Perseverance_Jewel",
+        "rarity": "5"
+    },
+    {
+        "name": "Phoenix Crown",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Phoenix_Crown",
+        "rarity": "5"
+    },
+    {
+        "name": "Phoenix Orb",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Phoenix_Orb",
+        "rarity": "5"
+    },
+    {
+        "name": "Photon Sword",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Photon_Sword",
+        "rarity": "5"
+    },
+    {
+        "name": "Piany Flower",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Piany_Flower",
+        "rarity": "5"
+    },
+    {
+        "name": "Potent Stone",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Potent_Stone",
+        "rarity": "5"
+    },
+    {
+        "name": "Power Armor",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Power_Armor",
+        "rarity": "5"
+    },
+    {
+        "name": "Prized Light",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Prized_Light",
+        "rarity": "5"
+    },
+    {
+        "name": "Prized Mercy",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Prized_Mercy",
+        "rarity": "5"
+    },
+    {
+        "name": "Pyrespark Orb",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Pyrespark_Orb",
+        "rarity": "5"
+    },
+    {
+        "name": "Queen's Tear",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Queen%27s_Tear",
+        "rarity": "5"
+    },
+    {
+        "name": "Revelation Book",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Revelation_Book",
+        "rarity": "5"
+    },
+    {
+        "name": "Revenant Soul",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Revenant_Soul",
+        "rarity": "5"
+    },
+    {
+        "name": "Silver Key",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Silver_Key",
+        "rarity": "5"
+    },
+    {
+        "name": "Silver Knights' Crest",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Silver_Knights%27_Crest",
+        "rarity": "5"
+    },
+    {
+        "name": "Sky Helmet",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sky_Helmet",
+        "rarity": "5"
+    },
+    {
+        "name": "Solarflare Orb",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Solarflare_Orb",
+        "rarity": "5"
+    },
+    {
+        "name": "Soul Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Soul_Blade",
+        "rarity": "5"
+    },
+    {
+        "name": "Star Flower",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Star_Flower",
+        "rarity": "5"
+    },
+    {
+        "name": "Stormstrike Orb",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Stormstrike_Orb",
+        "rarity": "5"
+    },
+    {
+        "name": "Strategy Manual",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Strategy_Manual",
+        "rarity": "5"
+    },
+    {
+        "name": "Supreme Robe",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Supreme_Robe",
+        "rarity": "5"
+    },
+    {
+        "name": "Thief Crown",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Thief_Crown",
+        "rarity": "5"
+    },
+    {
+        "name": "Tidewater Orb",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Tidewater_Orb",
+        "rarity": "5"
+    },
+    {
+        "name": "Twinkle Gem",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Twinkle_Gem",
+        "rarity": "5"
+    },
+    {
+        "name": "Unblinking Stele",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Unblinking_Stele",
+        "rarity": "5"
+    },
+    {
+        "name": "Vellum of Curses",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Vellum_of_Curses",
+        "rarity": "5"
+    },
+    {
+        "name": "War Crown",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/War_Crown",
+        "rarity": "5"
+    },
+    {
+        "name": "Weaver's Acumen",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Weaver%27s_Acumen",
+        "rarity": "5"
+    },
+    {
+        "name": "Weaver's Artifice",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Weaver%27s_Artifice",
+        "rarity": "5"
+    },
+    {
+        "name": "Weaver's Audacity",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Weaver%27s_Audacity",
+        "rarity": "5"
+    },
+    {
+        "name": "Winter Donum",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Winter_Donum",
+        "rarity": "5"
+    },
+    {
+        "name": "ジェダイ・オーダー",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E3%82%B8%E3%82%A7%E3%83%80%E3%82%A4%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%80%E3%83%BC",
+        "rarity": "5"
+    },
+    {
+        "name": "ブラスター",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E3%83%96%E3%83%A9%E3%82%B9%E3%82%BF%E3%83%BC",
+        "rarity": "5"
+    },
+    {
+        "name": "ライトセーバー",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E3%83%A9%E3%82%A4%E3%83%88%E3%82%BB%E3%83%BC%E3%83%90%E3%83%BC",
+        "rarity": "5"
+    },
+    {
+        "name": "Admonition Crown",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Admonition_Crown",
+        "rarity": "6"
+    },
+    {
+        "name": "Advent Solace",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Advent_Solace",
+        "rarity": "6"
+    },
+    {
+        "name": "All-Seeing Eyes",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/All-Seeing_Eyes",
+        "rarity": "6"
+    },
+    {
+        "name": "Altiste Talisman",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Altiste_Talisman",
+        "rarity": "6"
+    },
+    {
+        "name": "Amenonuhoko",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Amenonuhoko",
+        "rarity": "6"
+    },
+    {
+        "name": "Anathema Tome",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Anathema_Tome",
+        "rarity": "6"
+    },
+    {
+        "name": "Antithesis Gem",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Antithesis_Gem",
+        "rarity": "6"
+    },
+    {
+        "name": "Arcane Defenses",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Arcane_Defenses",
+        "rarity": "6"
+    },
+    {
+        "name": "Armor of Seals",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Armor_of_Seals",
+        "rarity": "6"
+    },
+    {
+        "name": "Avaricious Audacity",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Avaricious_Audacity",
+        "rarity": "6"
+    },
+    {
+        "name": "Avaricious Torment",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Avaricious_Torment",
+        "rarity": "6"
+    },
+    {
+        "name": "Axe of Hadaron",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Axe_of_Hadaron",
+        "rarity": "6"
+    },
+    {
+        "name": "Barrier Mirror",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Barrier_Mirror",
+        "rarity": "6"
+    },
+    {
+        "name": "Batootha",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Batootha",
+        "rarity": "6"
+    },
+    {
+        "name": "Beiorg's Armor",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Beiorg%27s_Armor",
+        "rarity": "6"
+    },
+    {
+        "name": "Blades of Ultor",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Blades_of_Ultor",
+        "rarity": "6"
+    },
+    {
+        "name": "Blaze Blossom",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Blaze_Blossom",
+        "rarity": "6"
+    },
+    {
+        "name": "Blazing Fists",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Blazing_Fists",
+        "rarity": "6"
+    },
+    {
+        "name": "Blessed Charm",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Blessed_Charm",
+        "rarity": "6"
+    },
+    {
+        "name": "Blessing of Khons",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Blessing_of_Khons",
+        "rarity": "6"
+    },
+    {
+        "name": "Blight Arisen",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Blight_Arisen",
+        "rarity": "6"
+    },
+    {
+        "name": "Blossom Device",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Blossom_Device",
+        "rarity": "6"
+    },
+    {
+        "name": "Boar's Esteem",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Boar%27s_Esteem",
+        "rarity": "6"
+    },
+    {
+        "name": "Bond of Rih'alnase",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Bond_of_Rih%27alnase",
+        "rarity": "6"
+    },
+    {
+        "name": "Bourn Jewel",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Bourn_Jewel",
+        "rarity": "6"
+    },
+    {
+        "name": "Bow of Andaria",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Bow_of_Andaria",
+        "rarity": "6"
+    },
+    {
+        "name": "Bow of Passion",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Bow_of_Passion",
+        "rarity": "6"
+    },
+    {
+        "name": "Brass Orb",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Brass_Orb",
+        "rarity": "6"
+    },
+    {
+        "name": "Celestial Staff",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Celestial_Staff",
+        "rarity": "6"
+    },
+    {
+        "name": "Corrupted Blossom",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Corrupted_Blossom",
+        "rarity": "6"
+    },
+    {
+        "name": "Courage Aegis",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Courage_Aegis",
+        "rarity": "6"
+    },
+    {
+        "name": "Curative Device",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Curative_Device",
+        "rarity": "6"
+    },
+    {
+        "name": "Cursed Photon Rod",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Cursed_Photon_Rod",
+        "rarity": "6"
+    },
+    {
+        "name": "Dandelga",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Dandelga",
+        "rarity": "6"
+    },
+    {
+        "name": "Dandemagus",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Dandemagus",
+        "rarity": "6"
+    },
+    {
+        "name": "Dark Age Bow",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Dark_Age_Bow",
+        "rarity": "6"
+    },
+    {
+        "name": "Dark Axe",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Dark_Axe",
+        "rarity": "6"
+    },
+    {
+        "name": "Dauntless Shield",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Dauntless_Shield",
+        "rarity": "6"
+    },
+    {
+        "name": "Daybreak Moon",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Daybreak_Moon",
+        "rarity": "6"
+    },
+    {
+        "name": "Deadening Armor",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Deadening_Armor",
+        "rarity": "6"
+    },
+    {
+        "name": "Death Chakram",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Death_Chakram",
+        "rarity": "6"
+    },
+    {
+        "name": "Defender's Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Defender%27s_Blade",
+        "rarity": "6"
+    },
+    {
+        "name": "Deflecting Device",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Deflecting_Device",
+        "rarity": "6"
+    },
+    {
+        "name": "Dehn's Swordmyth",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Dehn%27s_Swordmyth",
+        "rarity": "6"
+    },
+    {
+        "name": "Delusion Device",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Delusion_Device",
+        "rarity": "6"
+    },
+    {
+        "name": "Demolishing Plate",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Demolishing_Plate",
+        "rarity": "6"
+    },
+    {
+        "name": "Demon Core",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Demon_Core",
+        "rarity": "6"
+    },
+    {
+        "name": "Demonbone Gem",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Demonbone_Gem",
+        "rarity": "6"
+    },
+    {
+        "name": "Demonic Regalia",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Demonic_Regalia",
+        "rarity": "6"
+    },
+    {
+        "name": "Demontech Mail",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Demontech_Mail",
+        "rarity": "6"
+    },
+    {
+        "name": "Diacles Halberd",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Diacles_Halberd",
+        "rarity": "6"
+    },
+    {
+        "name": "Divine Wings",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Divine_Wings",
+        "rarity": "6"
+    },
+    {
+        "name": "Dragon Earrings",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Dragon_Earrings",
+        "rarity": "6"
+    },
+    {
+        "name": "Dragon Eye",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Dragon_Eye",
+        "rarity": "6"
+    },
+    {
+        "name": "Dragon Mother",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Dragon_Mother",
+        "rarity": "6"
+    },
+    {
+        "name": "Dragon's Amulet",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Dragon%27s_Amulet",
+        "rarity": "6"
+    },
+    {
+        "name": "Dragon's Intrigue",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Dragon%27s_Intrigue",
+        "rarity": "6"
+    },
+    {
+        "name": "Dreadnought Shell Aleph",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Dreadnought_Shell_Aleph",
+        "rarity": "6"
+    },
+    {
+        "name": "Drevas",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Drevas",
+        "rarity": "6"
+    },
+    {
+        "name": "Duel Fragment",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Duel_Fragment",
+        "rarity": "6"
+    },
+    {
+        "name": "Dyed Masterpiece",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Dyed_Masterpiece",
+        "rarity": "6"
+    },
+    {
+        "name": "Enhancing Device",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Enhancing_Device",
+        "rarity": "6"
+    },
+    {
+        "name": "Eshuon",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Eshuon",
+        "rarity": "6"
+    },
+    {
+        "name": "Eternal Armor",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Eternal_Armor",
+        "rarity": "6"
+    },
+    {
+        "name": "Ethereal Wall",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ethereal_Wall",
+        "rarity": "6"
+    },
+    {
+        "name": "Excelsior Chip MK-2",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Excelsior_Chip_MK-2",
+        "rarity": "6"
+    },
+    {
+        "name": "Explosive Genoverse",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Explosive_Genoverse",
+        "rarity": "6"
+    },
+    {
+        "name": "Fairy Fate",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Fairy_Fate",
+        "rarity": "6"
+    },
+    {
+        "name": "Fallacy Orb",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Fallacy_Orb",
+        "rarity": "6"
+    },
+    {
+        "name": "Flower Crown",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Flower_Crown",
+        "rarity": "6"
+    },
+    {
+        "name": "Flower of the Vale",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Flower_of_the_Vale",
+        "rarity": "6"
+    },
+    {
+        "name": "Foolish Desire",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Foolish_Desire",
+        "rarity": "6"
+    },
+    {
+        "name": "Foolish Torment",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Foolish_Torment",
+        "rarity": "6"
+    },
+    {
+        "name": "Forest Essence Orb",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Forest_Essence_Orb",
+        "rarity": "6"
+    },
+    {
+        "name": "Forgebreaker",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Forgebreaker",
+        "rarity": "6"
+    },
+    {
+        "name": "Four Bonds",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Four_Bonds",
+        "rarity": "6"
+    },
+    {
+        "name": "Frigid Melody",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Frigid_Melody",
+        "rarity": "6"
+    },
+    {
+        "name": "Fulgur Wing",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Fulgur_Wing",
+        "rarity": "6"
+    },
+    {
+        "name": "Gamblers Audacity",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Gamblers_Audacity",
+        "rarity": "6"
+    },
+    {
+        "name": "Gamblers Desire",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Gamblers_Desire",
+        "rarity": "6"
+    },
+    {
+        "name": "Gibbous Trinket",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Gibbous_Trinket",
+        "rarity": "6"
+    },
+    {
+        "name": "Giselbert's Brand",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Giselbert%27s_Brand",
+        "rarity": "6"
+    },
+    {
+        "name": "Giselle's Kiss",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Giselle%27s_Kiss",
+        "rarity": "6"
+    },
+    {
+        "name": "Gold Key",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Gold_Key",
+        "rarity": "6"
+    },
+    {
+        "name": "Golden Heart",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Golden_Heart",
+        "rarity": "6"
+    },
+    {
+        "name": "Golem Core",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Golem_Core",
+        "rarity": "6"
+    },
+    {
+        "name": "Growth Device",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Growth_Device",
+        "rarity": "6"
+    },
+    {
+        "name": "Guardian Shard",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Guardian_Shard",
+        "rarity": "6"
+    },
+    {
+        "name": "Guardian Sliver",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Guardian_Sliver",
+        "rarity": "6"
+    },
+    {
+        "name": "Guardian Spirit",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Guardian_Spirit",
+        "rarity": "6"
+    },
+    {
+        "name": "Guiding Light",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Guiding_Light",
+        "rarity": "6"
+    },
+    {
+        "name": "Harbinger Arisen",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Harbinger_Arisen",
+        "rarity": "6"
+    },
+    {
+        "name": "Harmony Vestments",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Harmony_Vestments",
+        "rarity": "6"
+    },
+    {
+        "name": "Harp of Aurelia",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Harp_of_Aurelia",
+        "rarity": "6"
+    },
+    {
+        "name": "Harvester Pickaxe",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Harvester_Pickaxe",
+        "rarity": "6"
+    },
+    {
+        "name": "Health Codex",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Health_Codex",
+        "rarity": "6"
+    },
+    {
+        "name": "Heavenly Ring",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Heavenly_Ring",
+        "rarity": "6"
+    },
+    {
+        "name": "Heresy Orb",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Heresy_Orb",
+        "rarity": "6"
+    },
+    {
+        "name": "Hero's Salvation",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Hero%27s_Salvation",
+        "rarity": "6"
+    },
+    {
+        "name": "Holy Eight",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Holy_Eight",
+        "rarity": "6"
+    },
+    {
+        "name": "Holy Lineage Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Holy_Lineage_Blade",
+        "rarity": "6"
+    },
+    {
+        "name": "Honor Armor",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Honor_Armor",
+        "rarity": "6"
+    },
+    {
+        "name": "Illusory Desire",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Illusory_Desire",
+        "rarity": "6"
+    },
+    {
+        "name": "Illusory Torment",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Illusory_Torment",
+        "rarity": "6"
+    },
+    {
+        "name": "Imperial Savior",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Imperial_Savior",
+        "rarity": "6"
+    },
+    {
+        "name": "Impiety Orb",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Impiety_Orb",
+        "rarity": "6"
+    },
+    {
+        "name": "Infidelity Orb",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Infidelity_Orb",
+        "rarity": "6"
+    },
+    {
+        "name": "Invigorating Device",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Invigorating_Device",
+        "rarity": "6"
+    },
+    {
+        "name": "Ishkravol Crown",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ishkravol_Crown",
+        "rarity": "6"
+    },
+    {
+        "name": "Ishrion",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ishrion",
+        "rarity": "6"
+    },
+    {
+        "name": "Jeu'vrr's Warcry",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Jeu%27vrr%27s_Warcry",
+        "rarity": "6"
+    },
+    {
+        "name": "Jeu'vrr's Warsong",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Jeu%27vrr%27s_Warsong",
+        "rarity": "6"
+    },
+    {
+        "name": "Johnny's Coin",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Johnny%27s_Coin",
+        "rarity": "6"
+    },
+    {
+        "name": "Ka-rzn's Excruciation",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ka-rzn%27s_Excruciation",
+        "rarity": "6"
+    },
+    {
+        "name": "Ke'hret's Insanguination",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ke%27hret%27s_Insanguination",
+        "rarity": "6"
+    },
+    {
+        "name": "Kindling Melody",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Kindling_Melody",
+        "rarity": "6"
+    },
+    {
+        "name": "Koto's Brand",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Koto%27s_Brand",
+        "rarity": "6"
+    },
+    {
+        "name": "Kuoni's Brand",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Kuoni%27s_Brand",
+        "rarity": "6"
+    },
+    {
+        "name": "Lafdranya",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Lafdranya",
+        "rarity": "6"
+    },
+    {
+        "name": "Legacy Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Legacy_Blade",
+        "rarity": "6"
+    },
+    {
+        "name": "Leo's Dictionary",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Leo%27s_Dictionary",
+        "rarity": "6"
+    },
+    {
+        "name": "Leomurg",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Leomurg",
+        "rarity": "6"
+    },
+    {
+        "name": "Lexida",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Lexida",
+        "rarity": "6"
+    },
+    {
+        "name": "Life Resonator",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Life_Resonator",
+        "rarity": "6"
+    },
+    {
+        "name": "Long Wu's Brand",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Long_Wu%27s_Brand",
+        "rarity": "6"
+    },
+    {
+        "name": "Lucky Crescent",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Lucky_Crescent",
+        "rarity": "6"
+    },
+    {
+        "name": "Lunar Essence Orb",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Lunar_Essence_Orb",
+        "rarity": "6"
+    },
+    {
+        "name": "Lustful Audacity",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Lustful_Audacity",
+        "rarity": "6"
+    },
+    {
+        "name": "Lustful Torment",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Lustful_Torment",
+        "rarity": "6"
+    },
+    {
+        "name": "Magical Device",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Magical_Device",
+        "rarity": "6"
+    },
+    {
+        "name": "Magishot Mk.VII",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Magishot_Mk.VII",
+        "rarity": "6"
+    },
+    {
+        "name": "Malevolent Charm",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Malevolent_Charm",
+        "rarity": "6"
+    },
+    {
+        "name": "Malicious Audacity",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Malicious_Audacity",
+        "rarity": "6"
+    },
+    {
+        "name": "Malicious Torment",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Malicious_Torment",
+        "rarity": "6"
+    },
+    {
+        "name": "Masked Steerwheel",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Masked_Steerwheel",
+        "rarity": "6"
+    },
+    {
+        "name": "Medblare",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Medblare",
+        "rarity": "6"
+    },
+    {
+        "name": "Meirith Pearl",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Meirith_Pearl",
+        "rarity": "6"
+    },
+    {
+        "name": "Melord's Core",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Melord%27s_Core",
+        "rarity": "6"
+    },
+    {
+        "name": "Metal Orb",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Metal_Orb",
+        "rarity": "6"
+    },
+    {
+        "name": "Mirage Device",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Mirage_Device",
+        "rarity": "6"
+    },
+    {
+        "name": "Monarch Sash",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Monarch_Sash",
+        "rarity": "6"
+    },
+    {
+        "name": "Mysterious Mask",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Mysterious_Mask",
+        "rarity": "6"
+    },
+    {
+        "name": "Nature Shield",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Nature_Shield",
+        "rarity": "6"
+    },
+    {
+        "name": "Naudé's Brand",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Naud%C3%A9%27s_Brand",
+        "rarity": "6"
+    },
+    {
+        "name": "Nhe'hed's Will",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Nhe%27hed%27s_Will",
+        "rarity": "6"
+    },
+    {
+        "name": "Nihil Wing",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Nihil_Wing",
+        "rarity": "6"
+    },
+    {
+        "name": "Nougat P08",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Nougat_P08",
+        "rarity": "6"
+    },
+    {
+        "name": "Oath of a Sülde",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Oath_of_a_S%C3%BClde",
+        "rarity": "6"
+    },
+    {
+        "name": "Obsessive Desire",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Obsessive_Desire",
+        "rarity": "6"
+    },
+    {
+        "name": "Obsessive Torment",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Obsessive_Torment",
+        "rarity": "6"
+    },
+    {
+        "name": "Obsidian Core Amplifier",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Obsidian_Core_Amplifier",
+        "rarity": "6"
+    },
+    {
+        "name": "Offensive Device",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Offensive_Device",
+        "rarity": "6"
+    },
+    {
+        "name": "Oracle Bangles",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Oracle_Bangles",
+        "rarity": "6"
+    },
+    {
+        "name": "Orochi's Crest",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Orochi%27s_Crest",
+        "rarity": "6"
+    },
+    {
+        "name": "Ox's Languor",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ox%27s_Languor",
+        "rarity": "6"
+    },
+    {
+        "name": "Penta-Locus",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Penta-Locus",
+        "rarity": "6"
+    },
+    {
+        "name": "Phantom Device",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Phantom_Device",
+        "rarity": "6"
+    },
+    {
+        "name": "Phantom Gizmo",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Phantom_Gizmo",
+        "rarity": "6"
+    },
+    {
+        "name": "Photon Scepter",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Photon_Scepter",
+        "rarity": "6"
+    },
+    {
+        "name": "Photon Spear",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Photon_Spear",
+        "rarity": "6"
+    },
+    {
+        "name": "Platinum Bangle",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Platinum_Bangle",
+        "rarity": "6"
+    },
+    {
+        "name": "Platinum Sword",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Platinum_Sword",
+        "rarity": "6"
+    },
+    {
+        "name": "Projection Device",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Projection_Device",
+        "rarity": "6"
+    },
+    {
+        "name": "Prosperous Phoenix Emblem",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Prosperous_Phoenix_Emblem",
+        "rarity": "6"
+    },
+    {
+        "name": "Purgatory Verse",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Purgatory_Verse",
+        "rarity": "6"
+    },
+    {
+        "name": "Pyre Essence Orb",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Pyre_Essence_Orb",
+        "rarity": "6"
+    },
+    {
+        "name": "Quintan Relic",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Quintan_Relic",
+        "rarity": "6"
+    },
+    {
+        "name": "Rabbit's Gusto",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Rabbit%27s_Gusto",
+        "rarity": "6"
+    },
+    {
+        "name": "Rat's Curiosity",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Rat%27s_Curiosity",
+        "rarity": "6"
+    },
+    {
+        "name": "Ravening Armor",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ravening_Armor",
+        "rarity": "6"
+    },
+    {
+        "name": "Reeze's Armor",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Reeze%27s_Armor",
+        "rarity": "6"
+    },
+    {
+        "name": "Regent Diadem",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Regent_Diadem",
+        "rarity": "6"
+    },
+    {
+        "name": "Reign Alpha",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Reign_Alpha",
+        "rarity": "6"
+    },
+    {
+        "name": "Resistive Device",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Resistive_Device",
+        "rarity": "6"
+    },
+    {
+        "name": "Sacred Shield",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sacred_Shield",
+        "rarity": "6"
+    },
+    {
+        "name": "Sacrilege Orb",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sacrilege_Orb",
+        "rarity": "6"
+    },
+    {
+        "name": "Scarlet Eventide",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Scarlet_Eventide",
+        "rarity": "6"
+    },
+    {
+        "name": "Scarlet Necklace",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Scarlet_Necklace",
+        "rarity": "6"
+    },
+    {
+        "name": "Scarlet Pin",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Scarlet_Pin",
+        "rarity": "6"
+    },
+    {
+        "name": "Schism Orb",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Schism_Orb",
+        "rarity": "6"
+    },
+    {
+        "name": "Sha of Neith",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sha_of_Neith",
+        "rarity": "6"
+    },
+    {
+        "name": "Shale Wing",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Shale_Wing",
+        "rarity": "6"
+    },
+    {
+        "name": "Shield of Valor",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Shield_of_Valor",
+        "rarity": "6"
+    },
+    {
+        "name": "Shining Gizmo",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Shining_Gizmo",
+        "rarity": "6"
+    },
+    {
+        "name": "Shura's Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Shura%27s_Blade",
+        "rarity": "6"
+    },
+    {
+        "name": "Sin of Rebellion",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sin_of_Rebellion",
+        "rarity": "6"
+    },
+    {
+        "name": "Skull General",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Skull_General",
+        "rarity": "6"
+    },
+    {
+        "name": "Sky Harbinger",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sky_Harbinger",
+        "rarity": "6"
+    },
+    {
+        "name": "Solar Essence Orb",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Solar_Essence_Orb",
+        "rarity": "6"
+    },
+    {
+        "name": "Soul Armor",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Soul_Armor",
+        "rarity": "6"
+    },
+    {
+        "name": "Spear of Zedus",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Spear_of_Zedus",
+        "rarity": "6"
+    },
+    {
+        "name": "Spirit Tiara",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Spirit_Tiara",
+        "rarity": "6"
+    },
+    {
+        "name": "Star of Hope",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Star_of_Hope",
+        "rarity": "6"
+    },
+    {
+        "name": "Star Wing",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Star_Wing",
+        "rarity": "6"
+    },
+    {
+        "name": "Starlight Staff",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Starlight_Staff",
+        "rarity": "6"
+    },
+    {
+        "name": "Steel Orb",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Steel_Orb",
+        "rarity": "6"
+    },
+    {
+        "name": "Storm Essence Orb",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Storm_Essence_Orb",
+        "rarity": "6"
+    },
+    {
+        "name": "Summoner Key",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Summoner_Key",
+        "rarity": "6"
+    },
+    {
+        "name": "Thief's Jewel",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Thief%27s_Jewel",
+        "rarity": "6"
+    },
+    {
+        "name": "Thunder Pearl",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Thunder_Pearl",
+        "rarity": "6"
+    },
+    {
+        "name": "Abyss Sword",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Abyss_Sword",
+        "rarity": "7"
+    },
+    {
+        "name": "Aer Wing",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Aer_Wing",
+        "rarity": "7"
+    },
+    {
+        "name": "All Might's Cape",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/All_Might%27s_Cape",
+        "rarity": "7"
+    },
+    {
+        "name": "Ally Savior",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ally_Savior",
+        "rarity": "7"
+    },
+    {
+        "name": "Annihilator Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Annihilator_Blade",
+        "rarity": "7"
+    },
+    {
+        "name": "Apex Steerwheel",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Apex_Steerwheel",
+        "rarity": "7"
+    },
+    {
+        "name": "Aqua Wing",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Aqua_Wing",
+        "rarity": "7"
+    },
+    {
+        "name": "Argeus",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Argeus",
+        "rarity": "7"
+    },
+    {
+        "name": "Baiken's Mono-goggle",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Baiken%27s_Mono-goggle",
+        "rarity": "7"
+    },
+    {
+        "name": "Beiorg's Armor Mk II",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Beiorg%27s_Armor_Mk_II",
+        "rarity": "7"
+    },
+    {
+        "name": "Beiorg's Armor Mk V",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Beiorg%27s_Armor_Mk_V",
+        "rarity": "7"
+    },
+    {
+        "name": "Blaze Blossom EX",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Blaze_Blossom_EX",
+        "rarity": "7"
+    },
+    {
+        "name": "Book of E.N.D.",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Book_of_E.N.D.",
+        "rarity": "7"
+    },
+    {
+        "name": "Bow of Battles",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Bow_of_Battles",
+        "rarity": "7"
+    },
+    {
+        "name": "Bulwark of Menon",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Bulwark_of_Menon",
+        "rarity": "7"
+    },
+    {
+        "name": "Burst King",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Burst_King",
+        "rarity": "7"
+    },
+    {
+        "name": "Challenger",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Challenger",
+        "rarity": "7"
+    },
+    {
+        "name": "Chaos Sword",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Chaos_Sword",
+        "rarity": "7"
+    },
+    {
+        "name": "Chrysalis Alpha",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Chrysalis_Alpha",
+        "rarity": "7"
+    },
+    {
+        "name": "Chrysalis Omega",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Chrysalis_Omega",
+        "rarity": "7"
+    },
+    {
+        "name": "Chrysalis Zeta",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Chrysalis_Zeta",
+        "rarity": "7"
+    },
+    {
+        "name": "Commissar's Pride",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Commissar%27s_Pride",
+        "rarity": "7"
+    },
+    {
+        "name": "Conqueror's Helm",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Conqueror%27s_Helm",
+        "rarity": "7"
+    },
+    {
+        "name": "Corrupted Blossom EX",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Corrupted_Blossom_EX",
+        "rarity": "7"
+    },
+    {
+        "name": "Creator's Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Creator%27s_Blade",
+        "rarity": "7"
+    },
+    {
+        "name": "Creator's Blade Kai",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Creator%27s_Blade_Kai",
+        "rarity": "7"
+    },
+    {
+        "name": "Crusader Medal",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Crusader_Medal",
+        "rarity": "7"
+    },
+    {
+        "name": "Cunei of Athum",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Cunei_of_Athum",
+        "rarity": "7"
+    },
+    {
+        "name": "Czorag's Malice",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Czorag%27s_Malice",
+        "rarity": "7"
+    },
+    {
+        "name": "Daltisk Phenomenon",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Daltisk_Phenomenon",
+        "rarity": "7"
+    },
+    {
+        "name": "Death Sword",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Death_Sword",
+        "rarity": "7"
+    },
+    {
+        "name": "Deku's Face Mask",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Deku%27s_Face_Mask",
+        "rarity": "7"
+    },
+    {
+        "name": "Demon Igniter",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Demon_Igniter",
+        "rarity": "7"
+    },
+    {
+        "name": "Demon Silk",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Demon_Silk",
+        "rarity": "7"
+    },
+    {
+        "name": "Demon Striker",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Demon_Striker",
+        "rarity": "7"
+    },
+    {
+        "name": "Diamond Key",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Diamond_Key",
+        "rarity": "7"
+    },
+    {
+        "name": "Divine Master Gate",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Divine_Master_Gate",
+        "rarity": "7"
+    },
+    {
+        "name": "Divine Master Key",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Divine_Master_Key",
+        "rarity": "7"
+    },
+    {
+        "name": "Dragonbane",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Dragonbane",
+        "rarity": "7"
+    },
+    {
+        "name": "Drinker's Kettle",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Drinker%27s_Kettle",
+        "rarity": "7"
+    },
+    {
+        "name": "Duskcrown Medal",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Duskcrown_Medal",
+        "rarity": "7"
+    },
+    {
+        "name": "Dusklight Medal",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Dusklight_Medal",
+        "rarity": "7"
+    },
+    {
+        "name": "Elaina's Timepiece",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Elaina%27s_Timepiece",
+        "rarity": "7"
+    },
+    {
+        "name": "Erisian Effigy",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Erisian_Effigy",
+        "rarity": "7"
+    },
+    {
+        "name": "Eureka Mixture",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Eureka_Mixture",
+        "rarity": "7"
+    },
+    {
+        "name": "Excelsior Chip MK-3",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Excelsior_Chip_MK-3",
+        "rarity": "7"
+    },
+    {
+        "name": "Eyepatch Mask",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Eyepatch_Mask",
+        "rarity": "7"
+    },
+    {
+        "name": "Fairy Heart",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Fairy_Heart",
+        "rarity": "7"
+    },
+    {
+        "name": "Fiery Volt",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Fiery_Volt",
+        "rarity": "7"
+    },
+    {
+        "name": "Final Embrace (Sphere)",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Final_Embrace_(Sphere)",
+        "rarity": "7"
+    },
+    {
+        "name": "Fleeting Ballad",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Fleeting_Ballad",
+        "rarity": "7"
+    },
+    {
+        "name": "Flower Mirror",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Flower_Mirror",
+        "rarity": "7"
+    },
+    {
+        "name": "Forbidden Apple",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Forbidden_Apple",
+        "rarity": "7"
+    },
+    {
+        "name": "Formless Chroma",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Formless_Chroma",
+        "rarity": "7"
+    },
+    {
+        "name": "Frogberge Egg",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Frogberge_Egg",
+        "rarity": "7"
+    },
+    {
+        "name": "Giselbert's Honor",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Giselbert%27s_Honor",
+        "rarity": "7"
+    },
+    {
+        "name": "God Hunter",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/God_Hunter",
+        "rarity": "7"
+    },
+    {
+        "name": "Godslayer Bow",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Godslayer_Bow",
+        "rarity": "7"
+    },
+    {
+        "name": "Grand Cloak",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Grand_Cloak",
+        "rarity": "7"
+    },
+    {
+        "name": "Grenadier Bracers",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Grenadier_Bracers",
+        "rarity": "7"
+    },
+    {
+        "name": "Hachiman Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Hachiman_Blade",
+        "rarity": "7"
+    },
+    {
+        "name": "Hachiman Song",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Hachiman_Song",
+        "rarity": "7"
+    },
+    {
+        "name": "Hakuzo's Deceit",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Hakuzo%27s_Deceit",
+        "rarity": "7"
+    },
+    {
+        "name": "Harebrain Bucket",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Harebrain_Bucket",
+        "rarity": "7"
+    },
+    {
+        "name": "Heaven Sword",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Heaven_Sword",
+        "rarity": "7"
+    },
+    {
+        "name": "Heaven's Edge",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Heaven%27s_Edge",
+        "rarity": "7"
+    },
+    {
+        "name": "Heaven-Binder",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Heaven-Binder",
+        "rarity": "7"
+    },
+    {
+        "name": "Holy Starblade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Holy_Starblade",
+        "rarity": "7"
+    },
+    {
+        "name": "Ignis Wing",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ignis_Wing",
+        "rarity": "7"
+    },
+    {
+        "name": "Ihsir's Wiles",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ihsir%27s_Wiles",
+        "rarity": "7"
+    },
+    {
+        "name": "Ima",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ima",
+        "rarity": "7"
+    },
+    {
+        "name": "Infernal Bolt",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Infernal_Bolt",
+        "rarity": "7"
+    },
+    {
+        "name": "Insidious Lash",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Insidious_Lash",
+        "rarity": "7"
+    },
+    {
+        "name": "Iridescent Hope",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Iridescent_Hope",
+        "rarity": "7"
+    },
+    {
+        "name": "Jason's Mask",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Jason%27s_Mask",
+        "rarity": "7"
+    },
+    {
+        "name": "Jubilee Orb",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Jubilee_Orb",
+        "rarity": "7"
+    },
+    {
+        "name": "Kagura Suzu",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Kagura_Suzu",
+        "rarity": "7"
+    },
+    {
+        "name": "Katerin's Torment",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Katerin%27s_Torment",
+        "rarity": "7"
+    },
+    {
+        "name": "Koto's Honor",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Koto%27s_Honor",
+        "rarity": "7"
+    },
+    {
+        "name": "Kronax",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Kronax",
+        "rarity": "7"
+    },
+    {
+        "name": "Kuoni's Honor",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Kuoni%27s_Honor",
+        "rarity": "7"
+    },
+    {
+        "name": "Kusanagi Sword",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Kusanagi_Sword",
+        "rarity": "7"
+    },
+    {
+        "name": "Lament of Dread",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Lament_of_Dread",
+        "rarity": "7"
+    },
+    {
+        "name": "Leto Crown",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Leto_Crown",
+        "rarity": "7"
+    },
+    {
+        "name": "Living Armor",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Living_Armor",
+        "rarity": "7"
+    },
+    {
+        "name": "Long Wu's Honor",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Long_Wu%27s_Honor",
+        "rarity": "7"
+    },
+    {
+        "name": "Lotus Manuscript",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Lotus_Manuscript",
+        "rarity": "7"
+    },
+    {
+        "name": "Lux Wing",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Lux_Wing",
+        "rarity": "7"
+    },
+    {
+        "name": "Magrahja's Helm",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Magrahja%27s_Helm",
+        "rarity": "7"
+    },
+    {
+        "name": "Melodious Harmony",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Melodious_Harmony",
+        "rarity": "7"
+    },
+    {
+        "name": "Miracle of Khons",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Miracle_of_Khons",
+        "rarity": "7"
+    },
+    {
+        "name": "Mora's Bane",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Mora%27s_Bane",
+        "rarity": "7"
+    },
+    {
+        "name": "Mournful Pike",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Mournful_Pike",
+        "rarity": "7"
+    },
+    {
+        "name": "Multi Slayer",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Multi_Slayer",
+        "rarity": "7"
+    },
+    {
+        "name": "Naudé's Honor",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Naud%C3%A9%27s_Honor",
+        "rarity": "7"
+    },
+    {
+        "name": "Nevana Crown",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Nevana_Crown",
+        "rarity": "7"
+    },
+    {
+        "name": "Obrim",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Obrim",
+        "rarity": "7"
+    },
+    {
+        "name": "Omniscient Blaster",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Omniscient_Blaster",
+        "rarity": "7"
+    },
+    {
+        "name": "Orphira",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Orphira",
+        "rarity": "7"
+    },
+    {
+        "name": "Ortus",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ortus",
+        "rarity": "7"
+    },
+    {
+        "name": "Otherworldly Paradigm",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Otherworldly_Paradigm",
+        "rarity": "7"
+    },
+    {
+        "name": "Over Killer",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Over_Killer",
+        "rarity": "7"
+    },
+    {
+        "name": "Pallya",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Pallya",
+        "rarity": "7"
+    },
+    {
+        "name": "Paradox Armor",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Paradox_Armor",
+        "rarity": "7"
+    },
+    {
+        "name": "Paradox of Neith",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Paradox_of_Neith",
+        "rarity": "7"
+    },
+    {
+        "name": "Phoenix Blossom",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Phoenix_Blossom",
+        "rarity": "7"
+    },
+    {
+        "name": "Primal Desire",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Primal_Desire",
+        "rarity": "7"
+    },
+    {
+        "name": "Prosklystios",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Prosklystios",
+        "rarity": "7"
+    },
+    {
+        "name": "Providence",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Providence",
+        "rarity": "7"
+    },
+    {
+        "name": "Pulsing Cloak",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Pulsing_Cloak",
+        "rarity": "7"
+    },
+    {
+        "name": "Qormusta Tengri",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Qormusta_Tengri",
+        "rarity": "7"
+    },
+    {
+        "name": "Quintan Emerald",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Quintan_Emerald",
+        "rarity": "7"
+    },
+    {
+        "name": "Rabbit Mask",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Rabbit_Mask",
+        "rarity": "7"
+    },
+    {
+        "name": "Ragnarok Edict",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ragnarok_Edict",
+        "rarity": "7"
+    },
+    {
+        "name": "Reign Omega",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Reign_Omega",
+        "rarity": "7"
+    },
+    {
+        "name": "Requiem of Regret",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Requiem_of_Regret",
+        "rarity": "7"
+    },
+    {
+        "name": "Resolute Carapace",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Resolute_Carapace",
+        "rarity": "7"
+    },
+    {
+        "name": "Resolute Silence",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Resolute_Silence",
+        "rarity": "7"
+    },
+    {
+        "name": "Reverence Crystal",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Reverence_Crystal",
+        "rarity": "7"
+    },
+    {
+        "name": "Réparatrice",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/R%C3%A9paratrice",
+        "rarity": "7"
+    },
+    {
+        "name": "Sacred Axe",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sacred_Axe",
+        "rarity": "7"
+    },
+    {
+        "name": "Sacred Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sacred_Blade",
+        "rarity": "7"
+    },
+    {
+        "name": "Sacred Crystal (Sphere)",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sacred_Crystal_(Sphere)",
+        "rarity": "7"
+    },
+    {
+        "name": "Sacred Dagger",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sacred_Dagger",
+        "rarity": "7"
+    },
+    {
+        "name": "Sacred Gem",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sacred_Gem",
+        "rarity": "7"
+    },
+    {
+        "name": "Sacred Lance (Sphere)",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sacred_Lance_(Sphere)",
+        "rarity": "7"
+    },
+    {
+        "name": "Sacred Longbow",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sacred_Longbow",
+        "rarity": "7"
+    },
+    {
+        "name": "Sacred Rod",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sacred_Rod",
+        "rarity": "7"
+    },
+    {
+        "name": "Sacred Staff",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sacred_Staff",
+        "rarity": "7"
+    },
+    {
+        "name": "Sage's Mercy",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sage%27s_Mercy",
+        "rarity": "7"
+    },
+    {
+        "name": "Sakura Blossom Medal",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sakura_Blossom_Medal",
+        "rarity": "7"
+    },
+    {
+        "name": "Sakura Medal",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sakura_Medal",
+        "rarity": "7"
+    },
+    {
+        "name": "Sakura Onusa",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sakura_Onusa",
+        "rarity": "7"
+    },
+    {
+        "name": "Seventh Element",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Seventh_Element",
+        "rarity": "7"
+    },
+    {
+        "name": "Seventy-two Forms",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Seventy-two_Forms",
+        "rarity": "7"
+    },
+    {
+        "name": "Shining Medal",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Shining_Medal",
+        "rarity": "7"
+    },
+    {
+        "name": "Shining Sun Medal",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Shining_Sun_Medal",
+        "rarity": "7"
+    },
+    {
+        "name": "Sky Orb",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sky_Orb",
+        "rarity": "7"
+    },
+    {
+        "name": "Skylord's Blade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Skylord%27s_Blade",
+        "rarity": "7"
+    },
+    {
+        "name": "Snowbound Victory",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Snowbound_Victory",
+        "rarity": "7"
+    },
+    {
+        "name": "Spark Geyser",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Spark_Geyser",
+        "rarity": "7"
+    },
+    {
+        "name": "Speed Star",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Speed_Star",
+        "rarity": "7"
+    },
+    {
+        "name": "Stroke of Luck",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Stroke_of_Luck",
+        "rarity": "7"
+    },
+    {
+        "name": "Survival Charm",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Survival_Charm",
+        "rarity": "7"
+    },
+    {
+        "name": "Tarok's Bloodlust",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Tarok%27s_Bloodlust",
+        "rarity": "7"
+    },
+    {
+        "name": "Tempest of Akachi",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Tempest_of_Akachi",
+        "rarity": "7"
+    },
+    {
+        "name": "Tenrou Jade",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Tenrou_Jade",
+        "rarity": "7"
+    },
+    {
+        "name": "Terra Wing",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Terra_Wing",
+        "rarity": "7"
+    },
+    {
+        "name": "Thousand Mimics",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Thousand_Mimics",
+        "rarity": "7"
+    },
+    {
+        "name": "Thrilling Harmony",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Thrilling_Harmony",
+        "rarity": "7"
+    },
+    {
+        "name": "Uln'gha",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Uln%27gha",
+        "rarity": "7"
+    },
+    {
+        "name": "Umbra Wing",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Umbra_Wing",
+        "rarity": "7"
+    },
+    {
+        "name": "Vellum of Brilliance",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Vellum_of_Brilliance",
+        "rarity": "7"
+    },
+    {
+        "name": "Vesper Argentum",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Vesper_Argentum",
+        "rarity": "7"
+    },
+    {
+        "name": "Vesper Ring",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Vesper_Ring",
+        "rarity": "7"
+    },
+    {
+        "name": "Vestige Omega",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Vestige_Omega",
+        "rarity": "7"
+    },
+    {
+        "name": "Vestments of Faith",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Vestments_of_Faith",
+        "rarity": "7"
+    },
+    {
+        "name": "Victory Chant",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Victory_Chant",
+        "rarity": "7"
+    },
+    {
+        "name": "Vision",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Vision",
+        "rarity": "7"
+    },
+    {
+        "name": "Vivid Vanity",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Vivid_Vanity",
+        "rarity": "7"
+    },
+    {
+        "name": "Voodoo Doll",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Voodoo_Doll",
+        "rarity": "7"
+    },
+    {
+        "name": "Vrána's Calling",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Vr%C3%A1na%27s_Calling",
+        "rarity": "7"
+    },
+    {
+        "name": "Windstorm Oxhead",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Windstorm_Oxhead",
+        "rarity": "7"
+    },
+    {
+        "name": "Wrath of Grandt",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Wrath_of_Grandt",
+        "rarity": "7"
+    },
+    {
+        "name": "Wyola's Honor",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Wyola%27s_Honor",
+        "rarity": "7"
+    },
+    {
+        "name": "Xenolith Omega",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Xenolith_Omega",
+        "rarity": "7"
+    },
+    {
+        "name": "Yasakani Jewel",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Yasakani_Jewel",
+        "rarity": "7"
+    },
+    {
+        "name": "Yata no Kagami",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Yata_no_Kagami",
+        "rarity": "7"
+    },
+    {
+        "name": "Yata's Mirror",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Yata%27s_Mirror",
+        "rarity": "7"
+    },
+    {
+        "name": "Yggdrasil Edict",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Yggdrasil_Edict",
+        "rarity": "7"
+    },
+    {
+        "name": "Yue'yuan",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Yue%27yuan",
+        "rarity": "7"
+    }
+]
