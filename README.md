@@ -19,7 +19,7 @@ Previously, I would like to use awesome technology like Puppeteer for scraping. 
 ## TODO
 
 - [x] Collect units and store in json file.
-- [] Collect spheres and store in json file.
+- [x] Collect spheres and store in json file.
 - [] Get detail data each of unit and store it in json file (?).
 - [] Get detail data each of sphere and store it in json file (?).
 
