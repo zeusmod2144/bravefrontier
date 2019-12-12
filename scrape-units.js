@@ -30,7 +30,7 @@ const getMainSeriesUnits = async (url) => {
               thumbnail = $(el).find("a > img").attr("src");
             }
             name = $(el).find("a").last().attr("title");
-            link = $(el).find("a").last().attr("href");
+            link = `${rootUrl}${$(el).find("a").last().attr("href")}`;
             break;
           case 2:
             element = $(el).find("center > a").attr("title");
