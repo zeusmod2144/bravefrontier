@@ -18232,12 +18232,92 @@
         "cost": "Category:Cost 60"
     },
     {
+        "name": "S'eljah, Queen in Cobalt",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/S%27eljah,_Queen_in_Cobalt",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/b6/Unit_ills_thum_830798.png/revision/latest/scale-to-width-down/42?cb=20191211063629",
+        "element": "Category:Earth",
+        "rarity": "Category:Omni Evolution Rarity",
+        "cost": "Category:Cost 60"
+    },
+    {
+        "name": "Rhyne",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Rhyne",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/9c/Unit_ills_thum_810827.png/revision/latest/scale-to-width-down/42?cb=20191218153200",
+        "element": "Category:Fire",
+        "rarity": "Category:7★ Rarity (Unit)",
+        "cost": "Category:Cost 52"
+    },
+    {
+        "name": "Neon Winder Rhyne",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Neon_Winder_Rhyne",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/c8/Unit_ills_thum_810828.png/revision/latest/scale-to-width-down/42?cb=20191218131327",
+        "element": "Category:Fire",
+        "rarity": "Category:Omni Evolution Rarity",
+        "cost": "Category:Cost 60"
+    },
+    {
+        "name": "Devoted Yasna Armaiti",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Devoted_Yasna_Armaiti",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/24/Unit_ills_thum_830818.png/revision/latest/scale-to-width-down/42?cb=20191218154032",
+        "element": "Category:Earth",
+        "rarity": "Category:Omni Evolution Rarity",
+        "cost": "Category:Cost 60"
+    },
+    {
         "name": "Loving Goddess Tilith",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Loving_Goddess_Tilith",
         "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/8a/Unit_ills_thum_51367.png/revision/latest/scale-to-width-down/42?cb=20190703040629",
         "element": "Category:Light",
         "rarity": "Category:Omni Evolution Rarity",
         "cost": "Category:Cost 54"
+    },
+    {
+        "name": "Shadow Stalker Vohu",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Shadow_Stalker_Vohu",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/65/Unit_ills_thum_860818.png/revision/latest/scale-to-width-down/42?cb=20191218153952",
+        "element": "Category:Dark",
+        "rarity": "Category:Omni Evolution Rarity",
+        "cost": "Category:Cost 60"
+    },
+    {
+        "name": "Ruby Summoner Seria",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ruby_Summoner_Seria",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/fe/Unit_ills_thum_810808.png/revision/latest/scale-to-width-down/42?cb=20200108042923",
+        "element": "Category:Fire",
+        "rarity": "Category:Omni Evolution Rarity",
+        "cost": "Category:Cost 60"
+    },
+    {
+        "name": "Sapphire Summoner Karl",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sapphire_Summoner_Karl",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/41/Unit_ills_thum_820808.png/revision/latest/scale-to-width-down/42?cb=20200108042924",
+        "element": "Category:Water",
+        "rarity": "Category:Omni Evolution Rarity",
+        "cost": "Category:Cost 60"
+    },
+    {
+        "name": "Kahiki",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Kahiki",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/2d/Unit_ills_thum_820827.png/revision/latest/scale-to-width-down/42?cb=20200115080308",
+        "element": "Category:Water",
+        "rarity": "Category:7★ Rarity (Unit)",
+        "cost": "Category:Cost 52"
+    },
+    {
+        "name": "Wave Rider Kahiki",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Wave_Rider_Kahiki",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/26/Unit_ills_thum_820828.png/revision/latest/scale-to-width-down/42?cb=20200115080309",
+        "element": "Category:Water",
+        "rarity": "Category:Omni Evolution Rarity",
+        "cost": "Category:Cost 60"
+    },
+    {
+        "name": "Herald of Yggdrasil",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Herald_of_Yggdrasil",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/5b/Unit_ills_thum_760006.png/revision/latest/scale-to-width-down/42?cb=20200122065634",
+        "element": "Category:Dark",
+        "rarity": "Category:Omni Evolution Rarity",
+        "cost": "Category:Cost 60"
     },
     {
         "name": "Rainbow Crystal",
