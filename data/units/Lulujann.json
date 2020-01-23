@@ -1,0 +1,19 @@
+{
+    "id": "704",
+    "name": "Lulujann",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Lulujann",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/77/Unit_ills_thum_60063.png/revision/latest/scale-to-width-down/42?cb=20140930012345",
+    "element": "Category:Dark",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 10",
+    "dataID": "60063",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "60",
+    "arenaType": "1",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

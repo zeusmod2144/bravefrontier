@@ -1,0 +1,18 @@
+{
+    "id": "8294",
+    "name": "Storm Shatterer Galea",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Storm_Shatterer_Galea",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/a6/Unit_ills_thum_820277.png/revision/latest/scale-to-width-down/42?cb=20170426060814",
+    "element": "Category:Water",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 46",
+    "dataID": "820277",
+    "gender": "Category:Female Unit",
+    "maxLevel": "120",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

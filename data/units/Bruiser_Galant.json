@@ -1,0 +1,19 @@
+{
+    "id": "204",
+    "name": "Bruiser Galant",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Bruiser_Galant",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/11/Unit_ills_thum_10142.png/revision/latest/scale-to-width-down/42?cb=20140205033517",
+    "element": "Category:Fire",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 6",
+    "dataID": "10142",
+    "gender": "Category:Male Unit",
+    "maxLevel": "40",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

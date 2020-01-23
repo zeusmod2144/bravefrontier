@@ -1,0 +1,19 @@
+{
+    "id": "580",
+    "name": "Flame King Goltovah",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Flame_King_Goltovah",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/04/Unit_ills_thum_10223.png/revision/latest/scale-to-width-down/42?cb=20140701152948",
+    "element": "Category:Fire",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 10",
+    "dataID": "10223",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

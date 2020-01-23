@@ -1,0 +1,18 @@
+{
+    "id": "1387",
+    "name": "Undying Flame Avant",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Undying_Flame_Avant",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/5f/Unit_ills_thum_10757.png/revision/latest/scale-to-width-down/42?cb=20160517014233",
+    "element": "Category:Fire",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 47",
+    "dataID": "10757",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

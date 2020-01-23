@@ -1,0 +1,19 @@
+{
+    "id": "288",
+    "name": "Drake Lord Aisha",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Drake_Lord_Aisha",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/71/Unit_ills_thum_10213.png/revision/latest/scale-to-width-down/42?cb=20140429162305",
+    "element": "Category:Fire",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 10",
+    "dataID": "10213",
+    "gender": "Category:Female Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

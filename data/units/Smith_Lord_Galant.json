@@ -1,0 +1,19 @@
+{
+    "id": "435",
+    "name": "Smith Lord Galant",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Smith_Lord_Galant",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/d8/Unit_ills_thum_10144.png/revision/latest/scale-to-width-down/42?cb=20140420085403",
+    "element": "Category:Fire",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 15",
+    "dataID": "10144",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "383",
+    "name": "Shock Mage Rashil",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Shock_Mage_Rashil",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/93/Unit_ills_thum_40283.png/revision/latest/scale-to-width-down/42?cb=20140428050043",
+    "element": "Category:Thunder",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 10",
+    "dataID": "40283",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

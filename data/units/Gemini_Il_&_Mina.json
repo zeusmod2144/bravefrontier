@@ -1,0 +1,19 @@
+{
+    "id": "295",
+    "name": "Gemini Il & Mina",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Gemini_Il_%26_Mina",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/cf/Unit_ills_thum_30214.png/revision/latest/scale-to-width-down/42?cb=20140429163346",
+    "element": "Category:Earth",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 15",
+    "dataID": "30214",
+    "gender": "Category:Female Unit",
+    "maxLevel": "80",
+    "arenaType": "1",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

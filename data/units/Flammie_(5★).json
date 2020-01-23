@@ -1,0 +1,19 @@
+{
+    "id": "740",
+    "name": "Flammie (5★)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Flammie_(5%E2%98%85)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e5/Unit_ills_thum_40484.png/revision/latest/scale-to-width-down/42?cb=20141029212440",
+    "element": "Category:Thunder",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 16",
+    "dataID": "40484",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

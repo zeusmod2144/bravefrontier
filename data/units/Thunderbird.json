@@ -1,0 +1,19 @@
+{
+    "id": "117",
+    "name": "Thunderbird",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Thunderbird",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/93/Unit_ills_thum_40092.png/revision/latest/scale-to-width-down/42?cb=20131031080439",
+    "element": "Category:Thunder",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 5",
+    "dataID": "40092",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "40",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

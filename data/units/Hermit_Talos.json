@@ -1,0 +1,19 @@
+{
+    "id": "459",
+    "name": "Hermit Talos",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Hermit_Talos",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/1c/Unit_ills_thum_10181.png/revision/latest/scale-to-width-down/42?cb=20140515102048",
+    "element": "Category:Fire",
+    "rarity": "Category:2★ Rarity (Unit)",
+    "cost": "Category:Cost 3",
+    "dataID": "10181",
+    "gender": "Category:Male Unit",
+    "maxLevel": "30",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

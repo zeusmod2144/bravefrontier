@@ -1,0 +1,16 @@
+{
+    "id": "8538",
+    "name": "Ken Kaneki (Omni)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Ken_Kaneki_(Omni)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/34/Unit_ills_thum_850768.png/revision/latest/scale-to-width-down/42?cb=20190710072249",
+    "element": "Category:Light",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 60",
+    "dataID": "850768",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "10",
+    "colosseumLegality": [
+        "Category:Hero Class"
+    ]
+}

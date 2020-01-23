@@ -1,0 +1,19 @@
+{
+    "id": "361",
+    "name": "Crow Tengu",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Crow_Tengu",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/fd/Unit_ills_thum_40083.png/revision/latest/scale-to-width-down/42?cb=20140419170838",
+    "element": "Category:Thunder",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 8",
+    "dataID": "40083",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "60",
+    "arenaType": "1",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

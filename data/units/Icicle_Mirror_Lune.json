@@ -1,0 +1,19 @@
+{
+    "id": "1143",
+    "name": "Icicle Mirror Lune",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Icicle_Mirror_Lune",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/84/Unit_ills_thum_20696.png/revision/latest/scale-to-width-down/42?cb=20150924172418",
+    "element": "Category:Water",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 42",
+    "dataID": "20696",
+    "gender": "Category:Female Unit",
+    "maxLevel": "120",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

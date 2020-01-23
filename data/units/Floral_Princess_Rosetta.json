@@ -1,0 +1,19 @@
+{
+    "id": "1345",
+    "name": "Floral Princess Rosetta",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Floral_Princess_Rosetta",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/ad/Unit_ills_thum_30546.png/revision/latest/scale-to-width-down/42?cb=20160317110351",
+    "element": "Category:Earth",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 40",
+    "dataID": "30546",
+    "gender": "Category:Female Unit",
+    "maxLevel": "120",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

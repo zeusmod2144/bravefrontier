@@ -1,0 +1,19 @@
+{
+    "id": "203",
+    "name": "Blacksmith Galant",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Blacksmith_Galant",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/6d/Unit_ills_thum_10141.png/revision/latest/scale-to-width-down/42?cb=20140205033454",
+    "element": "Category:Fire",
+    "rarity": "Category:2★ Rarity (Unit)",
+    "cost": "Category:Cost 4",
+    "dataID": "10141",
+    "gender": "Category:Male Unit",
+    "maxLevel": "30",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

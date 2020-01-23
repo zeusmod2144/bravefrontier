@@ -1,0 +1,18 @@
+{
+    "id": "1678",
+    "name": "Necromancer Lilly Matah",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Necromancer_Lilly_Matah",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/86/Unit_ills_thum_60497.png/revision/latest/scale-to-width-down/42?cb=20170717051558",
+    "element": "Category:Dark",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 47",
+    "dataID": "60497",
+    "gender": "Category:Female Unit",
+    "maxLevel": "150",
+    "arenaType": "1",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

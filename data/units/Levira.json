@@ -1,0 +1,19 @@
+{
+    "id": "936",
+    "name": "Levira",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Levira",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e4/Unit_ills_thum_20582.png/revision/latest/scale-to-width-down/42?cb=20150330023241",
+    "element": "Category:Water",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 6",
+    "dataID": "20582",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "40",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

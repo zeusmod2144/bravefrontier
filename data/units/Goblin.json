@@ -1,0 +1,19 @@
+{
+    "id": "67",
+    "name": "Goblin",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Goblin",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/98/Unit_ills_thum_10050.png/revision/latest/scale-to-width-down/42?cb=20131031054735",
+    "element": "Category:Fire",
+    "rarity": "Category:1★ Rarity (Unit)",
+    "cost": "Category:Cost 2",
+    "dataID": "10050",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "12",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

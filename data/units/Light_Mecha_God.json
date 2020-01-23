@@ -1,0 +1,19 @@
+{
+    "id": "811",
+    "name": "Light Mecha God",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Light_Mecha_God",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/4b/Unit_ills_thum_50394.png/revision/latest/scale-to-width-down/42?cb=20141218191418",
+    "element": "Category:Light",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 20",
+    "dataID": "50394",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": null,
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

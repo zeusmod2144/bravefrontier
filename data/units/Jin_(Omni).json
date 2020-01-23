@@ -1,0 +1,16 @@
+{
+    "id": "8579",
+    "name": "Jin (Omni)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Jin_(Omni)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/1f/Unit_ills_thum_820838.png/revision/latest/scale-to-width-down/42?cb=20191127050136",
+    "element": "Category:Water",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 60",
+    "dataID": "820838",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Hero Class"
+    ]
+}

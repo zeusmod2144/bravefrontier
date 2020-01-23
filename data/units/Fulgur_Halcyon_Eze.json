@@ -1,0 +1,19 @@
+{
+    "id": "1305",
+    "name": "Fulgur Halcyon Eze",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Fulgur_Halcyon_Eze",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/9b/Unit_ills_thum_40017.png/revision/latest/scale-to-width-down/42?cb=20160215172311",
+    "element": "Category:Thunder",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 45",
+    "dataID": "40017",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "1494",
+    "name": "Brave Leader Alessa",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Brave_Leader_Alessa",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/cd/Unit_ills_thum_10977.png/revision/latest/scale-to-width-down/42?cb=20161025013513",
+    "element": "Category:Fire",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 48",
+    "dataID": "10977",
+    "gender": "Category:Female Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "8018",
+    "name": "Xenon",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Xenon",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/4c/Unit_ills_thum_860013.png/revision/latest/scale-to-width-down/42?cb=20140610143050",
+    "element": "Category:Dark",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 6",
+    "dataID": "860013",
+    "gender": "Category:Male Unit",
+    "maxLevel": "40",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

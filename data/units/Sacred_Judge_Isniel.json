@@ -1,0 +1,18 @@
+{
+    "id": "1652",
+    "name": "Sacred Judge Isniel",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Sacred_Judge_Isniel",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/ef/Unit_ills_thum_21007.png/revision/latest/scale-to-width-down/42?cb=20170609074513",
+    "element": "Category:Water",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 50",
+    "dataID": "21007",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

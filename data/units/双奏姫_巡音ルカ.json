@@ -1,0 +1,19 @@
+{
+    "id": "708",
+    "name": "双奏姫 巡音ルカ",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/%E5%8F%8C%E5%A5%8F%E5%A7%AB_%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/b5/Unit_ills_thum_60583.png/revision/latest/scale-to-width-down/42?cb=20141008211849",
+    "element": "Category:Dark",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 12",
+    "dataID": "60583",
+    "gender": "Category:Female Unit",
+    "maxLevel": "60",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "1191",
+    "name": "Demon Knight Febros",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Demon_Knight_Febros",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/9b/Unit_ills_thum_60874.png/revision/latest/scale-to-width-down/42?cb=20151025142119",
+    "element": "Category:Dark",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 20",
+    "dataID": "60874",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

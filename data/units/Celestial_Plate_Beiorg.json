@@ -1,0 +1,18 @@
+{
+    "id": "1604",
+    "name": "Celestial Plate Beiorg",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Celestial_Plate_Beiorg",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/83/Unit_ills_thum_40907.png/revision/latest/scale-to-width-down/42?cb=20170309000735",
+    "element": "Category:Thunder",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 50",
+    "dataID": "40907",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "150",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

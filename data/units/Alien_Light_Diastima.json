@@ -1,0 +1,18 @@
+{
+    "id": "1521",
+    "name": "Alien Light Diastima",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Alien_Light_Diastima",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/78/Unit_ills_thum_51106.png/revision/latest/scale-to-width-down/42?cb=20161208013316",
+    "element": "Category:Light",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 46",
+    "dataID": "51106",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "120",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

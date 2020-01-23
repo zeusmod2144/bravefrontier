@@ -1,0 +1,19 @@
+{
+    "id": "632",
+    "name": "Ghoul Fish Pilaf",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Ghoul_Fish_Pilaf",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/a8/Unit_ills_thum_20262.png/revision/latest/scale-to-width-down/42?cb=20140731024944",
+    "element": "Category:Water",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 6",
+    "dataID": "20262",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "40",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

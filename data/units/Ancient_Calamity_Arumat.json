@@ -1,0 +1,16 @@
+{
+    "id": "8428",
+    "name": "Ancient Calamity Arumat",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Ancient_Calamity_Arumat",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/42/Unit_ills_thum_830408.png/revision/latest/scale-to-width-down/42?cb=20180718033026",
+    "element": "Category:Earth",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 60",
+    "dataID": "830408",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Hero Class"
+    ]
+}

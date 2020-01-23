@@ -1,0 +1,19 @@
+{
+    "id": "94",
+    "name": "Cyclops",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Cyclops",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/14/Unit_ills_thum_40072.png/revision/latest/scale-to-width-down/42?cb=20131031071918",
+    "element": "Category:Thunder",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 5",
+    "dataID": "40072",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "40",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "448",
+    "name": "Red Blade Farlon",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Red_Blade_Farlon",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/04/Unit_ills_thum_10334.png/revision/latest/scale-to-width-down/42?cb=20140514103132",
+    "element": "Category:Fire",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 16",
+    "dataID": "10334",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

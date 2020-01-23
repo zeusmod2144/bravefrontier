@@ -1,0 +1,19 @@
+{
+    "id": "293",
+    "name": "Twins Il & Mina",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Twins_Il_%26_Mina",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/23/Unit_ills_thum_30212.png/revision/latest/scale-to-width-down/42?cb=20140429163644",
+    "element": "Category:Earth",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 7",
+    "dataID": "30212",
+    "gender": "Category:Female Unit",
+    "maxLevel": "40",
+    "arenaType": "1",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

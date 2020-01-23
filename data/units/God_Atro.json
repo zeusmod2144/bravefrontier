@@ -1,0 +1,19 @@
+{
+    "id": "20",
+    "name": "God Atro",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/God_Atro",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/a1/Unit_ills_thum_50014.png/revision/latest/scale-to-width-down/42?cb=20131029091031",
+    "element": "Category:Light",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 10",
+    "dataID": "50014",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

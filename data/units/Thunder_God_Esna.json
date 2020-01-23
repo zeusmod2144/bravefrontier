@@ -1,0 +1,19 @@
+{
+    "id": "620",
+    "name": "Thunder God Esna",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Thunder_God_Esna",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/43/Unit_ills_thum_40444.png/revision/latest/scale-to-width-down/42?cb=20140725005525",
+    "element": "Category:Thunder",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 17",
+    "dataID": "40444",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

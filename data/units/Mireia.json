@@ -1,0 +1,19 @@
+{
+    "id": "1031",
+    "name": "Mireia",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Mireia",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/1a/Unit_ills_thum_50682.png/revision/latest/scale-to-width-down/42?cb=20150707100320",
+    "element": "Category:Light",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 6",
+    "dataID": "50682",
+    "gender": "Category:Female Unit",
+    "maxLevel": "40",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

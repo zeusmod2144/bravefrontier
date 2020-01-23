@@ -1,0 +1,19 @@
+{
+    "id": "1043",
+    "name": "Waterfall Staff Quartz",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Waterfall_Staff_Quartz",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/ed/Unit_ills_thum_20645.png/revision/latest/scale-to-width-down/42?cb=20150723015559",
+    "element": "Category:Water",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 30",
+    "dataID": "20645",
+    "gender": "Category:Male Unit",
+    "maxLevel": "100",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

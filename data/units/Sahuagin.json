@@ -1,0 +1,19 @@
+{
+    "id": "70",
+    "name": "Sahuagin",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Sahuagin",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/1e/Unit_ills_thum_20051.png/revision/latest/scale-to-width-down/42?cb=20131031055349",
+    "element": "Category:Water",
+    "rarity": "Category:2★ Rarity (Unit)",
+    "cost": "Category:Cost 4",
+    "dataID": "20051",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "30",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "8476",
+    "name": "Fell Illucen & Illumina",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Fell_Illucen_%26_Illumina",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/da/Unit_ills_thum_860678.png/revision/latest/scale-to-width-down/42?cb=20181212084742",
+    "element": "Category:Dark",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 45",
+    "dataID": "860678",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "1410",
+    "name": "Dark Destruction Kalon",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Dark_Destruction_Kalon",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/f8/Unit_ills_thum_61007.png/revision/latest/scale-to-width-down/42?cb=20160711061314",
+    "element": "Category:Dark",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 48",
+    "dataID": "61007",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

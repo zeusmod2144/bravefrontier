@@ -1,0 +1,19 @@
+{
+    "id": "1082",
+    "name": "Kaiser Sparky",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Kaiser_Sparky",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/19/Unit_ills_thum_40032.png/revision/latest/scale-to-width-down/42?cb=20150731015906",
+    "element": "Category:Thunder",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 5",
+    "dataID": "40032",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "40",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

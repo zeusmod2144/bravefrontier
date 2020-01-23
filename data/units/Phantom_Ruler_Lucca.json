@@ -1,0 +1,19 @@
+{
+    "id": "722",
+    "name": "Phantom Ruler Lucca",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Phantom_Ruler_Lucca",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/14/Unit_ills_thum_30504.png/revision/latest/scale-to-width-down/42?cb=20141023171243",
+    "element": "Category:Earth",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 18",
+    "dataID": "30504",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

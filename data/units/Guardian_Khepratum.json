@@ -1,0 +1,18 @@
+{
+    "id": "8322",
+    "name": "Guardian Khepratum",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Guardian_Khepratum",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/23/Unit_ills_thum_840357.png/revision/latest/scale-to-width-down/42?cb=20170808093920",
+    "element": "Category:Thunder",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 46",
+    "dataID": "840357",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

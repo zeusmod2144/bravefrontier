@@ -1,0 +1,19 @@
+{
+    "id": "947",
+    "name": "Raging Blade Owen",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Raging_Blade_Owen",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e5/Unit_ills_thum_10515.png/revision/latest/scale-to-width-down/42?cb=20150330023240",
+    "element": "Category:Fire",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 30",
+    "dataID": "10515",
+    "gender": "Category:Male Unit",
+    "maxLevel": "100",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

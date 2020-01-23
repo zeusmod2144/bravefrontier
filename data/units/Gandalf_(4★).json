@@ -1,0 +1,19 @@
+{
+    "id": "833",
+    "name": "Gandalf (4★)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Gandalf_(4%E2%98%85)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/af/Unit_ills_thum_10563.png/revision/latest/scale-to-width-down/42?cb=20141224173949",
+    "element": "Category:Fire",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 12",
+    "dataID": "10563",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

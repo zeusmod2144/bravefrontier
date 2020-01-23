@@ -1,0 +1,19 @@
+{
+    "id": "1159",
+    "name": "Garfon",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Garfon",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/92/Unit_ills_thum_10722.png/revision/latest/scale-to-width-down/42?cb=20160218010500",
+    "element": "Category:Fire",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 6",
+    "dataID": "10722",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "40",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

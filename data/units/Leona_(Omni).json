@@ -1,0 +1,17 @@
+{
+    "id": "8271",
+    "name": "Leona (Omni)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Leona_(Omni)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/26/Unit_ills_thum_830188.png/revision/latest/scale-to-width-down/42?cb=20170222101259",
+    "element": "Category:Earth",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 54",
+    "dataID": "830188",
+    "gender": "Category:Female Unit",
+    "maxLevel": "150",
+    "arenaType": "11",
+    "colosseumLegality": [
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

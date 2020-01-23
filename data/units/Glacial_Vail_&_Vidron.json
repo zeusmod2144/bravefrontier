@@ -1,0 +1,16 @@
+{
+    "id": "8396",
+    "name": "Glacial Vail & Vidron",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Glacial_Vail_%26_Vidron",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/84/Unit_ills_thum_820558.png/revision/latest/scale-to-width-down/42?cb=20180328032739",
+    "element": "Category:Water",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 60",
+    "dataID": "820558",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "13",
+    "colosseumLegality": [
+        "Category:Hero Class"
+    ]
+}

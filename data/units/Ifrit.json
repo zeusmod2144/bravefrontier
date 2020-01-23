@@ -1,0 +1,19 @@
+{
+    "id": "100",
+    "name": "Ifrit",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Ifrit",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/54/Unit_ills_thum_10082.png/revision/latest/scale-to-width-down/42?cb=20131031073428",
+    "element": "Category:Fire",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 4",
+    "dataID": "10082",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "40",
+    "arenaType": "1",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

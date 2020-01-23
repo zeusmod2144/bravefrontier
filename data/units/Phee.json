@@ -1,0 +1,19 @@
+{
+    "id": "564",
+    "name": "Phee",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Phee",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/97/Unit_ills_thum_20433.png/revision/latest/scale-to-width-down/42?cb=20140626212916",
+    "element": "Category:Water",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 13",
+    "dataID": "20433",
+    "gender": "Category:Female Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "523",
+    "name": "Skull Lord",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Skull_Lord",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/d1/Unit_ills_thum_60052.png/revision/latest/scale-to-width-down/42?cb=20140505055301",
+    "element": "Category:Dark",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 6",
+    "dataID": "60052",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "40",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

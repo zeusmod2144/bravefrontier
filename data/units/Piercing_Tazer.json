@@ -1,0 +1,19 @@
+{
+    "id": "853",
+    "name": "Piercing Tazer",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Piercing_Tazer",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/2f/Unit_ills_thum_20564.png/revision/latest/scale-to-width-down/42?cb=20150122173547",
+    "element": "Category:Water",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 19",
+    "dataID": "20564",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

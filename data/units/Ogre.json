@@ -1,0 +1,19 @@
+{
+    "id": "270",
+    "name": "Ogre",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Ogre",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/d6/Unit_ills_thum_10172.png/revision/latest/scale-to-width-down/42?cb=20140429155642",
+    "element": "Category:Fire",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 5",
+    "dataID": "10172",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "40",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

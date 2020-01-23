@@ -1,0 +1,17 @@
+{
+    "id": "8521",
+    "name": "Kyo Kusanagi (Omni)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Kyo_Kusanagi_(Omni)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/6a/Unit_ills_thum_810188.png/revision/latest/scale-to-width-down/42?cb=20190422173538",
+    "element": "Category:Fire",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 54",
+    "dataID": "810188",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "11",
+    "colosseumLegality": [
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

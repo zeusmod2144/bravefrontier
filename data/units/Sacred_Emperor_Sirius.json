@@ -1,0 +1,18 @@
+{
+    "id": "1367",
+    "name": "Sacred Emperor Sirius",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Sacred_Emperor_Sirius",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/16/Unit_ills_thum_50917.png/revision/latest/scale-to-width-down/42?cb=20160414171821",
+    "element": "Category:Light",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 47",
+    "dataID": "50917",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

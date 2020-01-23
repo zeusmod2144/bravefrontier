@@ -1,0 +1,19 @@
+{
+    "id": "426",
+    "name": "Magistra Lira",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Magistra_Lira",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/f0/Unit_ills_thum_60274.png/revision/latest/scale-to-width-down/42?cb=20140515042734",
+    "element": "Category:Dark",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 16",
+    "dataID": "60274",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "80",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

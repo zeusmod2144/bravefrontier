@@ -1,0 +1,18 @@
+{
+    "id": "1539",
+    "name": "Divine Dragon Ragzbyul",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Divine_Dragon_Ragzbyul",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/b7/Unit_ills_thum_30517.png/revision/latest/scale-to-width-down/42?cb=20161215185924",
+    "element": "Category:Earth",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 47",
+    "dataID": "30517",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

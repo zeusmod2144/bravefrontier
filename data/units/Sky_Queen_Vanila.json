@@ -1,0 +1,19 @@
+{
+    "id": "8013",
+    "name": "Sky Queen Vanila",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Sky_Queen_Vanila",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/71/Unit_ills_thum_850004.png/revision/latest/scale-to-width-down/42?cb=20140524175155",
+    "element": "Category:Light",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 10",
+    "dataID": "850004",
+    "gender": "Category:Female Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

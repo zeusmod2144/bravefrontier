@@ -1,0 +1,19 @@
+{
+    "id": "8041",
+    "name": "Scarlet Hood Ciara",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Scarlet_Hood_Ciara",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/9b/Unit_ills_thum_810105.png/revision/latest/scale-to-width-down/42?cb=20141027132858",
+    "element": "Category:Fire",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 17",
+    "dataID": "810105",
+    "gender": "Category:Female Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

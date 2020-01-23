@@ -1,0 +1,18 @@
+{
+    "id": "8498",
+    "name": "Orebi Terra Geode",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Orebi_Terra_Geode",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/4f/Unit_ills_thum_830900.png/revision/latest/scale-to-width-down/42?cb=20190227081350",
+    "element": "Category:Earth",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 46",
+    "dataID": "830900",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "150",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

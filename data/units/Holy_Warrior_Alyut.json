@@ -1,0 +1,19 @@
+{
+    "id": "513",
+    "name": "Holy Warrior Alyut",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Holy_Warrior_Alyut",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/3e/Unit_ills_thum_50404.png/revision/latest/scale-to-width-down/42?cb=20140515022847",
+    "element": "Category:Light",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 16",
+    "dataID": "50404",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "id": "8422",
+    "name": "Mad King Ihsir",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Mad_King_Ihsir",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/ed/Unit_ills_thum_860338.png/revision/latest/scale-to-width-down/42?cb=20180627115122",
+    "element": "Category:Dark",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 60",
+    "dataID": "860338",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Hero Class"
+    ]
+}

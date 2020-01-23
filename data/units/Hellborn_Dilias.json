@@ -1,0 +1,19 @@
+{
+    "id": "375",
+    "name": "Hellborn Dilias",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Hellborn_Dilias",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/af/Unit_ills_thum_60105.png/revision/latest/scale-to-width-down/42?cb=20140420025041",
+    "element": "Category:Dark",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 22",
+    "dataID": "60105",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "100",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

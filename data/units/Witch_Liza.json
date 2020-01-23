@@ -1,0 +1,19 @@
+{
+    "id": "55",
+    "name": "Witch Liza",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Witch_Liza",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/30/Unit_ills_thum_10040.png/revision/latest/scale-to-width-down/42?cb=20131031042133",
+    "element": "Category:Fire",
+    "rarity": "Category:1★ Rarity (Unit)",
+    "cost": "Category:Cost 2",
+    "dataID": "10040",
+    "gender": "Category:Female Unit",
+    "maxLevel": "15",
+    "arenaType": "5",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

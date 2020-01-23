@@ -1,0 +1,19 @@
+{
+    "id": "196",
+    "name": "Jewel King",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Jewel_King",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/da/Unit_ills_thum_50132.png/revision/latest/scale-to-width-down/42?cb=20131101124745",
+    "element": "Category:Light",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 6",
+    "dataID": "50132",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

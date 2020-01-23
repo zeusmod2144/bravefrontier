@@ -1,0 +1,19 @@
+{
+    "id": "127",
+    "name": "Princess Lidith",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Princess_Lidith",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/b3/Unit_ills_thum_30102.png/revision/latest/scale-to-width-down/42?cb=20131101001205",
+    "element": "Category:Earth",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 5",
+    "dataID": "30102",
+    "gender": "Category:Female Unit",
+    "maxLevel": "40",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

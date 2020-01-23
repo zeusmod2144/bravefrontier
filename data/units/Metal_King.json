@@ -1,0 +1,19 @@
+{
+    "id": "199",
+    "name": "Metal King",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Metal_King",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/95/Unit_ills_thum_60133.png/revision/latest/scale-to-width-down/42?cb=20131101125016",
+    "element": "Category:Dark",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 6",
+    "dataID": "60133",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

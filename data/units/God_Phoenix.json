@@ -1,0 +1,19 @@
+{
+    "id": "137",
+    "name": "God Phoenix",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/God_Phoenix",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e1/Unit_ills_thum_10114.png/revision/latest/scale-to-width-down/42?cb=20131101014946",
+    "element": "Category:Fire",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 12",
+    "dataID": "10114",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "80",
+    "arenaType": "1",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

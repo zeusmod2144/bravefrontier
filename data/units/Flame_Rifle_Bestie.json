@@ -1,0 +1,19 @@
+{
+    "id": "978",
+    "name": "Flame Rifle Bestie",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Flame_Rifle_Bestie",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/13/Unit_ills_thum_10664.png/revision/latest/scale-to-width-down/42?cb=20150524182305",
+    "element": "Category:Fire",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 19",
+    "dataID": "10664",
+    "gender": "Category:Female Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

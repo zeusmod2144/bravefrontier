@@ -1,0 +1,19 @@
+{
+    "id": "610",
+    "name": "Bodyguard Darvanshel",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Bodyguard_Darvanshel",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/5c/Unit_ills_thum_10463.png/revision/latest/scale-to-width-down/42?cb=20140725005501",
+    "element": "Category:Fire",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 13",
+    "dataID": "10463",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

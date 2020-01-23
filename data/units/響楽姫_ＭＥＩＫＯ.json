@@ -1,0 +1,19 @@
+{
+    "id": "1338",
+    "name": "響楽姫 ＭＥＩＫＯ",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/%E9%9F%BF%E6%A5%BD%E5%A7%AB_%EF%BC%AD%EF%BC%A5%EF%BC%A9%EF%BC%AB%EF%BC%AF",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e3/Unit_ills_thum_10783.png/revision/latest/scale-to-width-down/42?cb=20180101023207",
+    "element": "Category:Fire",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 10",
+    "dataID": "10783",
+    "gender": "Category:Female Unit",
+    "maxLevel": "60",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

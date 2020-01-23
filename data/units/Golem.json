@@ -1,0 +1,19 @@
+{
+    "id": "419",
+    "name": "Golem",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Golem",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/b4/Unit_ills_thum_30273.png/revision/latest/scale-to-width-down/42?cb=20140515041605",
+    "element": "Category:Earth",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 12",
+    "dataID": "30273",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

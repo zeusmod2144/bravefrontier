@@ -1,0 +1,19 @@
+{
+    "id": "516",
+    "name": "Dark Warrior Zephyr",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Dark_Warrior_Zephyr",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/07/Unit_ills_thum_60354.png/revision/latest/scale-to-width-down/42?cb=20140515023007",
+    "element": "Category:Dark",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 16",
+    "dataID": "60354",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

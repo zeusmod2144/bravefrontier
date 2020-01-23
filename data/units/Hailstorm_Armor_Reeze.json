@@ -1,0 +1,19 @@
+{
+    "id": "1085",
+    "name": "Hailstorm Armor Reeze",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Hailstorm_Armor_Reeze",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/40/Unit_ills_thum_20286.png/revision/latest/scale-to-width-down/42?cb=20150813171259",
+    "element": "Category:Water",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 40",
+    "dataID": "20286",
+    "gender": "Category:Female Unit",
+    "maxLevel": "120",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

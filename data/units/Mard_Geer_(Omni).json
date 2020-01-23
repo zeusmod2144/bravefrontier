@@ -1,0 +1,18 @@
+{
+    "id": "8337",
+    "name": "Mard Geer (Omni)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Mard_Geer_(Omni)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/98/Unit_ills_thum_860548.png/revision/latest/scale-to-width-down/42?cb=20170928140635",
+    "element": "Category:Dark",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 48",
+    "dataID": "860548",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

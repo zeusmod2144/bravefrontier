@@ -1,0 +1,19 @@
+{
+    "id": "830",
+    "name": "Dark Blades Zergel",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Dark_Blades_Zergel",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/01/Unit_ills_thum_60643.png/revision/latest/scale-to-width-down/42?cb=20141224171945",
+    "element": "Category:Dark",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 13",
+    "dataID": "60643",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

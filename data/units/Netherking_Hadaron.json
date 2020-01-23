@@ -1,0 +1,19 @@
+{
+    "id": "8076",
+    "name": "Netherking Hadaron",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Netherking_Hadaron",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/ba/Unit_ills_thum_860146.png/revision/latest/scale-to-width-down/42?cb=20150115112345",
+    "element": "Category:Dark",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 27",
+    "dataID": "860146",
+    "gender": "Category:Male Unit",
+    "maxLevel": "100",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

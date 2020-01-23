@@ -1,0 +1,18 @@
+{
+    "id": "1498",
+    "name": "Imperial Chain Johan",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Imperial_Chain_Johan",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/ab/Unit_ills_thum_61047.png/revision/latest/scale-to-width-down/42?cb=20161025013558",
+    "element": "Category:Dark",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 48",
+    "dataID": "61047",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

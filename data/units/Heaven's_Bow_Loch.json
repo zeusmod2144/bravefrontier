@@ -1,0 +1,19 @@
+{
+    "id": "480",
+    "name": "Heaven's Bow Loch",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Heaven%27s_Bow_Loch",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/6d/Unit_ills_thum_40165.png/revision/latest/scale-to-width-down/42?cb=20140420035540",
+    "element": "Category:Thunder",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 22",
+    "dataID": "40165",
+    "gender": "Category:Male Unit",
+    "maxLevel": "100",
+    "arenaType": "1",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

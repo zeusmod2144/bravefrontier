@@ -1,0 +1,19 @@
+{
+    "id": "979",
+    "name": "Blaze Rifle Bestie",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Blaze_Rifle_Bestie",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e8/Unit_ills_thum_10665.png/revision/latest/scale-to-width-down/42?cb=20150524182306",
+    "element": "Category:Fire",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 29",
+    "dataID": "10665",
+    "gender": "Category:Female Unit",
+    "maxLevel": "100",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

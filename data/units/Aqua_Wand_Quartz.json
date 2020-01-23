@@ -1,0 +1,19 @@
+{
+    "id": "1042",
+    "name": "Aqua Wand Quartz",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Aqua_Wand_Quartz",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/c6/Unit_ills_thum_20644.png/revision/latest/scale-to-width-down/42?cb=20150723015558",
+    "element": "Category:Water",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 20",
+    "dataID": "20644",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

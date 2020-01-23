@@ -1,0 +1,19 @@
+{
+    "id": "560",
+    "name": "Inferno Swords Logan",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Inferno_Swords_Logan",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/8f/Unit_ills_thum_60285.png/revision/latest/scale-to-width-down/42?cb=20140616033952",
+    "element": "Category:Dark",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 24",
+    "dataID": "60285",
+    "gender": "Category:Male Unit",
+    "maxLevel": "100",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

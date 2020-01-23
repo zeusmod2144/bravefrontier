@@ -1,0 +1,16 @@
+{
+    "id": "8402",
+    "name": "Ultor the Unbreakable",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Ultor_the_Unbreakable",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/f7/Unit_ills_thum_810148.png/revision/latest/scale-to-width-down/42?cb=20180425094323",
+    "element": "Category:Fire",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 60",
+    "dataID": "810148",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Hero Class"
+    ]
+}

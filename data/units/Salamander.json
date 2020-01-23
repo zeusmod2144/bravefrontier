@@ -1,0 +1,19 @@
+{
+    "id": "99",
+    "name": "Salamander",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Salamander",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/82/Unit_ills_thum_10081.png/revision/latest/scale-to-width-down/42?cb=20131031073409",
+    "element": "Category:Fire",
+    "rarity": "Category:2★ Rarity (Unit)",
+    "cost": "Category:Cost 2",
+    "dataID": "10081",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "30",
+    "arenaType": "1",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

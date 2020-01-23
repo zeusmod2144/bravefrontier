@@ -1,0 +1,19 @@
+{
+    "id": "805",
+    "name": "Light Legend Atro",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Light_Legend_Atro",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/4c/Unit_ills_thum_50016.png/revision/latest/scale-to-width-down/42?cb=20141218181304",
+    "element": "Category:Light",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 38",
+    "dataID": "50016",
+    "gender": "Category:Male Unit",
+    "maxLevel": "120",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

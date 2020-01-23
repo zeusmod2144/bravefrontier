@@ -1,0 +1,19 @@
+{
+    "id": "179",
+    "name": "Earth Spirit",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Earth_Spirit",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/d6/Unit_ills_thum_30131.png/revision/latest/scale-to-width-down/42?cb=20131101094043",
+    "element": "Category:Earth",
+    "rarity": "Category:2★ Rarity (Unit)",
+    "cost": "Category:Cost 5",
+    "dataID": "30131",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

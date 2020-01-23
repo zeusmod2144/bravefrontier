@@ -1,0 +1,19 @@
+{
+    "id": "581",
+    "name": "Jaegar",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Jaegar",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/98/Unit_ills_thum_20222.png/revision/latest/scale-to-width-down/42?cb=20140701152948",
+    "element": "Category:Water",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 6",
+    "dataID": "20222",
+    "gender": "Category:Male Unit",
+    "maxLevel": "40",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

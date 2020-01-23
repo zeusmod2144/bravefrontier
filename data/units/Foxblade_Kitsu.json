@@ -1,0 +1,19 @@
+{
+    "id": "8370",
+    "name": "Foxblade Kitsu",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Foxblade_Kitsu",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/c9/Unit_ills_thum_820518.png/revision/latest/scale-to-width-down/42?cb=20171220170319",
+    "element": "Category:Water",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 45",
+    "dataID": "820518",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

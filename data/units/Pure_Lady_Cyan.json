@@ -1,0 +1,19 @@
+{
+    "id": "1096",
+    "name": "Pure Lady Cyan",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Pure_Lady_Cyan",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/88/Unit_ills_thum_30674.png/revision/latest/scale-to-width-down/42?cb=20150823173129",
+    "element": "Category:Earth",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 20",
+    "dataID": "30674",
+    "gender": "Category:Female Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "93",
+    "name": "Minotaur",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Minotaur",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/46/Unit_ills_thum_40071.png/revision/latest/scale-to-width-down/42?cb=20131031071848",
+    "element": "Category:Thunder",
+    "rarity": "Category:2★ Rarity (Unit)",
+    "cost": "Category:Cost 2",
+    "dataID": "40071",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "30",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

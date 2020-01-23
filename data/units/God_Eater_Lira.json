@@ -1,0 +1,19 @@
+{
+    "id": "493",
+    "name": "God Eater Lira",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/God_Eater_Lira",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/0a/Unit_ills_thum_60275.png/revision/latest/scale-to-width-down/42?cb=20140515042648",
+    "element": "Category:Dark",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 25",
+    "dataID": "60275",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "100",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

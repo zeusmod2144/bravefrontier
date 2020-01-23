@@ -1,0 +1,16 @@
+{
+    "id": "8565",
+    "name": "Ma'at, Arbiter of Order",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Ma%27at,_Arbiter_of_Order",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/60/Unit_ills_thum_840688.png/revision/latest/scale-to-width-down/42?cb=20191009062946",
+    "element": "Category:Thunder",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 60",
+    "dataID": "840688",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Hero Class"
+    ]
+}

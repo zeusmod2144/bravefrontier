@@ -1,0 +1,19 @@
+{
+    "id": "859",
+    "name": "Admonition Kanon",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Admonition_Kanon",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/ef/Unit_ills_thum_40534.png/revision/latest/scale-to-width-down/42?cb=20150122173550",
+    "element": "Category:Thunder",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 19",
+    "dataID": "40534",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

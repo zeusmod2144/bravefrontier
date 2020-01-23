@@ -1,0 +1,19 @@
+{
+    "id": "1128",
+    "name": "Barbatos (5★)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Barbatos_(5%E2%98%85)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/b9/Unit_ills_thum_10764.png/revision/latest/scale-to-width-down/42?cb=20160528063951",
+    "element": "Category:Fire",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 16",
+    "dataID": "10764",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

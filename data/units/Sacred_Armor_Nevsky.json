@@ -1,0 +1,19 @@
+{
+    "id": "878",
+    "name": "Sacred Armor Nevsky",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Sacred_Armor_Nevsky",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/b6/Unit_ills_thum_50325.png/revision/latest/scale-to-width-down/42?cb=20150211162904",
+    "element": "Category:Light",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 26",
+    "dataID": "50325",
+    "gender": "Category:Male Unit",
+    "maxLevel": "100",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

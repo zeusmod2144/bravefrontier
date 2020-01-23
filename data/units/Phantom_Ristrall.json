@@ -1,0 +1,19 @@
+{
+    "id": "584",
+    "name": "Phantom Ristrall",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Phantom_Ristrall",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/b7/Unit_ills_thum_30223.png/revision/latest/scale-to-width-down/42?cb=20140701152950",
+    "element": "Category:Earth",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 10",
+    "dataID": "30223",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

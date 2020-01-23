@@ -1,0 +1,18 @@
+{
+    "id": "8329",
+    "name": "Stratospheric Crash Belt",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Stratospheric_Crash_Belt",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/44/Unit_ills_thum_740157.png/revision/latest/scale-to-width-down/42?cb=20170913043340",
+    "element": "Category:Thunder",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 50",
+    "dataID": "740157",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

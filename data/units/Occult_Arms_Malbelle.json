@@ -1,0 +1,19 @@
+{
+    "id": "1252",
+    "name": "Occult Arms Malbelle",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Occult_Arms_Malbelle",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/8d/Unit_ills_thum_60895.png/revision/latest/scale-to-width-down/42?cb=20151224193524",
+    "element": "Category:Dark",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 30",
+    "dataID": "60895",
+    "gender": "Category:Female Unit",
+    "maxLevel": "100",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

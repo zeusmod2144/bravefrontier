@@ -1,0 +1,19 @@
+{
+    "id": "52",
+    "name": "King Glowy",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/King_Glowy",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/58/Unit_ills_thum_50031.png/revision/latest/scale-to-width-down/42?cb=20131030143309",
+    "element": "Category:Light",
+    "rarity": "Category:2★ Rarity (Unit)",
+    "cost": "Category:Cost 3",
+    "dataID": "50031",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "30",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

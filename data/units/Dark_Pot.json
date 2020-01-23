@@ -1,0 +1,19 @@
+{
+    "id": "311",
+    "name": "Dark Pot",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Dark_Pot",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/81/Unit_ills_thum_60201.png/revision/latest/scale-to-width-down/42?cb=20140429170605",
+    "element": "Category:Dark",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 1",
+    "dataID": "60201",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

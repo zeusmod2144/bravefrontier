@@ -1,0 +1,16 @@
+{
+    "id": "8564",
+    "name": "Set the Deceiver",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Set_the_Deceiver",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/2f/Unit_ills_thum_860688.png/revision/latest/scale-to-width-down/42?cb=20191009062946",
+    "element": "Category:Dark",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 60",
+    "dataID": "860688",
+    "gender": "Category:Female Unit",
+    "maxLevel": "150",
+    "arenaType": "11",
+    "colosseumLegality": [
+        "Category:Hero Class"
+    ]
+}

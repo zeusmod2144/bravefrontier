@@ -1,0 +1,19 @@
+{
+    "id": "49",
+    "name": "Sparky",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Sparky",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/cd/Unit_ills_thum_40030.png/revision/latest/scale-to-width-down/42?cb=20131030142938",
+    "element": "Category:Thunder",
+    "rarity": "Category:1★ Rarity (Unit)",
+    "cost": "Category:Cost 1",
+    "dataID": "40030",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "10",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

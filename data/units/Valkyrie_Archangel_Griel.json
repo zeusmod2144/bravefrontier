@@ -1,0 +1,19 @@
+{
+    "id": "903",
+    "name": "Valkyrie Archangel Griel",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Valkyrie_Archangel_Griel",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/87/Unit_ills_thum_40276.png/revision/latest/scale-to-width-down/42?cb=20150316091849",
+    "element": "Category:Thunder",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 40",
+    "dataID": "40276",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "120",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

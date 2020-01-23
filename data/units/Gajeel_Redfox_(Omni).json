@@ -1,0 +1,16 @@
+{
+    "id": "8464",
+    "name": "Gajeel Redfox (Omni)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Gajeel_Redfox_(Omni)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/60/Unit_ills_thum_830648.png/revision/latest/scale-to-width-down/42?cb=20181031203214",
+    "element": "Category:Earth",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 60",
+    "dataID": "830648",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "10",
+    "colosseumLegality": [
+        "Category:Hero Class"
+    ]
+}

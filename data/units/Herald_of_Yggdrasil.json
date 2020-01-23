@@ -1,0 +1,16 @@
+{
+    "id": "8593",
+    "name": "Herald of Yggdrasil",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Herald_of_Yggdrasil",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/5b/Unit_ills_thum_760006.png/revision/latest/scale-to-width-down/42?cb=20200122065634",
+    "element": "Category:Dark",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 60",
+    "dataID": "760006",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "150",
+    "arenaType": "5",
+    "colosseumLegality": [
+        "Category:Hero Class"
+    ]
+}

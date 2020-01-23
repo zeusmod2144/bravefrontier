@@ -1,0 +1,19 @@
+{
+    "id": "369",
+    "name": "Legion",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Legion",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/d9/Unit_ills_thum_60084.png/revision/latest/scale-to-width-down/42?cb=20140419172726",
+    "element": "Category:Dark",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 12",
+    "dataID": "60084",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

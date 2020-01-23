@@ -1,0 +1,16 @@
+{
+    "id": "8588",
+    "name": "Shadow Stalker Vohu",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Shadow_Stalker_Vohu",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/65/Unit_ills_thum_860818.png/revision/latest/scale-to-width-down/42?cb=20191218153952",
+    "element": "Category:Dark",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 60",
+    "dataID": "860818",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "Unknown",
+    "colosseumLegality": [
+        "Category:Hero Class"
+    ]
+}

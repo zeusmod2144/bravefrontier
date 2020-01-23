@@ -1,0 +1,19 @@
+{
+    "id": "186",
+    "name": "Thunder Idol",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Thunder_Idol",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/78/Unit_ills_thum_40132.png/revision/latest/scale-to-width-down/42?cb=20131101094649",
+    "element": "Category:Thunder",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 8",
+    "dataID": "40132",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

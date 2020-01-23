@@ -1,0 +1,19 @@
+{
+    "id": "1333",
+    "name": "Krishna",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Krishna",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/76/Unit_ills_thum_50955.png/revision/latest/scale-to-width-down/42?cb=20160908021850",
+    "element": "Category:Light",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 25",
+    "dataID": "50955",
+    "gender": "Category:Male Unit",
+    "maxLevel": "100",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

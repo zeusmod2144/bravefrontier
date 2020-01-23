@@ -1,0 +1,19 @@
+{
+    "id": "262",
+    "name": "Earth God",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Earth_God",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/8b/Unit_ills_thum_30204.png/revision/latest/scale-to-width-down/42?cb=20140429161050",
+    "element": "Category:Earth",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 9",
+    "dataID": "30204",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

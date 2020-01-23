@@ -1,0 +1,19 @@
+{
+    "id": "353",
+    "name": "Drake God Lodin",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Drake_God_Lodin",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/2f/Unit_ills_thum_40254.png/revision/latest/scale-to-width-down/42?cb=20140413163626",
+    "element": "Category:Thunder",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 13",
+    "dataID": "40254",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "1",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

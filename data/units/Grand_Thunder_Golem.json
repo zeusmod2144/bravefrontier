@@ -1,0 +1,19 @@
+{
+    "id": "7016",
+    "name": "Grand Thunder Golem",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Grand_Thunder_Golem",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/98/Unit_ills_thum_87402603.png/revision/latest/scale-to-width-down/42?cb=20190601210836",
+    "element": "Category:Thunder",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 25",
+    "dataID": "87402603",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

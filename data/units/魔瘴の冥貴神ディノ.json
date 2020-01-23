@@ -1,0 +1,19 @@
+{
+    "id": "1337",
+    "name": "魔瘴の冥貴神ディノ",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/%E9%AD%94%E7%98%B4%E3%81%AE%E5%86%A5%E8%B2%B4%E7%A5%9E%E3%83%87%E3%82%A3%E3%83%8E",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/5a/Unit_ills_thum_60936.png/revision/latest/scale-to-width-down/42?cb=20160224185525",
+    "element": "Category:Dark",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 38",
+    "dataID": "60936",
+    "gender": "Category:Male Unit",
+    "maxLevel": "120",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

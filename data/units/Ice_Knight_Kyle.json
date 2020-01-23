@@ -1,0 +1,19 @@
+{
+    "id": "1283",
+    "name": "Ice Knight Kyle",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Ice_Knight_Kyle",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/0f/Unit_ills_thum_20423.png/revision/latest/scale-to-width-down/42?cb=20160129125724",
+    "element": "Category:Water",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 12",
+    "dataID": "20423",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

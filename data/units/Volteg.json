@@ -1,0 +1,19 @@
+{
+    "id": "1165",
+    "name": "Volteg",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Volteg",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/50/Unit_ills_thum_40632.png/revision/latest/scale-to-width-down/42?cb=20160218015213",
+    "element": "Category:Thunder",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 6",
+    "dataID": "40632",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "40",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

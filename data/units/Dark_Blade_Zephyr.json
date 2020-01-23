@@ -1,0 +1,19 @@
+{
+    "id": "515",
+    "name": "Dark Blade Zephyr",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Dark_Blade_Zephyr",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/39/Unit_ills_thum_60353.png/revision/latest/scale-to-width-down/42?cb=20140515022949",
+    "element": "Category:Dark",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 12",
+    "dataID": "60353",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

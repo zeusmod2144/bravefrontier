@@ -1,0 +1,19 @@
+{
+    "id": "635",
+    "name": "Cockatrice",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Cockatrice",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/2a/Unit_ills_thum_40261.png/revision/latest/scale-to-width-down/42?cb=20140731024954",
+    "element": "Category:Thunder",
+    "rarity": "Category:2★ Rarity (Unit)",
+    "cost": "Category:Cost 4",
+    "dataID": "40261",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "30",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

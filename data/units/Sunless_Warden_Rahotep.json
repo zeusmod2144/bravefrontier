@@ -1,0 +1,16 @@
+{
+    "id": "8262",
+    "name": "Sunless Warden Rahotep",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Sunless_Warden_Rahotep",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/af/Unit_ills_thum_810357.png/revision/latest/scale-to-width-down/42?cb=20170106110527",
+    "element": "Category:Fire",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 60",
+    "dataID": "810357",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Hero Class"
+    ]
+}

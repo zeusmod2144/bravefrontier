@@ -1,0 +1,19 @@
+{
+    "id": "22",
+    "name": "Heavy Magress",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Heavy_Magress",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/51/Unit_ills_thum_60012.png/revision/latest/scale-to-width-down/42?cb=20131031040523",
+    "element": "Category:Dark",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 4",
+    "dataID": "60012",
+    "gender": "Category:Male Unit",
+    "maxLevel": "40",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

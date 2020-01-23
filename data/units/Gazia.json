@@ -1,0 +1,19 @@
+{
+    "id": "8142",
+    "name": "Gazia",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Gazia",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/a4/Unit_ills_thum_850346.png/revision/latest/scale-to-width-down/42?cb=20151008141844",
+    "element": "Category:Light",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 32",
+    "dataID": "850346",
+    "gender": "Category:Male Unit",
+    "maxLevel": "100",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

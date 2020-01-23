@@ -1,0 +1,19 @@
+{
+    "id": "146",
+    "name": "Alpha Behemoth",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Alpha_Behemoth",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/0a/Unit_ills_thum_40114.png/revision/latest/scale-to-width-down/42?cb=20131101023715",
+    "element": "Category:Thunder",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 12",
+    "dataID": "40114",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "80",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

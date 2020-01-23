@@ -1,0 +1,19 @@
+{
+    "id": "1662",
+    "name": "Harley Quinn",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Harley_Quinn",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/a5/Unit_ills_thum_11105.png/revision/latest/scale-to-width-down/42?cb=20190401183839",
+    "element": "Category:Fire",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 28",
+    "dataID": "11105",
+    "gender": "Category:Female Unit",
+    "maxLevel": "100",
+    "arenaType": "8",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

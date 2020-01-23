@@ -1,0 +1,19 @@
+{
+    "id": "8111",
+    "name": "Blighted Fei",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Blighted_Fei",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/d2/Unit_ills_thum_820505.png/revision/latest/scale-to-width-down/42?cb=20150213114944",
+    "element": "Category:Water",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 18",
+    "dataID": "820505",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

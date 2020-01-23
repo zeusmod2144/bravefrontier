@@ -1,0 +1,19 @@
+{
+    "id": "1081",
+    "name": "Kaiser Mossy",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Kaiser_Mossy",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/63/Unit_ills_thum_30032.png/revision/latest/scale-to-width-down/42?cb=20150731015905",
+    "element": "Category:Earth",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 5",
+    "dataID": "30032",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "40",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "455",
+    "name": "Horseman Sodis",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Horseman_Sodis",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/db/Unit_ills_thum_50383.png/revision/latest/scale-to-width-down/42?cb=20140514102342",
+    "element": "Category:Light",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 12",
+    "dataID": "50383",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

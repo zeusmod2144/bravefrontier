@@ -1,0 +1,19 @@
+{
+    "id": "637",
+    "name": "GS-220",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/GS-220",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/de/Unit_ills_thum_50291.png/revision/latest/scale-to-width-down/42?cb=20140731024955",
+    "element": "Category:Light",
+    "rarity": "Category:2★ Rarity (Unit)",
+    "cost": "Category:Cost 4",
+    "dataID": "50291",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "30",
+    "arenaType": "1",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

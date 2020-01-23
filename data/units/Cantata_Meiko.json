@@ -1,0 +1,19 @@
+{
+    "id": "8078",
+    "name": "Cantata Meiko",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Cantata_Meiko",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/4c/Unit_ills_thum_810205.png/revision/latest/scale-to-width-down/42?cb=20150328234708",
+    "element": "Category:Fire",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 17",
+    "dataID": "810205",
+    "gender": "Category:Female Unit",
+    "maxLevel": "80",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

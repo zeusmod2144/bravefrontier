@@ -1,0 +1,18 @@
+{
+    "id": "1636",
+    "name": "Mechanic Goddess Lilith",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Mechanic_Goddess_Lilith",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e6/Unit_ills_thum_50317.png/revision/latest/scale-to-width-down/42?cb=20170518084938",
+    "element": "Category:Light",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 47",
+    "dataID": "50317",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

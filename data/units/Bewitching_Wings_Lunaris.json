@@ -1,0 +1,18 @@
+{
+    "id": "1781",
+    "name": "Bewitching Wings Lunaris",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Bewitching_Wings_Lunaris",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/23/Unit_ills_thum_60317.png/revision/latest/scale-to-width-down/42?cb=20171215043929",
+    "element": "Category:Dark",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 47",
+    "dataID": "60317",
+    "gender": "Category:Female Unit",
+    "maxLevel": "150",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

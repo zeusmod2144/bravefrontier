@@ -1,0 +1,19 @@
+{
+    "id": "12",
+    "name": "Nature God Lance",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Nature_God_Lance",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/ae/Unit_ills_thum_30014.png/revision/latest/scale-to-width-down/42?cb=20131029090137",
+    "element": "Category:Earth",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 10",
+    "dataID": "30014",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

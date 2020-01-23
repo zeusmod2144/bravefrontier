@@ -1,0 +1,19 @@
+{
+    "id": "737",
+    "name": "Popoi (4★)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Popoi_(4%E2%98%85)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/a7/Unit_ills_thum_30483.png/revision/latest/scale-to-width-down/42?cb=20141029212435",
+    "element": "Category:Earth",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 12",
+    "dataID": "30483",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

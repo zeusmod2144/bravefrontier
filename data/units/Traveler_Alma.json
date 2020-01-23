@@ -1,0 +1,19 @@
+{
+    "id": "215",
+    "name": "Traveler Alma",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Traveler_Alma",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/71/Unit_ills_thum_50141.png/revision/latest/scale-to-width-down/42?cb=20140115061903",
+    "element": "Category:Light",
+    "rarity": "Category:2★ Rarity (Unit)",
+    "cost": "Category:Cost 4",
+    "dataID": "50141",
+    "gender": "Category:Female Unit",
+    "maxLevel": "30",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

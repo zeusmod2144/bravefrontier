@@ -1,0 +1,18 @@
+{
+    "id": "8361",
+    "name": "Spellarcher Fionna",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Spellarcher_Fionna",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/22/Unit_ills_thum_850047.png/revision/latest/scale-to-width-down/42?cb=20171129070132",
+    "element": "Category:Light",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 46",
+    "dataID": "850047",
+    "gender": "Category:Female Unit",
+    "maxLevel": "120",
+    "arenaType": "11",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

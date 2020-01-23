@@ -1,0 +1,19 @@
+{
+    "id": "1163",
+    "name": "Wargloon",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Wargloon",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/f6/Unit_ills_thum_30662.png/revision/latest/scale-to-width-down/42?cb=20160218013955",
+    "element": "Category:Earth",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 4",
+    "dataID": "30662",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "40",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

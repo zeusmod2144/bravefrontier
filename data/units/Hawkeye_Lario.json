@@ -1,0 +1,19 @@
+{
+    "id": "33",
+    "name": "Hawkeye Lario",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Hawkeye_Lario",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/55/Unit_ills_thum_30023.png/revision/latest/scale-to-width-down/42?cb=20131029094407",
+    "element": "Category:Earth",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 9",
+    "dataID": "30023",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

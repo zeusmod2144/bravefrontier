@@ -1,0 +1,19 @@
+{
+    "id": "1021",
+    "name": "Shadow Serpent Kafka",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Shadow_Serpent_Kafka",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e0/Unit_ills_thum_60765.png/revision/latest/scale-to-width-down/42?cb=20150624033247",
+    "element": "Category:Dark",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 30",
+    "dataID": "60765",
+    "gender": "Category:Female Unit",
+    "maxLevel": "100",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

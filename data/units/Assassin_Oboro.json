@@ -1,0 +1,19 @@
+{
+    "id": "219",
+    "name": "Assassin Oboro",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Assassin_Oboro",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/a4/Unit_ills_thum_60152.png/revision/latest/scale-to-width-down/42?cb=20140115062053",
+    "element": "Category:Dark",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 6",
+    "dataID": "60152",
+    "gender": "Category:Male Unit",
+    "maxLevel": "40",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

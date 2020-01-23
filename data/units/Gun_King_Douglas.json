@@ -1,0 +1,19 @@
+{
+    "id": "160",
+    "name": "Gun King Douglas",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Gun_King_Douglas",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/85/Unit_ills_thum_30123.png/revision/latest/scale-to-width-down/42?cb=20131101035821",
+    "element": "Category:Earth",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 8",
+    "dataID": "30123",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

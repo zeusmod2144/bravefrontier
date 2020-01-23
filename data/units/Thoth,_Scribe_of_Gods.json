@@ -1,0 +1,16 @@
+{
+    "id": "8557",
+    "name": "Thoth, Scribe of Gods",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Thoth,_Scribe_of_Gods",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/c5/Unit_ills_thum_820688.png/revision/latest/scale-to-width-down/42?cb=20190911060627",
+    "element": "Category:Water",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 60",
+    "dataID": "820688",
+    "gender": "Category:Female Unit",
+    "maxLevel": "150",
+    "arenaType": "11",
+    "colosseumLegality": [
+        "Category:Hero Class"
+    ]
+}

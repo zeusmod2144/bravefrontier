@@ -1,0 +1,19 @@
+{
+    "id": "545",
+    "name": "Magic Riffs Eric",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Magic_Riffs_Eric",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/03/Unit_ills_thum_60363.png/revision/latest/scale-to-width-down/42?cb=20140528070147",
+    "element": "Category:Dark",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 12",
+    "dataID": "60363",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

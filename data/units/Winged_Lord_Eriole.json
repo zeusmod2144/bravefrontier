@@ -1,0 +1,19 @@
+{
+    "id": "846",
+    "name": "Winged Lord Eriole",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Winged_Lord_Eriole",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/9b/Unit_ills_thum_50445.png/revision/latest/scale-to-width-down/42?cb=20150122190851",
+    "element": "Category:Light",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 30",
+    "dataID": "50445",
+    "gender": "Category:Male Unit",
+    "maxLevel": "100",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

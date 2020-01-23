@@ -1,0 +1,19 @@
+{
+    "id": "1641",
+    "name": "Ky",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Ky",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/07/Unit_ills_thum_40927.png/revision/latest/scale-to-width-down/42?cb=20170517081341",
+    "element": "Category:Thunder",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 45",
+    "dataID": "40927",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

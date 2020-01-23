@@ -1,0 +1,19 @@
+{
+    "id": "1463",
+    "name": "Ice Wolf Zolf",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Ice_Wolf_Zolf",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/05/Unit_ills_thum_20892.png/revision/latest/scale-to-width-down/42?cb=20161028060342",
+    "element": "Category:Water",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 8",
+    "dataID": "20892",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "40",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

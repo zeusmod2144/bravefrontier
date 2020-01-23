@@ -1,0 +1,17 @@
+{
+    "id": "8485",
+    "name": "Storm Shaman Fennia",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Storm_Shaman_Fennia",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/c1/Unit_ills_thum_840657.png/revision/latest/scale-to-width-down/42?cb=20190116064958",
+    "element": "Category:Thunder",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 52",
+    "dataID": "840657",
+    "gender": "Category:Female Unit",
+    "maxLevel": "120",
+    "arenaType": "11",
+    "colosseumLegality": [
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

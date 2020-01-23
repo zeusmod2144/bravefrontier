@@ -1,0 +1,19 @@
+{
+    "id": "8125",
+    "name": "Slayer Grandt",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Slayer_Grandt",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/af/Unit_ills_thum_810527.png/revision/latest/scale-to-width-down/42?cb=20150427111804",
+    "element": "Category:Fire",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 40",
+    "dataID": "810527",
+    "gender": "Category:Male Unit",
+    "maxLevel": "120",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

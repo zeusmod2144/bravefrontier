@@ -1,0 +1,19 @@
+{
+    "id": "42",
+    "name": "God Blade Mifune",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/God_Blade_Mifune",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/a1/Unit_ills_thum_60023.png/revision/latest/scale-to-width-down/42?cb=20131030141002",
+    "element": "Category:Dark",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 9",
+    "dataID": "60023",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

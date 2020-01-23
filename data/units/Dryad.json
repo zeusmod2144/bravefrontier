@@ -1,0 +1,19 @@
+{
+    "id": "115",
+    "name": "Dryad",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Dryad",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/c9/Unit_ills_thum_30092.png/revision/latest/scale-to-width-down/42?cb=20131031075959",
+    "element": "Category:Earth",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 5",
+    "dataID": "30092",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "40",
+    "arenaType": "7",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

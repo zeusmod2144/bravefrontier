@@ -1,0 +1,18 @@
+{
+    "id": "1608",
+    "name": "Oceanic Mirror Iris",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Oceanic_Mirror_Iris",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/3b/Unit_ills_thum_20637.png/revision/latest/scale-to-width-down/42?cb=20170315214022",
+    "element": "Category:Water",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 47",
+    "dataID": "20637",
+    "gender": "Category:Female Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

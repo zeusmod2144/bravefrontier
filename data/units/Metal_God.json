@@ -1,0 +1,19 @@
+{
+    "id": "200",
+    "name": "Metal God",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Metal_God",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/0b/Unit_ills_thum_60134.png/revision/latest/scale-to-width-down/42?cb=20131101125031",
+    "element": "Category:Dark",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 9",
+    "dataID": "60134",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

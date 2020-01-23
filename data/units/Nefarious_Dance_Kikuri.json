@@ -1,0 +1,18 @@
+{
+    "id": "1698",
+    "name": "Nefarious Dance Kikuri",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Nefarious_Dance_Kikuri",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/8f/Unit_ills_thum_60177.png/revision/latest/scale-to-width-down/42?cb=20170818043922",
+    "element": "Category:Dark",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 47",
+    "dataID": "60177",
+    "gender": "Category:Female Unit",
+    "maxLevel": "150",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

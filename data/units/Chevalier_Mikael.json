@@ -1,0 +1,19 @@
+{
+    "id": "8161",
+    "name": "Chevalier Mikael",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Chevalier_Mikael",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/b9/Unit_ills_thum_840315.png/revision/latest/scale-to-width-down/42?cb=20160120140556",
+    "element": "Category:Thunder",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 20",
+    "dataID": "840315",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

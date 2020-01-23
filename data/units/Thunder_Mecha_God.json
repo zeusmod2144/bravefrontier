@@ -1,0 +1,19 @@
+{
+    "id": "810",
+    "name": "Thunder Mecha God",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Thunder_Mecha_God",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/77/Unit_ills_thum_40334.png/revision/latest/scale-to-width-down/42?cb=20141218191418",
+    "element": "Category:Thunder",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 20",
+    "dataID": "40334",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": null,
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

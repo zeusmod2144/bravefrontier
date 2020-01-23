@@ -1,0 +1,19 @@
+{
+    "id": "842",
+    "name": "Storm Roundhouse Zeln",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Storm_Roundhouse_Zeln",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/23/Unit_ills_thum_40145.png/revision/latest/scale-to-width-down/42?cb=20150114171742",
+    "element": "Category:Thunder",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 26",
+    "dataID": "40145",
+    "gender": "Category:Male Unit",
+    "maxLevel": "100",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

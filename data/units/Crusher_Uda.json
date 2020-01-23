@@ -1,0 +1,19 @@
+{
+    "id": "571",
+    "name": "Crusher Uda",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Crusher_Uda",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/5c/Unit_ills_thum_40424.png/revision/latest/scale-to-width-down/42?cb=20140626212920",
+    "element": "Category:Thunder",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 17",
+    "dataID": "40424",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

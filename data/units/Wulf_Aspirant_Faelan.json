@@ -1,0 +1,19 @@
+{
+    "id": "8249",
+    "name": "Wulf Aspirant Faelan",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Wulf_Aspirant_Faelan",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/5f/Unit_ills_thum_830417.png/revision/latest/scale-to-width-down/42?cb=20161129112934",
+    "element": "Category:Earth",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 44",
+    "dataID": "830417",
+    "gender": "Category:Female Unit",
+    "maxLevel": "120",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

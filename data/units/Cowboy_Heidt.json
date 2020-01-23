@@ -1,0 +1,19 @@
+{
+    "id": "131",
+    "name": "Cowboy Heidt",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Cowboy_Heidt",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/32/Unit_ills_thum_50092.png/revision/latest/scale-to-width-down/42?cb=20131101001638",
+    "element": "Category:Light",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 5",
+    "dataID": "50092",
+    "gender": "Category:Male Unit",
+    "maxLevel": "40",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

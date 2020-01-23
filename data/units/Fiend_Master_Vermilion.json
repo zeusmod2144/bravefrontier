@@ -1,0 +1,19 @@
+{
+    "id": "1177",
+    "name": "Fiend Master Vermilion",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Fiend_Master_Vermilion",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/27/Unit_ills_thum_10775.png/revision/latest/scale-to-width-down/42?cb=20151025142052",
+    "element": "Category:Fire",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 30",
+    "dataID": "10775",
+    "gender": "Category:Female Unit",
+    "maxLevel": "100",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

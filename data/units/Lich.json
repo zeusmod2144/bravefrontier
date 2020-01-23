@@ -1,0 +1,19 @@
+{
+    "id": "122",
+    "name": "Lich",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Lich",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/f2/Unit_ills_thum_60083.png/revision/latest/scale-to-width-down/42?cb=20131031105848",
+    "element": "Category:Dark",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 8",
+    "dataID": "60083",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

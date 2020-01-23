@@ -1,0 +1,19 @@
+{
+    "id": "8088",
+    "name": "Clavier Kagamine Len",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Clavier_Kagamine_Len",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/13/Unit_ills_thum_850204.png/revision/latest/scale-to-width-down/42?cb=20141129021711",
+    "element": "Category:Light",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 13",
+    "dataID": "850204",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

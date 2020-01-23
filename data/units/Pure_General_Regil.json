@@ -1,0 +1,18 @@
+{
+    "id": "1558",
+    "name": "Pure General Regil",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Pure_General_Regil",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e1/Unit_ills_thum_51127.png/revision/latest/scale-to-width-down/42?cb=20170112044428",
+    "element": "Category:Light",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 50",
+    "dataID": "51127",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

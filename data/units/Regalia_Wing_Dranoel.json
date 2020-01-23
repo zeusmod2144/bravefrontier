@@ -1,0 +1,19 @@
+{
+    "id": "8037",
+    "name": "Regalia Wing Dranoel",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Regalia_Wing_Dranoel",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/4e/Unit_ills_thum_830045.png/revision/latest/scale-to-width-down/42?cb=20150107151013",
+    "element": "Category:Earth",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 14",
+    "dataID": "830045",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "1166",
+    "name": "Wisp",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Wisp",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/d5/Unit_ills_thum_50801.png/revision/latest/scale-to-width-down/42?cb=20160218015225",
+    "element": "Category:Light",
+    "rarity": "Category:2★ Rarity (Unit)",
+    "cost": "Category:Cost 4",
+    "dataID": "50801",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "30",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

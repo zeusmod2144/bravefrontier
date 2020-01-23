@@ -1,0 +1,19 @@
+{
+    "id": "8204",
+    "name": "Terror Fist Nyala",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Terror_Fist_Nyala",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/48/Unit_ills_thum_830327.png/revision/latest/scale-to-width-down/42?cb=20160608071355",
+    "element": "Category:Earth",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 43",
+    "dataID": "830327",
+    "gender": "Category:Female Unit",
+    "maxLevel": "120",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

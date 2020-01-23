@@ -1,0 +1,19 @@
+{
+    "id": "31",
+    "name": "Archer Lario",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Archer_Lario",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/7e/Unit_ills_thum_30021.png/revision/latest/scale-to-width-down/42?cb=20131029094306",
+    "element": "Category:Earth",
+    "rarity": "Category:2★ Rarity (Unit)",
+    "cost": "Category:Cost 3",
+    "dataID": "30021",
+    "gender": "Category:Male Unit",
+    "maxLevel": "30",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

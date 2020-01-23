@@ -1,0 +1,19 @@
+{
+    "id": "555",
+    "name": "Rakshasa Lord Vishra",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Rakshasa_Lord_Vishra",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/cd/Unit_ills_thum_10285.png/revision/latest/scale-to-width-down/42?cb=20140616033931",
+    "element": "Category:Fire",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 24",
+    "dataID": "10285",
+    "gender": "Category:Male Unit",
+    "maxLevel": "100",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

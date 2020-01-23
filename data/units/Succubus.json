@@ -1,0 +1,19 @@
+{
+    "id": "110",
+    "name": "Succubus",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Succubus",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e0/Unit_ills_thum_60072.png/revision/latest/scale-to-width-down/42?cb=20131031075305",
+    "element": "Category:Dark",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 4",
+    "dataID": "60072",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "40",
+    "arenaType": "1",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

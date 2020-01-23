@@ -1,0 +1,18 @@
+{
+    "id": "8500",
+    "name": "Orebi Lux Geode",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Orebi_Lux_Geode",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/72/Unit_ills_thum_850900.png/revision/latest/scale-to-width-down/42?cb=20190227081350",
+    "element": "Category:Light",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 46",
+    "dataID": "850900",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "150",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

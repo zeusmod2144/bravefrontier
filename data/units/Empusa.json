@@ -1,0 +1,19 @@
+{
+    "id": "275",
+    "name": "Empusa",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Empusa",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/17/Unit_ills_thum_40171.png/revision/latest/scale-to-width-down/42?cb=20140429165604",
+    "element": "Category:Thunder",
+    "rarity": "Category:2★ Rarity (Unit)",
+    "cost": "Category:Cost 3",
+    "dataID": "40171",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "30",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "1005",
+    "name": "Strong Flame Griff",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Strong_Flame_Griff",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/60/Unit_ills_thum_10674.png/revision/latest/scale-to-width-down/42?cb=20150624033220",
+    "element": "Category:Fire",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 20",
+    "dataID": "10674",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "8080",
+    "name": "Kaito",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Kaito",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/ea/Unit_ills_thum_820204.png/revision/latest/scale-to-width-down/42?cb=20150328234721",
+    "element": "Category:Water",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 13",
+    "dataID": "820204",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

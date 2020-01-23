@@ -1,0 +1,16 @@
+{
+    "id": "8437",
+    "name": "Tsuyu Asui (Omni)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Tsuyu_Asui_(Omni)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/6c/Unit_ills_thum_820588.png/revision/latest/scale-to-width-down/42?cb=20180801062649",
+    "element": "Category:Water",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 60",
+    "dataID": "820588",
+    "gender": "Category:Female Unit",
+    "maxLevel": "150",
+    "arenaType": "10",
+    "colosseumLegality": [
+        "Category:Hero Class"
+    ]
+}

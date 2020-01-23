@@ -1,0 +1,19 @@
+{
+    "id": "984",
+    "name": "Swift Katana Toutetsu",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Swift_Katana_Toutetsu",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/d6/Unit_ills_thum_30614.png/revision/latest/scale-to-width-down/42?cb=20150524182308",
+    "element": "Category:Earth",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 19",
+    "dataID": "30614",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

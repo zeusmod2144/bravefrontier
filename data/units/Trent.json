@@ -1,0 +1,19 @@
+{
+    "id": "103",
+    "name": "Trent",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Trent",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/86/Unit_ills_thum_30081.png/revision/latest/scale-to-width-down/42?cb=20131031074050",
+    "element": "Category:Earth",
+    "rarity": "Category:2★ Rarity (Unit)",
+    "cost": "Category:Cost 2",
+    "dataID": "30081",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "30",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

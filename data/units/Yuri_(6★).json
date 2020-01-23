@@ -1,0 +1,19 @@
+{
+    "id": "1127",
+    "name": "Yuri (6★)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Yuri_(6%E2%98%85)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/04/Unit_ills_thum_60635.png/revision/latest/scale-to-width-down/42?cb=20160529034332",
+    "element": "Category:Dark",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 25",
+    "dataID": "60635",
+    "gender": "Category:Male Unit",
+    "maxLevel": "100",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

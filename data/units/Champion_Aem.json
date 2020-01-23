@@ -1,0 +1,19 @@
+{
+    "id": "234",
+    "name": "Champion Aem",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Champion_Aem",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/32/Unit_ills_thum_50153.png/revision/latest/scale-to-width-down/42?cb=20140211092731",
+    "element": "Category:Light",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 8",
+    "dataID": "50153",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

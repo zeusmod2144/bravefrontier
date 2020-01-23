@@ -1,0 +1,19 @@
+{
+    "id": "917",
+    "name": "Divine Destroyer Rize",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Divine_Destroyer_Rize",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/aa/Unit_ills_thum_40574.png/revision/latest/scale-to-width-down/42?cb=20150324060317",
+    "element": "Category:Thunder",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 19",
+    "dataID": "40574",
+    "gender": "Category:Female Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

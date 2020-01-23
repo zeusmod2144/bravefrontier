@@ -1,0 +1,19 @@
+{
+    "id": "8028",
+    "name": "Thunder Bulb",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Thunder_Bulb",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/1e/Unit_ills_thum_840034.png/revision/latest/scale-to-width-down/42?cb=20140727172226",
+    "element": "Category:Thunder",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 1",
+    "dataID": "840034",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

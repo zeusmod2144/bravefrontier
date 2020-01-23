@@ -1,0 +1,16 @@
+{
+    "id": "1747",
+    "name": "Intact Champion Amadream",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Intact_Champion_Amadream",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e0/Unit_ills_thum_51337.png/revision/latest/scale-to-width-down/42?cb=20180814232827",
+    "element": "Category:Light",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 60",
+    "dataID": "51337",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "150",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Hero Class"
+    ]
+}

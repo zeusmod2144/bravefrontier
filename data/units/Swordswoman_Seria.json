@@ -1,0 +1,19 @@
+{
+    "id": "318",
+    "name": "Swordswoman Seria",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Swordswoman_Seria",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/2e/Unit_ills_thum_10233.png/revision/latest/scale-to-width-down/42?cb=20140320100837",
+    "element": "Category:Fire",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 10",
+    "dataID": "10233",
+    "gender": "Category:Female Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

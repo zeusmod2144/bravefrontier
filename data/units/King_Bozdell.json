@@ -1,0 +1,19 @@
+{
+    "id": "630",
+    "name": "King Bozdell",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/King_Bozdell",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/da/Unit_ills_thum_10262.png/revision/latest/scale-to-width-down/42?cb=20140731024943",
+    "element": "Category:Fire",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 6",
+    "dataID": "10262",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "40",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

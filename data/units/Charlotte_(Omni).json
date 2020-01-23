@@ -1,0 +1,18 @@
+{
+    "id": "8239",
+    "name": "Charlotte (Omni)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Charlotte_(Omni)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/5d/Unit_ills_thum_820388.png/revision/latest/scale-to-width-down/42?cb=20161116083035",
+    "element": "Category:Water",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 47",
+    "dataID": "820388",
+    "gender": "Category:Female Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

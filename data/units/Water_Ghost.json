@@ -1,0 +1,19 @@
+{
+    "id": "257",
+    "name": "Water Ghost",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Water_Ghost",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/f8/Unit_ills_thum_20202.png/revision/latest/scale-to-width-down/42?cb=20140320101031",
+    "element": "Category:Water",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 3",
+    "dataID": "20202",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

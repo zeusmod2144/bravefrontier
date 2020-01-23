@@ -1,0 +1,19 @@
+{
+    "id": "8031",
+    "name": "Miracle Bulb",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Miracle_Bulb",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/b1/Unit_ills_thum_870034.png/revision/latest/scale-to-width-down/42?cb=20140727172307",
+    "element": "Category:Light",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 1",
+    "dataID": "870034",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

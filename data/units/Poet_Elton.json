@@ -1,0 +1,19 @@
+{
+    "id": "463",
+    "name": "Poet Elton",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Poet_Elton",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/ca/Unit_ills_thum_30181.png/revision/latest/scale-to-width-down/42?cb=20140515102328",
+    "element": "Category:Earth",
+    "rarity": "Category:2★ Rarity (Unit)",
+    "cost": "Category:Cost 3",
+    "dataID": "30181",
+    "gender": "Category:Male Unit",
+    "maxLevel": "30",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

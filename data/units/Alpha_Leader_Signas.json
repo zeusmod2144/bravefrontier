@@ -1,0 +1,18 @@
+{
+    "id": "1774",
+    "name": "Alpha Leader Signas",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Alpha_Leader_Signas",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/66/Unit_ills_thum_20327.png/revision/latest/scale-to-width-down/42?cb=20171117051858",
+    "element": "Category:Water",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 47",
+    "dataID": "20327",
+    "gender": "Category:Female Unit",
+    "maxLevel": "150",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

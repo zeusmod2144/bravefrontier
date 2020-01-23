@@ -1,0 +1,19 @@
+{
+    "id": "470",
+    "name": "High Roller Zeul",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/High_Roller_Zeul",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/de/Unit_ills_thum_60192.png/revision/latest/scale-to-width-down/42?cb=20140515102620",
+    "element": "Category:Dark",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 7",
+    "dataID": "60192",
+    "gender": "Category:Male Unit",
+    "maxLevel": "40",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

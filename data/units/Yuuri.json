@@ -1,0 +1,19 @@
+{
+    "id": "1065",
+    "name": "Yuuri",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Yuuri",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/a4/Unit_ills_thum_50774.png/revision/latest/scale-to-width-down/42?cb=20151011001029",
+    "element": "Category:Light",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 15",
+    "dataID": "50774",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

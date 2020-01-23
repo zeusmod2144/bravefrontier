@@ -1,0 +1,19 @@
+{
+    "id": "306",
+    "name": "Fire Pot",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Fire_Pot",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/df/Unit_ills_thum_10191.png/revision/latest/scale-to-width-down/42?cb=20140430151610",
+    "element": "Category:Fire",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 1",
+    "dataID": "10191",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

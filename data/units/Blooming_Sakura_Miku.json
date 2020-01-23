@@ -1,0 +1,19 @@
+{
+    "id": "8198",
+    "name": "Blooming Sakura Miku",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Blooming_Sakura_Miku",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/1e/Unit_ills_thum_850197.png/revision/latest/scale-to-width-down/42?cb=20160526182201",
+    "element": "Category:Light",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 43",
+    "dataID": "850197",
+    "gender": "Category:Female Unit",
+    "maxLevel": "120",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

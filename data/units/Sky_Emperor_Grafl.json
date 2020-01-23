@@ -1,0 +1,19 @@
+{
+    "id": "315",
+    "name": "Sky Emperor Grafl",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Sky_Emperor_Grafl",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/12/Unit_ills_thum_40063.png/revision/latest/scale-to-width-down/42?cb=20140310134654",
+    "element": "Category:Thunder",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 9",
+    "dataID": "40063",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

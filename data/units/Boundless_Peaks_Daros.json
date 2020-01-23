@@ -1,0 +1,18 @@
+{
+    "id": "1627",
+    "name": "Boundless Peaks Daros",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Boundless_Peaks_Daros",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/db/Unit_ills_thum_30957.png/revision/latest/scale-to-width-down/42?cb=20170424044259",
+    "element": "Category:Earth",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 50",
+    "dataID": "30957",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "1",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

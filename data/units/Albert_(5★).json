@@ -1,0 +1,19 @@
+{
+    "id": "412",
+    "name": "Albert (5★)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Albert_(5%E2%98%85)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/3d/Unit_ills_thum_50334.png/revision/latest/scale-to-width-down/42?cb=20140515045416",
+    "element": "Category:Light",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 12",
+    "dataID": "50334",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

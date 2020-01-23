@@ -1,0 +1,16 @@
+{
+    "id": "8391",
+    "name": "Senbonzakura Miku (Omni)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Senbonzakura_Miku_(Omni)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/bb/Unit_ills_thum_830298.png/revision/latest/scale-to-width-down/42?cb=20180228124652",
+    "element": "Category:Earth",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 60",
+    "dataID": "830298",
+    "gender": "Category:Female Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Hero Class"
+    ]
+}

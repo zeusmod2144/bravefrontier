@@ -1,0 +1,19 @@
+{
+    "id": "1409",
+    "name": "Heresy Demon Kalon",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Heresy_Demon_Kalon",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/6b/Unit_ills_thum_61006.png/revision/latest/scale-to-width-down/42?cb=20160711061313",
+    "element": "Category:Dark",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 45",
+    "dataID": "61006",
+    "gender": "Category:Male Unit",
+    "maxLevel": "120",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

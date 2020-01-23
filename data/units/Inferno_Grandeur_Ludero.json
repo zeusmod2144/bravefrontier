@@ -1,0 +1,18 @@
+{
+    "id": "1716",
+    "name": "Inferno Grandeur Ludero",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Inferno_Grandeur_Ludero",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/54/Unit_ills_thum_11147.png/revision/latest/scale-to-width-down/42?cb=20170911044416",
+    "element": "Category:Fire",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 50",
+    "dataID": "11147",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

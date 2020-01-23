@@ -1,0 +1,19 @@
+{
+    "id": "520",
+    "name": "Leshy",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Leshy",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/54/Unit_ills_thum_30052.png/revision/latest/scale-to-width-down/42?cb=20140505054613",
+    "element": "Category:Earth",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 6",
+    "dataID": "30052",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "40",
+    "arenaType": "1",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

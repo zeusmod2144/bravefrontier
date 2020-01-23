@@ -1,0 +1,18 @@
+{
+    "id": "8357",
+    "name": "Johnny (7★)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Johnny_(7%E2%98%85)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/f9/Unit_ills_thum_810377.png/revision/latest/scale-to-width-down/42?cb=20171122064647",
+    "element": "Category:Fire",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 46",
+    "dataID": "810377",
+    "gender": "Category:Male Unit",
+    "maxLevel": "120",
+    "arenaType": "10",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

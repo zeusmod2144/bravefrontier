@@ -1,0 +1,19 @@
+{
+    "id": "1371",
+    "name": "Garnet Sorceress Shelly",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Garnet_Sorceress_Shelly",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/07/Unit_ills_thum_10886.png/revision/latest/scale-to-width-down/42?cb=20160425000420",
+    "element": "Category:Fire",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 43",
+    "dataID": "10886",
+    "gender": "Category:Female Unit",
+    "maxLevel": "120",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

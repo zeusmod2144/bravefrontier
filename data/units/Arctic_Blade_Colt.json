@@ -1,0 +1,19 @@
+{
+    "id": "887",
+    "name": "Arctic Blade Colt",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Arctic_Blade_Colt",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/98/Unit_ills_thum_20575.png/revision/latest/scale-to-width-down/42?cb=20150222163542",
+    "element": "Category:Water",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 29",
+    "dataID": "20575",
+    "gender": "Category:Male Unit",
+    "maxLevel": "100",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

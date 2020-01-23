@@ -1,0 +1,19 @@
+{
+    "id": "181",
+    "name": "Light Spirit",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Light_Spirit",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/79/Unit_ills_thum_50121.png/revision/latest/scale-to-width-down/42?cb=20131101094205",
+    "element": "Category:Light",
+    "rarity": "Category:2★ Rarity (Unit)",
+    "cost": "Category:Cost 5",
+    "dataID": "50121",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": "8345",
+    "name": "Warp Arcanist Savei",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Warp_Arcanist_Savei",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/b9/Unit_ills_thum_860288.png/revision/latest/scale-to-width-down/42?cb=20171004164839",
+    "element": "Category:Dark",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 54",
+    "dataID": "860288",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "500",
+    "name": "Fire Step Ramna",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Fire_Step_Ramna",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/ed/Unit_ills_thum_10363.png/revision/latest/scale-to-width-down/42?cb=20140515020541",
+    "element": "Category:Fire",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 12",
+    "dataID": "10363",
+    "gender": "Category:Female Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

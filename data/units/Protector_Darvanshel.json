@@ -1,0 +1,19 @@
+{
+    "id": "611",
+    "name": "Protector Darvanshel",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Protector_Darvanshel",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/09/Unit_ills_thum_10464.png/revision/latest/scale-to-width-down/42?cb=20140725005502",
+    "element": "Category:Fire",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 17",
+    "dataID": "10464",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

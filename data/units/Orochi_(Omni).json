@@ -1,0 +1,16 @@
+{
+    "id": "8523",
+    "name": "Orochi (Omni)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Orochi_(Omni)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/77/Unit_ills_thum_860728.png/revision/latest/scale-to-width-down/42?cb=20190422223339",
+    "element": "Category:Dark",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 60",
+    "dataID": "860728",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Hero Class"
+    ]
+}

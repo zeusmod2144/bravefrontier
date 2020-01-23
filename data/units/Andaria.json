@@ -1,0 +1,19 @@
+{
+    "id": "8059",
+    "name": "Andaria",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Andaria",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/11/Unit_ills_thum_830134.png/revision/latest/scale-to-width-down/42?cb=20150217161205",
+    "element": "Category:Earth",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 13",
+    "dataID": "830134",
+    "gender": "Category:Female Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

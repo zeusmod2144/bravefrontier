@@ -1,0 +1,19 @@
+{
+    "id": "50",
+    "name": "King Sparky",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/King_Sparky",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/54/Unit_ills_thum_40031.png/revision/latest/scale-to-width-down/42?cb=20131030143036",
+    "element": "Category:Thunder",
+    "rarity": "Category:2★ Rarity (Unit)",
+    "cost": "Category:Cost 3",
+    "dataID": "40031",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "30",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

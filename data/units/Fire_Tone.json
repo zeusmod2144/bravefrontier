@@ -1,0 +1,19 @@
+{
+    "id": "8104",
+    "name": "Fire Tone",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Fire_Tone",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/da/Unit_ills_thum_810035.png/revision/latest/scale-to-width-down/42?cb=20150130084613",
+    "element": "Category:Fire",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 1",
+    "dataID": "810035",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "331",
+    "name": "Executioner Shida",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Executioner_Shida",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e4/Unit_ills_thum_60094.png/revision/latest/scale-to-width-down/42?cb=20140411010323",
+    "element": "Category:Dark",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 13",
+    "dataID": "60094",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

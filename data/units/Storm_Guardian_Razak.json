@@ -1,0 +1,18 @@
+{
+    "id": "1702",
+    "name": "Storm Guardian Razak",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Storm_Guardian_Razak",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e9/Unit_ills_thum_40987.png/revision/latest/scale-to-width-down/42?cb=20170825111533",
+    "element": "Category:Thunder",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 50",
+    "dataID": "40987",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

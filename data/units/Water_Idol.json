@@ -1,0 +1,19 @@
+{
+    "id": "184",
+    "name": "Water Idol",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Water_Idol",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/7d/Unit_ills_thum_20132.png/revision/latest/scale-to-width-down/42?cb=20131101094535",
+    "element": "Category:Water",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 8",
+    "dataID": "20132",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

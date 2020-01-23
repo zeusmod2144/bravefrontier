@@ -1,0 +1,18 @@
+{
+    "id": "1690",
+    "name": "Vengeful Sword Amus",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Vengeful_Sword_Amus",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/98/Unit_ills_thum_11116.png/revision/latest/scale-to-width-down/42?cb=20170810080414",
+    "element": "Category:Fire",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 46",
+    "dataID": "11116",
+    "gender": "Category:Female Unit",
+    "maxLevel": "120",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

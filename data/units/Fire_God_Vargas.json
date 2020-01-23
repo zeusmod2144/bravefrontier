@@ -1,0 +1,19 @@
+{
+    "id": "4",
+    "name": "Fire God Vargas",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Fire_God_Vargas",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/8b/Unit_ills_thum_10014.png/revision/latest/scale-to-width-down/42?cb=20131029085406",
+    "element": "Category:Fire",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 10",
+    "dataID": "10014",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

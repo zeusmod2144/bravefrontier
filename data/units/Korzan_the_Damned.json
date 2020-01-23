@@ -1,0 +1,17 @@
+{
+    "id": "8449",
+    "name": "Korzan the Damned",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Korzan_the_Damned",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/8e/Unit_ills_thum_810318.png/revision/latest/scale-to-width-down/42?cb=20180914111213",
+    "element": "Category:Fire",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 54",
+    "dataID": "810318",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

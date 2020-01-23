@@ -1,0 +1,19 @@
+{
+    "id": "941",
+    "name": "Bagura Nagia",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Bagura_Nagia",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/62/Unit_ills_thum_40553.png/revision/latest/scale-to-width-down/42?cb=20150330023313",
+    "element": "Category:Thunder",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 10",
+    "dataID": "40553",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

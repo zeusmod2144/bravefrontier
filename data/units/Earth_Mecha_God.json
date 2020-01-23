@@ -1,0 +1,19 @@
+{
+    "id": "809",
+    "name": "Earth Mecha God",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Earth_Mecha_God",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/a3/Unit_ills_thum_30334.png/revision/latest/scale-to-width-down/42?cb=20141218191417",
+    "element": "Category:Earth",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 20",
+    "dataID": "30334",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": null,
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "1599",
+    "name": "Colossus Megalam+",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Colossus_Megalam%2B",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/9a/Unit_ills_thum_30933.png/revision/latest/scale-to-width-down/42?cb=20170428111548",
+    "element": "Category:Earth",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 12",
+    "dataID": "30933",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "80",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

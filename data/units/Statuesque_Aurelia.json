@@ -1,0 +1,19 @@
+{
+    "id": "8071",
+    "name": "Statuesque Aurelia",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Statuesque_Aurelia",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e1/Unit_ills_thum_850146.png/revision/latest/scale-to-width-down/42?cb=20150522112711",
+    "element": "Category:Light",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 27",
+    "dataID": "850146",
+    "gender": "Category:Female Unit",
+    "maxLevel": "100",
+    "arenaType": "6",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

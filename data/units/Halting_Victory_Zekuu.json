@@ -1,0 +1,18 @@
+{
+    "id": "1518",
+    "name": "Halting Victory Zekuu",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Halting_Victory_Zekuu",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/47/Unit_ills_thum_61057.png/revision/latest/scale-to-width-down/42?cb=20161125052041",
+    "element": "Category:Dark",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 48",
+    "dataID": "61057",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "13",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

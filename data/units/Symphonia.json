@@ -1,0 +1,19 @@
+{
+    "id": "1063",
+    "name": "Symphonia",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Symphonia",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/81/Unit_ills_thum_40624.png/revision/latest/scale-to-width-down/42?cb=20150726171548",
+    "element": "Category:Thunder",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 15",
+    "dataID": "40624",
+    "gender": "Category:Female Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

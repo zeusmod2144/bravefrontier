@@ -1,0 +1,19 @@
+{
+    "id": "677",
+    "name": "Lawson Frog",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Lawson_Frog",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/99/Unit_ills_thum_10522.png/revision/latest/scale-to-width-down/42?cb=20140926134213",
+    "element": "Category:Fire",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 1",
+    "dataID": "10522",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "1307",
+    "name": "Umbra Halcyon Magress",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Umbra_Halcyon_Magress",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/c1/Unit_ills_thum_60017.png/revision/latest/scale-to-width-down/42?cb=20160215172313",
+    "element": "Category:Dark",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 45",
+    "dataID": "60017",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

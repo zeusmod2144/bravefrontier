@@ -1,0 +1,19 @@
+{
+    "id": "8089",
+    "name": "Gemini Kagamine Len",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Gemini_Kagamine_Len",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/55/Unit_ills_thum_850205.png/revision/latest/scale-to-width-down/42?cb=20141129021711",
+    "element": "Category:Light",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 17",
+    "dataID": "850205",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

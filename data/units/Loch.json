@@ -1,0 +1,19 @@
+{
+    "id": "248",
+    "name": "Loch",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Loch",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/a4/Unit_ills_thum_40162.png/revision/latest/scale-to-width-down/42?cb=20140219044604",
+    "element": "Category:Thunder",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 7",
+    "dataID": "40162",
+    "gender": "Category:Male Unit",
+    "maxLevel": "40",
+    "arenaType": "1",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

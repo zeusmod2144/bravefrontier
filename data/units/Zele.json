@@ -1,0 +1,19 @@
+{
+    "id": "397",
+    "name": "Zele",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Zele",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/6b/Unit_ills_thum_40243.png/revision/latest/scale-to-width-down/42?cb=20140514150623",
+    "element": "Category:Thunder",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 10",
+    "dataID": "40243",
+    "gender": "Category:Female Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

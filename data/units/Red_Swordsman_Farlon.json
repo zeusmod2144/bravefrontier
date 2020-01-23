@@ -1,0 +1,19 @@
+{
+    "id": "494",
+    "name": "Red Swordsman Farlon",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Red_Swordsman_Farlon",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/9a/Unit_ills_thum_10335.png/revision/latest/scale-to-width-down/42?cb=20140514103145",
+    "element": "Category:Fire",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 26",
+    "dataID": "10335",
+    "gender": "Category:Male Unit",
+    "maxLevel": "100",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "72",
+    "name": "Polevik",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Polevik",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/2e/Unit_ills_thum_30051.png/revision/latest/scale-to-width-down/42?cb=20131031055710",
+    "element": "Category:Earth",
+    "rarity": "Category:2★ Rarity (Unit)",
+    "cost": "Category:Cost 4",
+    "dataID": "30051",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "30",
+    "arenaType": "1",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

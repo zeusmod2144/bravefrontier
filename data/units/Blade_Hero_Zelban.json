@@ -1,0 +1,19 @@
+{
+    "id": "351",
+    "name": "Blade Hero Zelban",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Blade_Hero_Zelban",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e5/Unit_ills_thum_30254.png/revision/latest/scale-to-width-down/42?cb=20140413163632",
+    "element": "Category:Earth",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 13",
+    "dataID": "30254",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "1",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "8062",
+    "name": "Grievesnare",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Grievesnare",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/b1/Unit_ills_thum_840124.png/revision/latest/scale-to-width-down/42?cb=20150320132514",
+    "element": "Category:Thunder",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 12",
+    "dataID": "840124",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

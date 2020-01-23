@@ -1,0 +1,16 @@
+{
+    "id": "8571",
+    "name": "Emerald Summoner Lugina",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Emerald_Summoner_Lugina",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/37/Unit_ills_thum_830808.png/revision/latest/scale-to-width-down/42?cb=20191106061337",
+    "element": "Category:Earth",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 60",
+    "dataID": "830808",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Hero Class"
+    ]
+}

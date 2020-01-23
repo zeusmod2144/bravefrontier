@@ -1,0 +1,18 @@
+{
+    "id": "1691",
+    "name": "Courageous Blade Amus",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Courageous_Blade_Amus",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/8f/Unit_ills_thum_11117.png/revision/latest/scale-to-width-down/42?cb=20170810080415",
+    "element": "Category:Fire",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 50",
+    "dataID": "11117",
+    "gender": "Category:Female Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

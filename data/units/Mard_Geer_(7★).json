@@ -1,0 +1,19 @@
+{
+    "id": "8336",
+    "name": "Mard Geer (7★)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Mard_Geer_(7%E2%98%85)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/b1/Unit_ills_thum_860547.png/revision/latest/scale-to-width-down/42?cb=20170928140641",
+    "element": "Category:Dark",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 43",
+    "dataID": "860547",
+    "gender": "Category:Male Unit",
+    "maxLevel": "120",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

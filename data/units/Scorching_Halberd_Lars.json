@@ -1,0 +1,19 @@
+{
+    "id": "1282",
+    "name": "Scorching Halberd Lars",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Scorching_Halberd_Lars",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/32/Unit_ills_thum_10435.png/revision/latest/scale-to-width-down/42?cb=20160129124949",
+    "element": "Category:Fire",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 26",
+    "dataID": "10435",
+    "gender": "Category:Male Unit",
+    "maxLevel": "100",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

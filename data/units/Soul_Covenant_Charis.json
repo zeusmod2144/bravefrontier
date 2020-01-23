@@ -1,0 +1,19 @@
+{
+    "id": "1056",
+    "name": "Soul Covenant Charis",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Soul_Covenant_Charis",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/5f/Unit_ills_thum_60776.png/revision/latest/scale-to-width-down/42?cb=20150723015604",
+    "element": "Category:Dark",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 42",
+    "dataID": "60776",
+    "gender": "Category:Male Unit",
+    "maxLevel": "120",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "8055",
+    "name": "Merciless Tridon",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Merciless_Tridon",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/91/Unit_ills_thum_820135.png/revision/latest/scale-to-width-down/42?cb=20141216131005",
+    "element": "Category:Water",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 17",
+    "dataID": "820135",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

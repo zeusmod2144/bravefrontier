@@ -1,0 +1,19 @@
+{
+    "id": "8029",
+    "name": "Light Bulb",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Light_Bulb",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/c7/Unit_ills_thum_850034.png/revision/latest/scale-to-width-down/42?cb=20140727172239",
+    "element": "Category:Light",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 1",
+    "dataID": "850034",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

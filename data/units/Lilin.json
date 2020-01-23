@@ -1,0 +1,19 @@
+{
+    "id": "109",
+    "name": "Lilin",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Lilin",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/12/Unit_ills_thum_60071.png/revision/latest/scale-to-width-down/42?cb=20131031075243",
+    "element": "Category:Dark",
+    "rarity": "Category:2★ Rarity (Unit)",
+    "cost": "Category:Cost 2",
+    "dataID": "60071",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "30",
+    "arenaType": "1",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

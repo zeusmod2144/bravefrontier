@@ -1,0 +1,18 @@
+{
+    "id": "8373",
+    "name": "Spellscythe Ciardha",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Spellscythe_Ciardha",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/63/Unit_ills_thum_860047.png/revision/latest/scale-to-width-down/42?cb=20171227074955",
+    "element": "Category:Dark",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 46",
+    "dataID": "860047",
+    "gender": "Category:Male Unit",
+    "maxLevel": "120",
+    "arenaType": "13",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "430",
+    "name": "Water Crystal",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Water_Crystal",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/10/Unit_ills_thum_20334.png/revision/latest/scale-to-width-down/42?cb=20140515024130",
+    "element": "Category:Water",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 12",
+    "dataID": "20334",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

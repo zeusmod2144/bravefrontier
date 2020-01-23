@@ -1,0 +1,16 @@
+{
+    "id": "8421",
+    "name": "Angelic Gale Raquiel",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Angelic_Gale_Raquiel",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/01/Unit_ills_thum_850438.png/revision/latest/scale-to-width-down/42?cb=20180614115153",
+    "element": "Category:Light",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 60",
+    "dataID": "850438",
+    "gender": "Category:Female Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Hero Class"
+    ]
+}

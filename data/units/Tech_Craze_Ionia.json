@@ -1,0 +1,18 @@
+{
+    "id": "1587",
+    "name": "Tech Craze Ionia",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Tech_Craze_Ionia",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/58/Unit_ills_thum_51136.png/revision/latest/scale-to-width-down/42?cb=20170223012441",
+    "element": "Category:Light",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 46",
+    "dataID": "51136",
+    "gender": "Category:Female Unit",
+    "maxLevel": "120",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "308",
+    "name": "Earth Pot",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Earth_Pot",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/61/Unit_ills_thum_30191.png/revision/latest/scale-to-width-down/42?cb=20140429170515",
+    "element": "Category:Earth",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 1",
+    "dataID": "30191",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

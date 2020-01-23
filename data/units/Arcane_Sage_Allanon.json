@@ -1,0 +1,17 @@
+{
+    "id": "8397",
+    "name": "Arcane Sage Allanon",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Arcane_Sage_Allanon",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/bc/Unit_ills_thum_850318.png/revision/latest/scale-to-width-down/42?cb=20180328073857",
+    "element": "Category:Light",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 54",
+    "dataID": "850318",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

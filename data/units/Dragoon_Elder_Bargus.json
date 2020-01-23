@@ -1,0 +1,19 @@
+{
+    "id": "824",
+    "name": "Dragoon Elder Bargus",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Dragoon_Elder_Bargus",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/6c/Unit_ills_thum_40523.png/revision/latest/scale-to-width-down/42?cb=20141224171934",
+    "element": "Category:Thunder",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 13",
+    "dataID": "40523",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

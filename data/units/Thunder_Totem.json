@@ -1,0 +1,19 @@
+{
+    "id": "192",
+    "name": "Thunder Totem",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Thunder_Totem",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/0c/Unit_ills_thum_40133.png/revision/latest/scale-to-width-down/42?cb=20131101095251",
+    "element": "Category:Thunder",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 10",
+    "dataID": "40133",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

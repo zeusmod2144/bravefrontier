@@ -1,0 +1,19 @@
+{
+    "id": "981",
+    "name": "Lance Knight Vernil",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Lance_Knight_Vernil",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/ef/Unit_ills_thum_20624.png/revision/latest/scale-to-width-down/42?cb=20150524182306",
+    "element": "Category:Water",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 19",
+    "dataID": "20624",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "8210",
+    "name": "Kyo Kusanagi (7★)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Kyo_Kusanagi_(7%E2%98%85)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/90/Unit_ills_thum_810187.png/revision/latest/scale-to-width-down/42?cb=20160717030822",
+    "element": "Category:Fire",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 42",
+    "dataID": "810187",
+    "gender": "Category:Male Unit",
+    "maxLevel": "120",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

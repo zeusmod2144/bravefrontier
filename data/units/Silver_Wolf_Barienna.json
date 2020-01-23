@@ -1,0 +1,19 @@
+{
+    "id": "8145",
+    "name": "Silver Wolf Barienna",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Silver_Wolf_Barienna",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/2f/Unit_ills_thum_850266.png/revision/latest/scale-to-width-down/42?cb=20151008142524",
+    "element": "Category:Light",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 25",
+    "dataID": "850266",
+    "gender": "Category:Female Unit",
+    "maxLevel": "100",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

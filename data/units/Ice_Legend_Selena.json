@@ -1,0 +1,19 @@
+{
+    "id": "802",
+    "name": "Ice Legend Selena",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Ice_Legend_Selena",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/8c/Unit_ills_thum_20016.png/revision/latest/scale-to-width-down/42?cb=20150618155149",
+    "element": "Category:Water",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 38",
+    "dataID": "20016",
+    "gender": "Category:Female Unit",
+    "maxLevel": "120",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

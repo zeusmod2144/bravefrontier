@@ -1,0 +1,19 @@
+{
+    "id": "43",
+    "name": "Burny",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Burny",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/d3/Unit_ills_thum_10030.png/revision/latest/scale-to-width-down/42?cb=20131030141433",
+    "element": "Category:Fire",
+    "rarity": "Category:1★ Rarity (Unit)",
+    "cost": "Category:Cost 1",
+    "dataID": "10030",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "10",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

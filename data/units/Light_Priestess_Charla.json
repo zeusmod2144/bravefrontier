@@ -1,0 +1,19 @@
+{
+    "id": "1150",
+    "name": "Light Priestess Charla",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Light_Priestess_Charla",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/7e/Unit_ills_thum_50834.png/revision/latest/scale-to-width-down/42?cb=20150924172421",
+    "element": "Category:Light",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 20",
+    "dataID": "50834",
+    "gender": "Category:Female Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

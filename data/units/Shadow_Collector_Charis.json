@@ -1,0 +1,19 @@
+{
+    "id": "1054",
+    "name": "Shadow Collector Charis",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Shadow_Collector_Charis",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/64/Unit_ills_thum_60774.png/revision/latest/scale-to-width-down/42?cb=20150723015603",
+    "element": "Category:Dark",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 20",
+    "dataID": "60774",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

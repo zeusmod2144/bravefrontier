@@ -1,0 +1,18 @@
+{
+    "id": "1614",
+    "name": "Overflowing Sea Zeleste",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Overflowing_Sea_Zeleste",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e1/Unit_ills_thum_20997.png/revision/latest/scale-to-width-down/42?cb=20170410042821",
+    "element": "Category:Water",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 50",
+    "dataID": "20997",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

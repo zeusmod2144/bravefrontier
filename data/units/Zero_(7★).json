@@ -1,0 +1,19 @@
+{
+    "id": "8207",
+    "name": "Zero (7★)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Zero_(7%E2%98%85)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/0d/Unit_ills_thum_860237.png/revision/latest/scale-to-width-down/42?cb=20160627150322",
+    "element": "Category:Dark",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 43",
+    "dataID": "860237",
+    "gender": "Category:Male Unit",
+    "maxLevel": "120",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

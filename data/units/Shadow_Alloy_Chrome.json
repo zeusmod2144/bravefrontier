@@ -1,0 +1,19 @@
+{
+    "id": "1154",
+    "name": "Shadow Alloy Chrome",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Shadow_Alloy_Chrome",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/ad/Unit_ills_thum_60845.png/revision/latest/scale-to-width-down/42?cb=20150924172422",
+    "element": "Category:Dark",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 30",
+    "dataID": "60845",
+    "gender": "Category:Male Unit",
+    "maxLevel": "100",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

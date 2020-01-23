@@ -1,0 +1,18 @@
+{
+    "id": "1654",
+    "name": "Sacred Shift Becstain",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Sacred_Shift_Becstain",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/11/Unit_ills_thum_40947.png/revision/latest/scale-to-width-down/42?cb=20170609074515",
+    "element": "Category:Thunder",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 50",
+    "dataID": "40947",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "150",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

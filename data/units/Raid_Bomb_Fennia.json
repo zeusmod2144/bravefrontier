@@ -1,0 +1,19 @@
+{
+    "id": "8010",
+    "name": "Raid Bomb Fennia",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Raid_Bomb_Fennia",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/bc/Unit_ills_thum_840004.png/revision/latest/scale-to-width-down/42?cb=20140517042243",
+    "element": "Category:Thunder",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 10",
+    "dataID": "840004",
+    "gender": "Category:Female Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

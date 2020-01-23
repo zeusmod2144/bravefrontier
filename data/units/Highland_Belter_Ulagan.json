@@ -1,0 +1,16 @@
+{
+    "id": "8551",
+    "name": "Highland Belter Ulagan",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Highland_Belter_Ulagan",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/50/Unit_ills_thum_830758.png/revision/latest/scale-to-width-down/42?cb=20190821060909",
+    "element": "Category:Earth",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 60",
+    "dataID": "830758",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "11",
+    "colosseumLegality": [
+        "Category:Hero Class"
+    ]
+}

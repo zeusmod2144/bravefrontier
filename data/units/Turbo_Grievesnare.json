@@ -1,0 +1,19 @@
+{
+    "id": "8063",
+    "name": "Turbo Grievesnare",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Turbo_Grievesnare",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/cf/Unit_ills_thum_840125.png/revision/latest/scale-to-width-down/42?cb=20150320132525",
+    "element": "Category:Thunder",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 16",
+    "dataID": "840125",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "89",
+    "name": "Ramia",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Ramia",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/7c/Unit_ills_thum_20071.png/revision/latest/scale-to-width-down/42?cb=20131031070041",
+    "element": "Category:Water",
+    "rarity": "Category:2★ Rarity (Unit)",
+    "cost": "Category:Cost 2",
+    "dataID": "20071",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "30",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

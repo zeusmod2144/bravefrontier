@@ -1,0 +1,19 @@
+{
+    "id": "488",
+    "name": "Bordebegia",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Bordebegia",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/c9/Unit_ills_thum_10275.png/revision/latest/scale-to-width-down/42?cb=20140515013850",
+    "element": "Category:Fire",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 25",
+    "dataID": "10275",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "100",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "268",
+    "name": "Light God",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Light_God",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/36/Unit_ills_thum_50204.png/revision/latest/scale-to-width-down/42?cb=20140429154658",
+    "element": "Category:Light",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 9",
+    "dataID": "50204",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

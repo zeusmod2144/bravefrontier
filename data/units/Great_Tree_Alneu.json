@@ -1,0 +1,19 @@
+{
+    "id": "141",
+    "name": "Great Tree Alneu",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Great_Tree_Alneu",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e2/Unit_ills_thum_30112.png/revision/latest/scale-to-width-down/42?cb=20131101023113",
+    "element": "Category:Earth",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 5",
+    "dataID": "30112",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "40",
+    "arenaType": "5",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

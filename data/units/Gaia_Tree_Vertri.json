@@ -1,0 +1,19 @@
+{
+    "id": "976",
+    "name": "Gaia Tree Vertri",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Gaia_Tree_Vertri",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e0/Unit_ills_thum_30116.png/revision/latest/scale-to-width-down/42?cb=20150517225135",
+    "element": "Category:Earth",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 40",
+    "dataID": "30116",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "120",
+    "arenaType": "5",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "1313",
+    "name": "Holy Beast Belardo",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Holy_Beast_Belardo",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/50/Unit_ills_thum_30754.png/revision/latest/scale-to-width-down/42?cb=20160224185521",
+    "element": "Category:Earth",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 21",
+    "dataID": "30754",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

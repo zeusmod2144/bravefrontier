@@ -1,0 +1,19 @@
+{
+    "id": "222",
+    "name": "Hot Chef Lancia",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Hot_Chef_Lancia",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/07/Unit_ills_thum_10153.png/revision/latest/scale-to-width-down/42?cb=20140211101456",
+    "element": "Category:Fire",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 8",
+    "dataID": "10153",
+    "gender": "Category:Female Unit",
+    "maxLevel": "60",
+    "arenaType": "5",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

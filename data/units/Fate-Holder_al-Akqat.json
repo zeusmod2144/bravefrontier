@@ -1,0 +1,18 @@
+{
+    "id": "8352",
+    "name": "Fate-Holder al-Akqat",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Fate-Holder_al-Akqat",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/6b/Unit_ills_thum_810438.png/revision/latest/scale-to-width-down/42?cb=20171103142138",
+    "element": "Category:Fire",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 50",
+    "dataID": "810438",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "150",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

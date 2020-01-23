@@ -1,0 +1,19 @@
+{
+    "id": "1220",
+    "name": "黒衣の猫魔女アリア (5★)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/%E9%BB%92%E8%A1%A3%E3%81%AE%E7%8C%AB%E9%AD%94%E5%A5%B3%E3%82%A2%E3%83%AA%E3%82%A2_(5%E2%98%85)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e4/Unit_ills_thum_10814.png/revision/latest/scale-to-width-down/42?cb=20190701180134",
+    "element": "Category:Fire",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 16",
+    "dataID": "10814",
+    "gender": "Category:Female Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

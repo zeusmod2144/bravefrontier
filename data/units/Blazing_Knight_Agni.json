@@ -1,0 +1,19 @@
+{
+    "id": "709",
+    "name": "Blazing Knight Agni",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Blazing_Knight_Agni",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/03/Unit_ills_thum_10105.png/revision/latest/scale-to-width-down/42?cb=20141014175845",
+    "element": "Category:Fire",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 24",
+    "dataID": "10105",
+    "gender": "Category:Male Unit",
+    "maxLevel": "100",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

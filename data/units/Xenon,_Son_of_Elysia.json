@@ -1,0 +1,16 @@
+{
+    "id": "8401",
+    "name": "Xenon, Son of Elysia",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Xenon,_Son_of_Elysia",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/8a/Unit_ills_thum_860018.png/revision/latest/scale-to-width-down/42?cb=20180418050620",
+    "element": "Category:Dark",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 60",
+    "dataID": "860018",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "1677",
+    "name": "Azure Wanderer Colt",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Azure_Wanderer_Colt",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/da/Unit_ills_thum_20577.png/revision/latest/scale-to-width-down/42?cb=20170717051557",
+    "element": "Category:Water",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 47",
+    "dataID": "20577",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

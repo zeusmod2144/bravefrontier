@@ -1,0 +1,19 @@
+{
+    "id": "1206",
+    "name": "War Soldier Estelle",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/War_Soldier_Estelle",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/73/Unit_ills_thum_30704.png/revision/latest/scale-to-width-down/42?cb=20151125143209",
+    "element": "Category:Earth",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 20",
+    "dataID": "30704",
+    "gender": "Category:Female Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

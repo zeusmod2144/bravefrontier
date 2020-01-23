@@ -1,0 +1,19 @@
+{
+    "id": "116",
+    "name": "High Elf",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/High_Elf",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/f6/Unit_ills_thum_30093.png/revision/latest/scale-to-width-down/42?cb=20131031080036",
+    "element": "Category:Earth",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 8",
+    "dataID": "30093",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "60",
+    "arenaType": "7",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

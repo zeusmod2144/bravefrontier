@@ -1,0 +1,19 @@
+{
+    "id": "1200",
+    "name": "Fire Rod Limera",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Fire_Rod_Limera",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/22/Unit_ills_thum_10794.png/revision/latest/scale-to-width-down/42?cb=20151125143047",
+    "element": "Category:Fire",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 20",
+    "dataID": "10794",
+    "gender": "Category:Female Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

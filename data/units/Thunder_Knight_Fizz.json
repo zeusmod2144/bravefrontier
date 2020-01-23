@@ -1,0 +1,19 @@
+{
+    "id": "1444",
+    "name": "Thunder Knight Fizz",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Thunder_Knight_Fizz",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/5e/Unit_ills_thum_40816.png/revision/latest/scale-to-width-down/42?cb=20160825044239",
+    "element": "Category:Thunder",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 44",
+    "dataID": "40816",
+    "gender": "Category:Female Unit",
+    "maxLevel": "120",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

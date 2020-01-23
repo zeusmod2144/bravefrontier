@@ -1,0 +1,19 @@
+{
+    "id": "145",
+    "name": "King Behemoth",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/King_Behemoth",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/48/Unit_ills_thum_40113.png/revision/latest/scale-to-width-down/42?cb=20131101023651",
+    "element": "Category:Thunder",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 8",
+    "dataID": "40113",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "60",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

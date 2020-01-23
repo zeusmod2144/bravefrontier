@@ -1,0 +1,19 @@
+{
+    "id": "648",
+    "name": "Lawful God Aneil",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Lawful_God_Aneil",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/8e/Unit_ills_thum_30294.png/revision/latest/scale-to-width-down/42?cb=20140812232523",
+    "element": "Category:Earth",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 16",
+    "dataID": "30294",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

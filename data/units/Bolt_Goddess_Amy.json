@@ -1,0 +1,19 @@
+{
+    "id": "298",
+    "name": "Bolt Goddess Amy",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Bolt_Goddess_Amy",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/0f/Unit_ills_thum_40214.png/revision/latest/scale-to-width-down/42?cb=20140429165129",
+    "element": "Category:Thunder",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 15",
+    "dataID": "40214",
+    "gender": "Category:Female Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "id": "8492",
+    "name": "VLKR Sentienel Galene",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/VLKR_Sentienel_Galene",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/66/Unit_ills_thum_820678.png/revision/latest/scale-to-width-down/42?cb=20190213074600",
+    "element": "Category:Water",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 60",
+    "dataID": "820678",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Hero Class"
+    ]
+}

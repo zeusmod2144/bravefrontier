@@ -1,0 +1,18 @@
+{
+    "id": "1720",
+    "name": "Rumbling Blade Balgran",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Rumbling_Blade_Balgran",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/6f/Unit_ills_thum_40587.png/revision/latest/scale-to-width-down/42?cb=20170919093810",
+    "element": "Category:Thunder",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 47",
+    "dataID": "40587",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

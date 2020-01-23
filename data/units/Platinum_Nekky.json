@@ -1,0 +1,19 @@
+{
+    "id": "253",
+    "name": "Platinum Nekky",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Platinum_Nekky",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/ee/Unit_ills_thum_50234.png/revision/latest/scale-to-width-down/42?cb=20140601033640",
+    "element": "Category:Light",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 8",
+    "dataID": "50234",
+    "gender": "Category:Male Unit",
+    "maxLevel": null,
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "1508",
+    "name": "Malachite Steel Lanza",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Malachite_Steel_Lanza",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/7e/Unit_ills_thum_30877.png/revision/latest/scale-to-width-down/42?cb=20161110065336",
+    "element": "Category:Earth",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 48",
+    "dataID": "30877",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "9",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

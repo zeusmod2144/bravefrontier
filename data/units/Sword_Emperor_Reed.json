@@ -1,0 +1,19 @@
+{
+    "id": "643",
+    "name": "Sword Emperor Reed",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Sword_Emperor_Reed",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/9c/Unit_ills_thum_10293.png/revision/latest/scale-to-width-down/42?cb=20140812232456",
+    "element": "Category:Fire",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 12",
+    "dataID": "10293",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

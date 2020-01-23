@@ -1,0 +1,19 @@
+{
+    "id": "8257",
+    "name": "Toy Soldier Haido",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Toy_Soldier_Haido",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/52/Unit_ills_thum_860127.png/revision/latest/scale-to-width-down/42?cb=20161221103819",
+    "element": "Category:Dark",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 43",
+    "dataID": "860127",
+    "gender": "Category:Male Unit",
+    "maxLevel": "120",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

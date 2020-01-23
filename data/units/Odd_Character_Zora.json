@@ -1,0 +1,18 @@
+{
+    "id": "1567",
+    "name": "Odd Character Zora",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Odd_Character_Zora",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/dd/Unit_ills_thum_40886.png/revision/latest/scale-to-width-down/42?cb=20170125014427",
+    "element": "Category:Thunder",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 46",
+    "dataID": "40886",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "120",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

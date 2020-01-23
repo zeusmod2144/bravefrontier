@@ -1,0 +1,19 @@
+{
+    "id": "188",
+    "name": "Dark Idol",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Dark_Idol",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/0c/Unit_ills_thum_60122.png/revision/latest/scale-to-width-down/42?cb=20131101094802",
+    "element": "Category:Dark",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 8",
+    "dataID": "60122",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

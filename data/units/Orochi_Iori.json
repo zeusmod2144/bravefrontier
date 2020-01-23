@@ -1,0 +1,17 @@
+{
+    "id": "8524",
+    "name": "Orochi Iori",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Orochi_Iori",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/24/Unit_ills_thum_860738.png/revision/latest/scale-to-width-down/42?cb=20190422223339",
+    "element": "Category:Dark",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 54",
+    "dataID": "860738",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

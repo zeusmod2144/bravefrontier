@@ -1,0 +1,19 @@
+{
+    "id": "7005",
+    "name": "Light Golem",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Light_Golem",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/0b/Unit_ills_thum_87502601.png/revision/latest/scale-to-width-down/42?cb=20190522134355",
+    "element": "Category:Light",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 15",
+    "dataID": "87502601",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

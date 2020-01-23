@@ -1,0 +1,19 @@
+{
+    "id": "990",
+    "name": "Robotic Wings Sixgear",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Robotic_Wings_Sixgear",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/16/Unit_ills_thum_50744.png/revision/latest/scale-to-width-down/42?cb=20150524182310",
+    "element": "Category:Light",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 19",
+    "dataID": "50744",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "935",
+    "name": "Granmeria",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Granmeria",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/88/Unit_ills_thum_10613.png/revision/latest/scale-to-width-down/42?cb=20150330023241",
+    "element": "Category:Fire",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 10",
+    "dataID": "10613",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

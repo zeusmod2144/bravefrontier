@@ -1,0 +1,19 @@
+{
+    "id": "10000",
+    "name": "Omni Emperor",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Omni_Emperor",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/a7/Unit_ills_thum_750005.png/revision/latest/scale-to-width-down/42?cb=20180614181648",
+    "element": "Category:Light",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 5",
+    "dataID": "750005",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

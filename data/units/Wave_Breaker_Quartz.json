@@ -1,0 +1,19 @@
+{
+    "id": "1044",
+    "name": "Wave Breaker Quartz",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Wave_Breaker_Quartz",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/aa/Unit_ills_thum_20646.png/revision/latest/scale-to-width-down/42?cb=20150723015559",
+    "element": "Category:Water",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 42",
+    "dataID": "20646",
+    "gender": "Category:Male Unit",
+    "maxLevel": "120",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

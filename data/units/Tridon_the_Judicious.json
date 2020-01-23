@@ -1,0 +1,16 @@
+{
+    "id": "8377",
+    "name": "Tridon the Judicious",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Tridon_the_Judicious",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/36/Unit_ills_thum_820148.png/revision/latest/scale-to-width-down/42?cb=20171101174109",
+    "element": "Category:Water",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 60",
+    "dataID": "820148",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Hero Class"
+    ]
+}

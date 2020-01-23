@@ -1,0 +1,19 @@
+{
+    "id": "247",
+    "name": "Mother Earth Edea",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Mother_Earth_Edea",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/0f/Unit_ills_thum_30164.png/revision/latest/scale-to-width-down/42?cb=20140219044535",
+    "element": "Category:Earth",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 15",
+    "dataID": "30164",
+    "gender": "Category:Female Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

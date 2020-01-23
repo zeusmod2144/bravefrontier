@@ -1,0 +1,19 @@
+{
+    "id": "1033",
+    "name": "Lymle",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Lymle",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/91/Unit_ills_thum_60692.png/revision/latest/scale-to-width-down/42?cb=20150707100321",
+    "element": "Category:Dark",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 6",
+    "dataID": "60692",
+    "gender": "Category:Female Unit",
+    "maxLevel": "40",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

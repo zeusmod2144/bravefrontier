@@ -1,0 +1,19 @@
+{
+    "id": "8126",
+    "name": "Elaina",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Elaina",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/1a/Unit_ills_thum_830525.png/revision/latest/scale-to-width-down/42?cb=20150427111817",
+    "element": "Category:Earth",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 19",
+    "dataID": "830525",
+    "gender": "Category:Female Unit",
+    "maxLevel": "80",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

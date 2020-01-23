@@ -1,0 +1,19 @@
+{
+    "id": "1640",
+    "name": "Sol",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Sol",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e2/Unit_ills_thum_11077.png/revision/latest/scale-to-width-down/42?cb=20170517081339",
+    "element": "Category:Fire",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 45",
+    "dataID": "11077",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

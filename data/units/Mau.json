@@ -1,0 +1,19 @@
+{
+    "id": "1027",
+    "name": "Mau",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Mau",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e6/Unit_ills_thum_30582.png/revision/latest/scale-to-width-down/42?cb=20150707100243",
+    "element": "Category:Earth",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 6",
+    "dataID": "30582",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "40",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

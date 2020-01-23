@@ -1,0 +1,18 @@
+{
+    "id": "8358",
+    "name": "Johnny (Omni)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Johnny_(Omni)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/2b/Unit_ills_thum_810378.png/revision/latest/scale-to-width-down/42?cb=20171122064648",
+    "element": "Category:Fire",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 50",
+    "dataID": "810378",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "10",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

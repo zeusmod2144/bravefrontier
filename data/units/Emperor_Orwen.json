@@ -1,0 +1,19 @@
+{
+    "id": "655",
+    "name": "Emperor Orwen",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Emperor_Orwen",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/ab/Unit_ills_thum_10493.png/revision/latest/scale-to-width-down/42?cb=20140824230034",
+    "element": "Category:Fire",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 13",
+    "dataID": "10493",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

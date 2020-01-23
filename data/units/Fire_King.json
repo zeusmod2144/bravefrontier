@@ -1,0 +1,19 @@
+{
+    "id": "255",
+    "name": "Fire King",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Fire_King",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e0/Unit_ills_thum_10203.png/revision/latest/scale-to-width-down/42?cb=20140320100538",
+    "element": "Category:Fire",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 6",
+    "dataID": "10203",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

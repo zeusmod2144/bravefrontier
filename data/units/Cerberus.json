@@ -1,0 +1,19 @@
+{
+    "id": "88",
+    "name": "Cerberus",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Cerberus",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/8e/Unit_ills_thum_10072.png/revision/latest/scale-to-width-down/42?cb=20131031065712",
+    "element": "Category:Fire",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 5",
+    "dataID": "10072",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "40",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

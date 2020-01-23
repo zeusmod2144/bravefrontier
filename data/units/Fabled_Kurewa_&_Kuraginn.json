@@ -1,0 +1,19 @@
+{
+    "id": "8380",
+    "name": "Fabled Kurewa & Kuraginn",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Fabled_Kurewa_%26_Kuraginn",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/f1/Unit_ills_thum_811118.png/revision/latest/scale-to-width-down/42?cb=20180124071803",
+    "element": "Category:Fire",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 45",
+    "dataID": "811118",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

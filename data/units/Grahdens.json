@@ -1,0 +1,19 @@
+{
+    "id": "376",
+    "name": "Grahdens",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Grahdens",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/0f/Unit_ills_thum_60324.png/revision/latest/scale-to-width-down/42?cb=20140515044600",
+    "element": "Category:Dark",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 15",
+    "dataID": "60324",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

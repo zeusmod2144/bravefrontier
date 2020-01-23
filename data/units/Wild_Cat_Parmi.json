@@ -1,0 +1,19 @@
+{
+    "id": "465",
+    "name": "Wild Cat Parmi",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Wild_Cat_Parmi",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/fa/Unit_ills_thum_40181.png/revision/latest/scale-to-width-down/42?cb=20140515102430",
+    "element": "Category:Thunder",
+    "rarity": "Category:2★ Rarity (Unit)",
+    "cost": "Category:Cost 3",
+    "dataID": "40181",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "30",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

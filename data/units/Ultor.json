@@ -1,0 +1,19 @@
+{
+    "id": "8049",
+    "name": "Ultor",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Ultor",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/5f/Unit_ills_thum_810134.png/revision/latest/scale-to-width-down/42?cb=20141127134554",
+    "element": "Category:Fire",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 13",
+    "dataID": "810134",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "1058",
+    "name": "Sorcerer's Army Velnar",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Sorcerer%27s_Army_Velnar",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/27/Unit_ills_thum_10705.png/revision/latest/scale-to-width-down/42?cb=20150726171546",
+    "element": "Category:Fire",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 25",
+    "dataID": "10705",
+    "gender": "Category:Male Unit",
+    "maxLevel": "100",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

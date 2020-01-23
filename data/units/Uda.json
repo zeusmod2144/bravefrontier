@@ -1,0 +1,19 @@
+{
+    "id": "570",
+    "name": "Uda",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Uda",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/9e/Unit_ills_thum_40423.png/revision/latest/scale-to-width-down/42?cb=20140626212920",
+    "element": "Category:Thunder",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 13",
+    "dataID": "40423",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

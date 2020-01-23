@@ -1,0 +1,19 @@
+{
+    "id": "23",
+    "name": "Black Magress",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Black_Magress",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/ca/Unit_ills_thum_60013.png/revision/latest/scale-to-width-down/42?cb=20131031040546",
+    "element": "Category:Dark",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 8",
+    "dataID": "60013",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

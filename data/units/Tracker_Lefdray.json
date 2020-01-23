@@ -1,0 +1,19 @@
+{
+    "id": "1429",
+    "name": "Tracker Lefdray",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Tracker_Lefdray",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/01/Unit_ills_thum_20863.png/revision/latest/scale-to-width-down/42?cb=20160914140958",
+    "element": "Category:Water",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 12",
+    "dataID": "20863",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

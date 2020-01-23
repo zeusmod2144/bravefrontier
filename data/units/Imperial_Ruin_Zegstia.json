@@ -1,0 +1,16 @@
+{
+    "id": "1771",
+    "name": "Imperial Ruin Zegstia",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Imperial_Ruin_Zegstia",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/2f/Unit_ills_thum_11167.png/revision/latest/scale-to-width-down/42?cb=20171110075854",
+    "element": "Category:Fire",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 60",
+    "dataID": "11167",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Hero Class"
+    ]
+}

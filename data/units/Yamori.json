@@ -1,0 +1,17 @@
+{
+    "id": "8536",
+    "name": "Yamori",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Yamori",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/1e/Unit_ills_thum_810778.png/revision/latest/scale-to-width-down/42?cb=20190628010724",
+    "element": "Category:Fire",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 54",
+    "dataID": "810778",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

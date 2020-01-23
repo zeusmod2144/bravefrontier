@@ -1,0 +1,19 @@
+{
+    "id": "197",
+    "name": "Jewel God",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Jewel_God",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/34/Unit_ills_thum_50133.png/revision/latest/scale-to-width-down/42?cb=20131101124818",
+    "element": "Category:Light",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 9",
+    "dataID": "50133",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

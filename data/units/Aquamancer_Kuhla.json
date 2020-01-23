@@ -1,0 +1,19 @@
+{
+    "id": "684",
+    "name": "Aquamancer Kuhla",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Aquamancer_Kuhla",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/c5/Unit_ills_thum_20483.png/revision/latest/scale-to-width-down/42?cb=20140924143452",
+    "element": "Category:Water",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 13",
+    "dataID": "20483",
+    "gender": "Category:Female Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

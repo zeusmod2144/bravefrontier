@@ -1,0 +1,19 @@
+{
+    "id": "691",
+    "name": "Thunder Gun Rowgen",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Thunder_Gun_Rowgen",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/d7/Unit_ills_thum_40474.png/revision/latest/scale-to-width-down/42?cb=20140924143503",
+    "element": "Category:Thunder",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 17",
+    "dataID": "40474",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

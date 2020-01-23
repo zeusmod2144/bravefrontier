@@ -1,0 +1,19 @@
+{
+    "id": "785",
+    "name": "Rita (5★)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Rita_(5%E2%98%85)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/dc/Unit_ills_thum_30534.png/revision/latest/scale-to-width-down/42?cb=20141211232031",
+    "element": "Category:Earth",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 16",
+    "dataID": "30534",
+    "gender": "Category:Female Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "1415",
+    "name": "総統",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/%E7%B7%8F%E7%B5%B1",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/7b/Unit_ills_thum_51014.png/revision/latest/scale-to-width-down/42?cb=20190716052908",
+    "element": "Category:Light",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 16",
+    "dataID": "51014",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

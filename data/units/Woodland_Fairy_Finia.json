@@ -1,0 +1,19 @@
+{
+    "id": "634",
+    "name": "Woodland Fairy Finia",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Woodland_Fairy_Finia",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/2b/Unit_ills_thum_30262.png/revision/latest/scale-to-width-down/42?cb=20140731024949",
+    "element": "Category:Earth",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 6",
+    "dataID": "30262",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "40",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

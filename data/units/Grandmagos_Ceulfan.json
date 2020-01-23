@@ -1,0 +1,17 @@
+{
+    "id": "8297",
+    "name": "Grandmagos Ceulfan",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Grandmagos_Ceulfan",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/7e/Unit_ills_thum_850278.png/revision/latest/scale-to-width-down/42?cb=20170508113343",
+    "element": "Category:Light",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 54",
+    "dataID": "850278",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

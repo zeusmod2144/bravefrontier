@@ -1,0 +1,19 @@
+{
+    "id": "119",
+    "name": "Valkyrie",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Valkyrie",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/8b/Unit_ills_thum_50082.png/revision/latest/scale-to-width-down/42?cb=20131031080715",
+    "element": "Category:Light",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 5",
+    "dataID": "50082",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "40",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

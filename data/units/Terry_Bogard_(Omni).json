@@ -1,0 +1,17 @@
+{
+    "id": "8216",
+    "name": "Terry Bogard (Omni)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Terry_Bogard_(Omni)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/81/Unit_ills_thum_830178.png/revision/latest/scale-to-width-down/42?cb=20160715161314",
+    "element": "Category:Earth",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 54",
+    "dataID": "830178",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

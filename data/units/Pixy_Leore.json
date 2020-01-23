@@ -1,0 +1,19 @@
+{
+    "id": "227",
+    "name": "Pixy Leore",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Pixy_Leore",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/ea/Unit_ills_thum_30152.png/revision/latest/scale-to-width-down/42?cb=20140211092103",
+    "element": "Category:Earth",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 5",
+    "dataID": "30152",
+    "gender": "Category:Male Unit",
+    "maxLevel": "40",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

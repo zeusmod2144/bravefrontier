@@ -1,0 +1,19 @@
+{
+    "id": "92",
+    "name": "Titania",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Titania",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/ff/Unit_ills_thum_30072.png/revision/latest/scale-to-width-down/42?cb=20131031071448",
+    "element": "Category:Earth",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 5",
+    "dataID": "30072",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "40",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

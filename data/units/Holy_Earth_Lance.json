@@ -1,0 +1,19 @@
+{
+    "id": "340",
+    "name": "Holy Earth Lance",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Holy_Earth_Lance",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e2/Unit_ills_thum_30015.png/revision/latest/scale-to-width-down/42?cb=20140411012139",
+    "element": "Category:Earth",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 20",
+    "dataID": "30015",
+    "gender": "Category:Male Unit",
+    "maxLevel": "100",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

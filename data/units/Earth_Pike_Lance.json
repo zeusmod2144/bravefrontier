@@ -1,0 +1,19 @@
+{
+    "id": "11",
+    "name": "Earth Pike Lance",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Earth_Pike_Lance",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/f2/Unit_ills_thum_30013.png/revision/latest/scale-to-width-down/42?cb=20131029090114",
+    "element": "Category:Earth",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 8",
+    "dataID": "30013",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

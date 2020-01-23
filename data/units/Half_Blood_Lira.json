@@ -1,0 +1,19 @@
+{
+    "id": "425",
+    "name": "Half Blood Lira",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Half_Blood_Lira",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/af/Unit_ills_thum_60273.png/revision/latest/scale-to-width-down/42?cb=20140515042647",
+    "element": "Category:Dark",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 12",
+    "dataID": "60273",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "60",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

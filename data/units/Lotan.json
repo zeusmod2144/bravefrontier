@@ -1,0 +1,19 @@
+{
+    "id": "700",
+    "name": "Lotan",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Lotan",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/ce/Unit_ills_thum_20073.png/revision/latest/scale-to-width-down/42?cb=20140930012337",
+    "element": "Category:Water",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 9",
+    "dataID": "20073",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "60",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

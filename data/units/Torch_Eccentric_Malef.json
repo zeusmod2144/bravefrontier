@@ -1,0 +1,18 @@
+{
+    "id": "1435",
+    "name": "Torch Eccentric Malef",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Torch_Eccentric_Malef",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/c1/Unit_ills_thum_10937.png/revision/latest/scale-to-width-down/42?cb=20160810055619",
+    "element": "Category:Fire",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 48",
+    "dataID": "10937",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

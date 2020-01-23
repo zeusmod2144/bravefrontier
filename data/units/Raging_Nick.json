@@ -1,0 +1,19 @@
+{
+    "id": "8097",
+    "name": "Raging Nick",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Raging_Nick",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/c5/Unit_ills_thum_810116.png/revision/latest/scale-to-width-down/42?cb=20150105115042",
+    "element": "Category:Fire",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 27",
+    "dataID": "810116",
+    "gender": "Category:Male Unit",
+    "maxLevel": "100",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

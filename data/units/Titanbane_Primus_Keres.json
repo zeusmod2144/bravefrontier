@@ -1,0 +1,17 @@
+{
+    "id": "8279",
+    "name": "Titanbane Primus Keres",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Titanbane_Primus_Keres",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/01/Unit_ills_thum_860278.png/revision/latest/scale-to-width-down/42?cb=20170317131134",
+    "element": "Category:Dark",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 54",
+    "dataID": "860278",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

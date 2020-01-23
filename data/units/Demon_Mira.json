@@ -1,0 +1,19 @@
+{
+    "id": "8176",
+    "name": "Demon Mira",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Demon_Mira",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/a0/Unit_ills_thum_840156.png/revision/latest/scale-to-width-down/42?cb=20160203055324",
+    "element": "Category:Thunder",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 25",
+    "dataID": "840156",
+    "gender": "Category:Female Unit",
+    "maxLevel": "100",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

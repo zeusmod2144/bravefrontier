@@ -1,0 +1,19 @@
+{
+    "id": "135",
+    "name": "Phoenix",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Phoenix",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/d5/Unit_ills_thum_10112.png/revision/latest/scale-to-width-down/42?cb=20131101014720",
+    "element": "Category:Fire",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 5",
+    "dataID": "10112",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "40",
+    "arenaType": "1",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "388",
+    "name": "Evil Blades Logan",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Evil_Blades_Logan",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/cd/Unit_ills_thum_60284.png/revision/latest/scale-to-width-down/42?cb=20140428050112",
+    "element": "Category:Dark",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 15",
+    "dataID": "60284",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

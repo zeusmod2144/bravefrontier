@@ -1,0 +1,19 @@
+{
+    "id": "1660",
+    "name": "Cyborg",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Cyborg",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/b2/Unit_ills_thum_40965.png/revision/latest/scale-to-width-down/42?cb=20190401181406",
+    "element": "Category:Thunder",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 28",
+    "dataID": "40965",
+    "gender": "Category:Male Unit",
+    "maxLevel": "100",
+    "arenaType": "11",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

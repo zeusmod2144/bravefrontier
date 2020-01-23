@@ -1,0 +1,19 @@
+{
+    "id": "8244",
+    "name": "Lasswell (7★)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Lasswell_(7%E2%98%85)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/a0/Unit_ills_thum_820397.png/revision/latest/scale-to-width-down/42?cb=20161123110722",
+    "element": "Category:Water",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 44",
+    "dataID": "820397",
+    "gender": "Category:Male Unit",
+    "maxLevel": "120",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "313",
+    "name": "Sea Prince Verica",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Sea_Prince_Verica",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/8f/Unit_ills_thum_20063.png/revision/latest/scale-to-width-down/42?cb=20140309144236",
+    "element": "Category:Water",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 9",
+    "dataID": "20063",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

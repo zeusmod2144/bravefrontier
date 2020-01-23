@@ -1,0 +1,19 @@
+{
+    "id": "242",
+    "name": "Dean",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Dean",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/4a/Unit_ills_thum_20162.png/revision/latest/scale-to-width-down/42?cb=20140219044412",
+    "element": "Category:Water",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 7",
+    "dataID": "20162",
+    "gender": "Category:Male Unit",
+    "maxLevel": "40",
+    "arenaType": "1",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

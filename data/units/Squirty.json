@@ -1,0 +1,19 @@
+{
+    "id": "45",
+    "name": "Squirty",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Squirty",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/7d/Unit_ills_thum_20030.png/revision/latest/scale-to-width-down/42?cb=20131030141911",
+    "element": "Category:Water",
+    "rarity": "Category:1★ Rarity (Unit)",
+    "cost": "Category:Cost 1",
+    "dataID": "20030",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "10",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

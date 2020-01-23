@@ -1,0 +1,19 @@
+{
+    "id": "21",
+    "name": "Iron Magress",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Iron_Magress",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/d4/Unit_ills_thum_60011.png/revision/latest/scale-to-width-down/42?cb=20131031040434",
+    "element": "Category:Dark",
+    "rarity": "Category:2★ Rarity (Unit)",
+    "cost": "Category:Cost 2",
+    "dataID": "60011",
+    "gender": "Category:Male Unit",
+    "maxLevel": "30",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

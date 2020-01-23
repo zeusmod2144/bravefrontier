@@ -1,0 +1,18 @@
+{
+    "id": "1550",
+    "name": "Viridian Flag Freed",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Viridian_Flag_Freed",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/83/Unit_ills_thum_30897.png/revision/latest/scale-to-width-down/42?cb=20161222053203",
+    "element": "Category:Earth",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 50",
+    "dataID": "30897",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

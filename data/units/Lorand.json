@@ -1,0 +1,19 @@
+{
+    "id": "239",
+    "name": "Lorand",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Lorand",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/8c/Unit_ills_thum_10162.png/revision/latest/scale-to-width-down/42?cb=20140219044326",
+    "element": "Category:Fire",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 7",
+    "dataID": "10162",
+    "gender": "Category:Male Unit",
+    "maxLevel": "40",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

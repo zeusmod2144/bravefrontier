@@ -1,0 +1,19 @@
+{
+    "id": "531",
+    "name": "Dark Princess Dia",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Dark_Princess_Dia",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/61/Unit_ills_thum_10374.png/revision/latest/scale-to-width-down/42?cb=20140528065916",
+    "element": "Category:Fire",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 16",
+    "dataID": "10374",
+    "gender": "Category:Female Unit",
+    "maxLevel": "80",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

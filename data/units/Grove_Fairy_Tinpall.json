@@ -1,0 +1,19 @@
+{
+    "id": "633",
+    "name": "Grove Fairy Tinpall",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Grove_Fairy_Tinpall",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/53/Unit_ills_thum_30261.png/revision/latest/scale-to-width-down/42?cb=20140731024948",
+    "element": "Category:Earth",
+    "rarity": "Category:2★ Rarity (Unit)",
+    "cost": "Category:Cost 4",
+    "dataID": "30261",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "30",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

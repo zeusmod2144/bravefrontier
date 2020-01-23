@@ -1,0 +1,19 @@
+{
+    "id": "8043",
+    "name": "Semira",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Semira",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/3e/Unit_ills_thum_860104.png/revision/latest/scale-to-width-down/42?cb=20141027132859",
+    "element": "Category:Dark",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 13",
+    "dataID": "860104",
+    "gender": "Category:Female Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

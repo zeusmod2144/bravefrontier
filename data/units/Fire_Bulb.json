@@ -1,0 +1,19 @@
+{
+    "id": "8025",
+    "name": "Fire Bulb",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Fire_Bulb",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/f6/Unit_ills_thum_810034.png/revision/latest/scale-to-width-down/42?cb=20140727172140",
+    "element": "Category:Fire",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 1",
+    "dataID": "810034",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

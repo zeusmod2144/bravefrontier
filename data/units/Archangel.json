@@ -1,0 +1,19 @@
+{
+    "id": "76",
+    "name": "Archangel",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Archangel",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/42/Unit_ills_thum_50051.png/revision/latest/scale-to-width-down/42?cb=20131031060325",
+    "element": "Category:Light",
+    "rarity": "Category:2★ Rarity (Unit)",
+    "cost": "Category:Cost 4",
+    "dataID": "50051",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "30",
+    "arenaType": "1",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

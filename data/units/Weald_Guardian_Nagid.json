@@ -1,0 +1,18 @@
+{
+    "id": "1700",
+    "name": "Weald Guardian Nagid",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Weald_Guardian_Nagid",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/b1/Unit_ills_thum_31007.png/revision/latest/scale-to-width-down/42?cb=20170825111532",
+    "element": "Category:Earth",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 50",
+    "dataID": "31007",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "1",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

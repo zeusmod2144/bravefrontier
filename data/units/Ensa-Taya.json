@@ -1,0 +1,19 @@
+{
+    "id": "8188",
+    "name": "Ensa-Taya",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Ensa-Taya",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e3/Unit_ills_thum_860165.png/revision/latest/scale-to-width-down/42?cb=20160407104602",
+    "element": "Category:Dark",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 31",
+    "dataID": "860165",
+    "gender": "Category:Female Unit",
+    "maxLevel": "100",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

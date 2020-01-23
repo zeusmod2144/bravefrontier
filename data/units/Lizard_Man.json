@@ -1,0 +1,19 @@
+{
+    "id": "519",
+    "name": "Lizard Man",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Lizard_Man",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/df/Unit_ills_thum_20052.png/revision/latest/scale-to-width-down/42?cb=20140505053922",
+    "element": "Category:Water",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 6",
+    "dataID": "20052",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "40",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

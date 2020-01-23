@@ -1,0 +1,19 @@
+{
+    "id": "1151",
+    "name": "Holy Saint Charla",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Holy_Saint_Charla",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/02/Unit_ills_thum_50835.png/revision/latest/scale-to-width-down/42?cb=20150924172421",
+    "element": "Category:Light",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 30",
+    "dataID": "50835",
+    "gender": "Category:Female Unit",
+    "maxLevel": "100",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

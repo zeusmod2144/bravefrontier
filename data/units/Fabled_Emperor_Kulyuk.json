@@ -1,0 +1,18 @@
+{
+    "id": "1309",
+    "name": "Fabled Emperor Kulyuk",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Fabled_Emperor_Kulyuk",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e6/Unit_ills_thum_10847.png/revision/latest/scale-to-width-down/42?cb=20160224185520",
+    "element": "Category:Fire",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 47",
+    "dataID": "10847",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "1316",
+    "name": "Mechanized Reddrag",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Mechanized_Reddrag",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e4/Unit_ills_thum_40744.png/revision/latest/scale-to-width-down/42?cb=20160224185523",
+    "element": "Category:Thunder",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 21",
+    "dataID": "40744",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

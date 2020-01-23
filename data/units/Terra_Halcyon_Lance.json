@@ -1,0 +1,19 @@
+{
+    "id": "1304",
+    "name": "Terra Halcyon Lance",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Terra_Halcyon_Lance",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/bc/Unit_ills_thum_30017.png/revision/latest/scale-to-width-down/42?cb=20160215172311",
+    "element": "Category:Earth",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 45",
+    "dataID": "30017",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

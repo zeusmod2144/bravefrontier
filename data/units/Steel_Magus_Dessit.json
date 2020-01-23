@@ -1,0 +1,17 @@
+{
+    "id": "8311",
+    "name": "Steel Magus Dessit",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Steel_Magus_Dessit",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/fe/Unit_ills_thum_830288.png/revision/latest/scale-to-width-down/42?cb=20170704080056",
+    "element": "Category:Earth",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 54",
+    "dataID": "830288",
+    "gender": "Category:Female Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

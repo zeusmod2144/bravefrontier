@@ -1,0 +1,16 @@
+{
+    "id": "8473",
+    "name": "Zedus the Great",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Zedus_the_Great",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/31/Unit_ills_thum_840148.png/revision/latest/scale-to-width-down/42?cb=20181128115412",
+    "element": "Category:Thunder",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 60",
+    "dataID": "840148",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Hero Class"
+    ]
+}

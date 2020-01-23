@@ -1,0 +1,19 @@
+{
+    "id": "90",
+    "name": "Scylla",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Scylla",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/79/Unit_ills_thum_20072.png/revision/latest/scale-to-width-down/42?cb=20131031070107",
+    "element": "Category:Water",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 5",
+    "dataID": "20072",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "40",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

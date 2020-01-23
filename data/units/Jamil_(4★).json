@@ -1,0 +1,19 @@
+{
+    "id": "413",
+    "name": "Jamil (4★)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Jamil_(4%E2%98%85)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/79/Unit_ills_thum_60303.png/revision/latest/scale-to-width-down/42?cb=20140515045416",
+    "element": "Category:Dark",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 10",
+    "dataID": "60303",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "1286",
+    "name": "Steel Noble Heins",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Steel_Noble_Heins",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/fb/Unit_ills_thum_30413.png/revision/latest/scale-to-width-down/42?cb=20160129125726",
+    "element": "Category:Earth",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 12",
+    "dataID": "30413",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

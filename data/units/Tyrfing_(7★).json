@@ -1,0 +1,19 @@
+{
+    "id": "1364",
+    "name": "Tyrfing (7★)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Tyrfing_(7%E2%98%85)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/5d/Unit_ills_thum_50706.png/revision/latest/scale-to-width-down/42?cb=20160624153945",
+    "element": "Category:Light",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 40",
+    "dataID": "50706",
+    "gender": "Category:Female Unit",
+    "maxLevel": "120",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

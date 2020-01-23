@@ -1,0 +1,18 @@
+{
+    "id": "1486",
+    "name": "Great General Zalts",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Great_General_Zalts",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/38/Unit_ills_thum_20907.png/revision/latest/scale-to-width-down/42?cb=20161011044523",
+    "element": "Category:Water",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 48",
+    "dataID": "20907",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

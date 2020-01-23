@@ -1,0 +1,18 @@
+{
+    "id": "8499",
+    "name": "Orebi Fulgur Geode",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Orebi_Fulgur_Geode",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/1e/Unit_ills_thum_840900.png/revision/latest/scale-to-width-down/42?cb=20190227081350",
+    "element": "Category:Thunder",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 46",
+    "dataID": "840900",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "150",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

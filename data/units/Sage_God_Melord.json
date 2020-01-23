@@ -1,0 +1,18 @@
+{
+    "id": "1408",
+    "name": "Sage God Melord",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Sage_God_Melord",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/c8/Unit_ills_thum_20857.png/revision/latest/scale-to-width-down/42?cb=20160711061313",
+    "element": "Category:Water",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 48",
+    "dataID": "20857",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "194",
+    "name": "Dark Totem",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Dark_Totem",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e7/Unit_ills_thum_60123.png/revision/latest/scale-to-width-down/42?cb=20131101095351",
+    "element": "Category:Dark",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 10",
+    "dataID": "60123",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

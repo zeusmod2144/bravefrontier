@@ -1,0 +1,18 @@
+{
+    "id": "1453",
+    "name": "Brave Emperor Garrel",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Brave_Emperor_Garrel",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/2b/Unit_ills_thum_51047.png/revision/latest/scale-to-width-down/42?cb=20160909022403",
+    "element": "Category:Light",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 48",
+    "dataID": "51047",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "1386",
+    "name": "Knight of Holy Light Ark",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Knight_of_Holy_Light_Ark",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/16/Unit_ills_thum_50287.png/revision/latest/scale-to-width-down/42?cb=20160427173028",
+    "element": "Category:Light",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 47",
+    "dataID": "50287",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

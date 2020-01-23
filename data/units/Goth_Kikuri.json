@@ -1,0 +1,19 @@
+{
+    "id": "303",
+    "name": "Goth Kikuri",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Goth_Kikuri",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/60/Unit_ills_thum_60173.png/revision/latest/scale-to-width-down/42?cb=20140429171038",
+    "element": "Category:Dark",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 10",
+    "dataID": "60173",
+    "gender": "Category:Female Unit",
+    "maxLevel": "60",
+    "arenaType": "1",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

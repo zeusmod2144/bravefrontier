@@ -1,0 +1,19 @@
+{
+    "id": "385",
+    "name": "Cyborg Lilith",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Cyborg_Lilith",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/0a/Unit_ills_thum_50313.png/revision/latest/scale-to-width-down/42?cb=20140429001150",
+    "element": "Category:Light",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 10",
+    "dataID": "50313",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "528",
+    "name": "Legatus Melchio",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Legatus_Melchio",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/39/Unit_ills_thum_50275.png/revision/latest/scale-to-width-down/42?cb=20140512153219",
+    "element": "Category:Light",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 23",
+    "dataID": "50275",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "100",
+    "arenaType": "1",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

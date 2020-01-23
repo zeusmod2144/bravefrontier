@@ -1,0 +1,19 @@
+{
+    "id": "8047",
+    "name": "Cyclaw",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Cyclaw",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/29/Unit_ills_thum_810124.png/revision/latest/scale-to-width-down/42?cb=20141127134107",
+    "element": "Category:Fire",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 12",
+    "dataID": "810124",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

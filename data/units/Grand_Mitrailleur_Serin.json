@@ -1,0 +1,16 @@
+{
+    "id": "8462",
+    "name": "Grand Mitrailleur Serin",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Grand_Mitrailleur_Serin",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/c9/Unit_ills_thum_820658.png/revision/latest/scale-to-width-down/42?cb=20181026071926",
+    "element": "Category:Water",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 60",
+    "dataID": "820658",
+    "gender": "Category:Female Unit",
+    "maxLevel": "150",
+    "arenaType": "11",
+    "colosseumLegality": [
+        "Category:Hero Class"
+    ]
+}

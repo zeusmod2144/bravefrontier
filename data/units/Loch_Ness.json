@@ -1,0 +1,19 @@
+{
+    "id": "139",
+    "name": "Loch Ness",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Loch_Ness",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/4d/Unit_ills_thum_20113.png/revision/latest/scale-to-width-down/42?cb=20131101015922",
+    "element": "Category:Water",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 8",
+    "dataID": "20113",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "60",
+    "arenaType": "1",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "1231",
+    "name": "冥月の銀妹ロネッサ (6★)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/%E5%86%A5%E6%9C%88%E3%81%AE%E9%8A%80%E5%A6%B9%E3%83%AD%E3%83%8D%E3%83%83%E3%82%B5_(6%E2%98%85)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/40/Unit_ills_thum_60905.png/revision/latest/scale-to-width-down/42?cb=20190703071559",
+    "element": "Category:Dark",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 25",
+    "dataID": "60905",
+    "gender": "Category:Female Unit",
+    "maxLevel": "100",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "654",
+    "name": "Dual Blade God Eru",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Dual_Blade_God_Eru",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/39/Unit_ills_thum_60294.png/revision/latest/scale-to-width-down/42?cb=20140812232544",
+    "element": "Category:Dark",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 16",
+    "dataID": "60294",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

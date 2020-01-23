@@ -1,0 +1,19 @@
+{
+    "id": "27",
+    "name": "Fire Beast Zegar",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Fire_Beast_Zegar",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/d5/Unit_ills_thum_10023.png/revision/latest/scale-to-width-down/42?cb=20131029092351",
+    "element": "Category:Fire",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 9",
+    "dataID": "10023",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

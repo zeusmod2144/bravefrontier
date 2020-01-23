@@ -1,0 +1,19 @@
+{
+    "id": "261",
+    "name": "Earth King",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Earth_King",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/1d/Unit_ills_thum_30203.png/revision/latest/scale-to-width-down/42?cb=20140429161046",
+    "element": "Category:Earth",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 6",
+    "dataID": "30203",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

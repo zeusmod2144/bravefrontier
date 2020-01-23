@@ -1,0 +1,19 @@
+{
+    "id": "1130",
+    "name": "Dhaos (5★)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Dhaos_(5%E2%98%85)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/41/Unit_ills_thum_50844.png/revision/latest/scale-to-width-down/42?cb=20160531123556",
+    "element": "Category:Light",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 16",
+    "dataID": "50844",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

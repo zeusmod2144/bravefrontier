@@ -1,0 +1,19 @@
+{
+    "id": "1118",
+    "name": "奏神士 鏡音レン",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/%E5%A5%8F%E7%A5%9E%E5%A3%AB_%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/d6/Unit_ills_thum_50824.png/revision/latest/scale-to-width-down/42?cb=20191104214408",
+    "element": "Category:Light",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 15",
+    "dataID": "50824",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

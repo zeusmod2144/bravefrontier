@@ -1,0 +1,19 @@
+{
+    "id": "8021",
+    "name": "Estia",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Estia",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/60/Unit_ills_thum_850013.png/revision/latest/scale-to-width-down/42?cb=20140617132124",
+    "element": "Category:Light",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 6",
+    "dataID": "850013",
+    "gender": "Category:Female Unit",
+    "maxLevel": "40",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

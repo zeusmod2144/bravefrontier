@@ -1,0 +1,19 @@
+{
+    "id": "1019",
+    "name": "Virtuous Champion Krantz",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Virtuous_Champion_Krantz",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/65/Unit_ills_thum_50756.png/revision/latest/scale-to-width-down/42?cb=20150623044559",
+    "element": "Category:Light",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 42",
+    "dataID": "50756",
+    "gender": "Category:Male Unit",
+    "maxLevel": "120",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

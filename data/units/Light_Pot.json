@@ -1,0 +1,19 @@
+{
+    "id": "310",
+    "name": "Light Pot",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Light_Pot",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/fa/Unit_ills_thum_50191.png/revision/latest/scale-to-width-down/42?cb=20140429170551",
+    "element": "Category:Light",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 1",
+    "dataID": "50191",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

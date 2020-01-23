@@ -1,0 +1,19 @@
+{
+    "id": "945",
+    "name": "Baldeura",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Baldeura",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/3c/Unit_ills_thum_60683.png/revision/latest/scale-to-width-down/42?cb=20150330023315",
+    "element": "Category:Dark",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 10",
+    "dataID": "60683",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

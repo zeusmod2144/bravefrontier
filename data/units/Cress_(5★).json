@@ -1,0 +1,19 @@
+{
+    "id": "789",
+    "name": "Cress (5★)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Cress_(5%E2%98%85)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/96/Unit_ills_thum_50634.png/revision/latest/scale-to-width-down/42?cb=20141215173946",
+    "element": "Category:Light",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 16",
+    "dataID": "50634",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

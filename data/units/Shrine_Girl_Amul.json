@@ -1,0 +1,19 @@
+{
+    "id": "467",
+    "name": "Shrine Girl Amul",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Shrine_Girl_Amul",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/2e/Unit_ills_thum_50181.png/revision/latest/scale-to-width-down/42?cb=20140515050408",
+    "element": "Category:Light",
+    "rarity": "Category:2★ Rarity (Unit)",
+    "cost": "Category:Cost 3",
+    "dataID": "50181",
+    "gender": "Category:Female Unit",
+    "maxLevel": "30",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

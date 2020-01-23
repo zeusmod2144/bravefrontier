@@ -1,0 +1,19 @@
+{
+    "id": "697",
+    "name": "Loyal Assassin Kuda",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Loyal_Assassin_Kuda",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/27/Unit_ills_thum_60534.png/revision/latest/scale-to-width-down/42?cb=20140924143506",
+    "element": "Category:Dark",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 17",
+    "dataID": "60534",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

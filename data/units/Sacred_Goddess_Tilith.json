@@ -1,0 +1,19 @@
+{
+    "id": "1298",
+    "name": "Sacred Goddess Tilith",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Sacred_Goddess_Tilith",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/f9/Unit_ills_thum_50255.png/revision/latest/scale-to-width-down/42?cb=20160211165712",
+    "element": "Category:Light",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 30",
+    "dataID": "50255",
+    "gender": "Category:Female Unit",
+    "maxLevel": "100",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

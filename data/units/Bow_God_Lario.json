@@ -1,0 +1,19 @@
+{
+    "id": "322",
+    "name": "Bow God Lario",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Bow_God_Lario",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/9c/Unit_ills_thum_30024.png/revision/latest/scale-to-width-down/42?cb=20140411005455",
+    "element": "Category:Earth",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 14",
+    "dataID": "30024",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

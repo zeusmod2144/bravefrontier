@@ -1,0 +1,16 @@
+{
+    "id": "8442",
+    "name": "Eternal Templar Kielazar",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Eternal_Templar_Kielazar",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/d0/Unit_ills_thum_860438.png/revision/latest/scale-to-width-down/42?cb=20180830090949",
+    "element": "Category:Dark",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 60",
+    "dataID": "860438",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Hero Class"
+    ]
+}

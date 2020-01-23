@@ -1,0 +1,17 @@
+{
+    "id": "8341",
+    "name": "Gray Fullbuster (Omni)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Gray_Fullbuster_(Omni)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e1/Unit_ills_thum_820548.png/revision/latest/scale-to-width-down/42?cb=20170928140741",
+    "element": "Category:Water",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 54",
+    "dataID": "820548",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

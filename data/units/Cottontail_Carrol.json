@@ -1,0 +1,19 @@
+{
+    "id": "8120",
+    "name": "Cottontail Carrol",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Cottontail_Carrol",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/85/Unit_ills_thum_850154.png/revision/latest/scale-to-width-down/42?cb=20150402124551",
+    "element": "Category:Light",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 13",
+    "dataID": "850154",
+    "gender": "Category:Female Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

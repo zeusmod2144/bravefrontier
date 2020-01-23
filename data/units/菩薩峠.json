@@ -1,0 +1,19 @@
+{
+    "id": "1416",
+    "name": "菩薩峠",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/%E8%8F%A9%E8%96%A9%E5%B3%A0",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/16/Unit_ills_thum_60994.png/revision/latest/scale-to-width-down/42?cb=20190716055301",
+    "element": "Category:Dark",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 16",
+    "dataID": "60994",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

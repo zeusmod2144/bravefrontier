@@ -1,0 +1,19 @@
+{
+    "id": "1006",
+    "name": "Mighty Blaze Griff",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Mighty_Blaze_Griff",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/7b/Unit_ills_thum_10675.png/revision/latest/scale-to-width-down/42?cb=20150624033220",
+    "element": "Category:Fire",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 30",
+    "dataID": "10675",
+    "gender": "Category:Male Unit",
+    "maxLevel": "100",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

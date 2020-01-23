@@ -1,0 +1,19 @@
+{
+    "id": "201",
+    "name": "Mimic",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Mimic",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/c3/Unit_ills_thum_60142.png/revision/latest/scale-to-width-down/42?cb=20131105082139",
+    "element": "Category:Dark",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 2",
+    "dataID": "60142",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

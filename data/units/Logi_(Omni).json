@@ -1,0 +1,19 @@
+{
+    "id": "8365",
+    "name": "Logi (Omni)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Logi_(Omni)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/53/Unit_ills_thum_850978.png/revision/latest/scale-to-width-down/42?cb=20171206105200",
+    "element": "Category:Light",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 45",
+    "dataID": "850978",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

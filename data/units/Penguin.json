@@ -1,0 +1,19 @@
+{
+    "id": "1663",
+    "name": "Penguin",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Penguin",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/02/Unit_ills_thum_21025.png/revision/latest/scale-to-width-down/42?cb=20190401184228",
+    "element": "Category:Water",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 28",
+    "dataID": "21025",
+    "gender": "Category:Male Unit",
+    "maxLevel": "100",
+    "arenaType": "9",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

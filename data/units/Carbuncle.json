@@ -1,0 +1,19 @@
+{
+    "id": "1158",
+    "name": "Carbuncle",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Carbuncle",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/23/Unit_ills_thum_10721.png/revision/latest/scale-to-width-down/42?cb=20160217220632",
+    "element": "Category:Fire",
+    "rarity": "Category:2★ Rarity (Unit)",
+    "cost": "Category:Cost 4",
+    "dataID": "10721",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "30",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

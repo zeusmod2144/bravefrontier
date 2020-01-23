@@ -1,0 +1,19 @@
+{
+    "id": "8227",
+    "name": "Hallelujah (7★)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Hallelujah_(7%E2%98%85)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/be/Unit_ills_thum_840367.png/revision/latest/scale-to-width-down/42?cb=20160920115604",
+    "element": "Category:Thunder",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 44",
+    "dataID": "840367",
+    "gender": "Category:Male Unit",
+    "maxLevel": "120",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "id": "8546",
+    "name": "Wildblood Tarok",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Wildblood_Tarok",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/8e/Unit_ills_thum_830708.png/revision/latest/scale-to-width-down/42?cb=20190729034243",
+    "element": "Category:Earth",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 60",
+    "dataID": "830708",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "366",
+    "name": "Lemenara",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Lemenara",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/14/Unit_ills_thum_30094.png/revision/latest/scale-to-width-down/42?cb=20140419172502",
+    "element": "Category:Earth",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 12",
+    "dataID": "30094",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "80",
+    "arenaType": "7",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

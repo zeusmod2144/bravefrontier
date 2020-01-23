@@ -1,0 +1,19 @@
+{
+    "id": "214",
+    "name": "Thunder Kick Zeln",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Thunder_Kick_Zeln",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/f8/Unit_ills_thum_40143.png/revision/latest/scale-to-width-down/42?cb=20140211092526",
+    "element": "Category:Thunder",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 10",
+    "dataID": "40143",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

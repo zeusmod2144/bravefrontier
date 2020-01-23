@@ -1,0 +1,19 @@
+{
+    "id": "7009",
+    "name": "Greater Earth Golem",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Greater_Earth_Golem",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/ea/Unit_ills_thum_87302602.png/revision/latest/scale-to-width-down/42?cb=20190601210834",
+    "element": "Category:Earth",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 20",
+    "dataID": "87302602",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

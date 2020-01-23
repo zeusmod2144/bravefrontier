@@ -1,0 +1,19 @@
+{
+    "id": "589",
+    "name": "Bahvel",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Bahvel",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/bb/Unit_ills_thum_60212.png/revision/latest/scale-to-width-down/42?cb=20140701152953",
+    "element": "Category:Dark",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 6",
+    "dataID": "60212",
+    "gender": "Category:Male Unit",
+    "maxLevel": "40",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

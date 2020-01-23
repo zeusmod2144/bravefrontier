@@ -1,0 +1,18 @@
+{
+    "id": "1402",
+    "name": "Sapphire Noble Stein",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Sapphire_Noble_Stein",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/dd/Unit_ills_thum_20837.png/revision/latest/scale-to-width-down/42?cb=20160623175708",
+    "element": "Category:Water",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 47",
+    "dataID": "20837",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

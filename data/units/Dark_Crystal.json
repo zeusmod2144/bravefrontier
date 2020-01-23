@@ -1,0 +1,19 @@
+{
+    "id": "434",
+    "name": "Dark Crystal",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Dark_Crystal",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/77/Unit_ills_thum_60334.png/revision/latest/scale-to-width-down/42?cb=20140515024407",
+    "element": "Category:Dark",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 12",
+    "dataID": "60334",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

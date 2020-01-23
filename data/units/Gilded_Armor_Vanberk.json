@@ -1,0 +1,19 @@
+{
+    "id": "815",
+    "name": "Gilded Armor Vanberk",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Gilded_Armor_Vanberk",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/fe/Unit_ills_thum_10583.png/revision/latest/scale-to-width-down/42?cb=20141224171929",
+    "element": "Category:Fire",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 13",
+    "dataID": "10583",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

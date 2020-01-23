@@ -1,0 +1,18 @@
+{
+    "id": "1686",
+    "name": "Loyal Servant Garrett",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Loyal_Servant_Garrett",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/ee/Unit_ills_thum_21057.png/revision/latest/scale-to-width-down/42?cb=20170731064905",
+    "element": "Category:Water",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 47",
+    "dataID": "21057",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

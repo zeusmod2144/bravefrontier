@@ -1,0 +1,19 @@
+{
+    "id": "968",
+    "name": "Grand Malediction Yuura",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Grand_Malediction_Yuura",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/91/Unit_ills_thum_60736.png/revision/latest/scale-to-width-down/42?cb=20150424081921",
+    "element": "Category:Dark",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 40",
+    "dataID": "60736",
+    "gender": "Category:Male Unit",
+    "maxLevel": "120",
+    "arenaType": "6",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "8289",
+    "name": "Autonomous Cotton",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Autonomous_Cotton",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/95/Unit_ills_thum_820158.png/revision/latest/scale-to-width-down/42?cb=20170412091348",
+    "element": "Category:Water",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 48",
+    "dataID": "820158",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

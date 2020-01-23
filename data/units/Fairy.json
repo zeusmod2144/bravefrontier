@@ -1,0 +1,19 @@
+{
+    "id": "91",
+    "name": "Fairy",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Fairy",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/da/Unit_ills_thum_30071.png/revision/latest/scale-to-width-down/42?cb=20131031071430",
+    "element": "Category:Earth",
+    "rarity": "Category:2★ Rarity (Unit)",
+    "cost": "Category:Cost 2",
+    "dataID": "30071",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "30",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

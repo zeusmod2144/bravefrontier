@@ -1,0 +1,18 @@
+{
+    "id": "1460",
+    "name": "Silva Khopesh Serge",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Silva_Khopesh_Serge",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/2e/Unit_ills_thum_30847.png/revision/latest/scale-to-width-down/42?cb=20160923003053",
+    "element": "Category:Earth",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 48",
+    "dataID": "30847",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

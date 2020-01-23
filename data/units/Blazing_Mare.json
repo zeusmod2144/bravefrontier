@@ -1,0 +1,19 @@
+{
+    "id": "549",
+    "name": "Blazing Mare",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Blazing_Mare",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/19/Unit_ills_thum_60484.png/revision/latest/scale-to-width-down/42?cb=20140601165429",
+    "element": "Category:Dark",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 17",
+    "dataID": "60484",
+    "gender": "Category:Female Unit",
+    "maxLevel": "80",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

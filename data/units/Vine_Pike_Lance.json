@@ -1,0 +1,19 @@
+{
+    "id": "10",
+    "name": "Vine Pike Lance",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Vine_Pike_Lance",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/37/Unit_ills_thum_30012.png/revision/latest/scale-to-width-down/42?cb=20131014133834",
+    "element": "Category:Earth",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 4",
+    "dataID": "30012",
+    "gender": "Category:Male Unit",
+    "maxLevel": "40",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

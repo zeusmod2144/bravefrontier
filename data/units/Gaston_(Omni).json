@@ -1,0 +1,18 @@
+{
+    "id": "8230",
+    "name": "Gaston (Omni)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Gaston_(Omni)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/54/Unit_ills_thum_850368.png/revision/latest/scale-to-width-down/42?cb=20160920115605",
+    "element": "Category:Light",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 48",
+    "dataID": "850368",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

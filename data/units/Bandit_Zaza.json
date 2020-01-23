@@ -1,0 +1,19 @@
+{
+    "id": "83",
+    "name": "Bandit Zaza",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Bandit_Zaza",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/7d/Unit_ills_thum_30061.png/revision/latest/scale-to-width-down/42?cb=20131031063446",
+    "element": "Category:Earth",
+    "rarity": "Category:2★ Rarity (Unit)",
+    "cost": "Category:Cost 3",
+    "dataID": "30061",
+    "gender": "Category:Male Unit",
+    "maxLevel": "30",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

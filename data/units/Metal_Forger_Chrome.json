@@ -1,0 +1,19 @@
+{
+    "id": "1153",
+    "name": "Metal Forger Chrome",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Metal_Forger_Chrome",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/75/Unit_ills_thum_60844.png/revision/latest/scale-to-width-down/42?cb=20150924172422",
+    "element": "Category:Dark",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 20",
+    "dataID": "60844",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

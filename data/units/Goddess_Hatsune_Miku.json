@@ -1,0 +1,19 @@
+{
+    "id": "8084",
+    "name": "Goddess Hatsune Miku",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Goddess_Hatsune_Miku",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/ca/Unit_ills_thum_30494.png/revision/latest/scale-to-width-down/42?cb=20141008211849",
+    "element": "Category:Earth",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 16",
+    "dataID": "30494",
+    "gender": "Category:Female Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "669",
+    "name": "Brave God Hogar",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Brave_God_Hogar",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/55/Unit_ills_thum_50505.png/revision/latest/scale-to-width-down/42?cb=20140824230045",
+    "element": "Category:Light",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 27",
+    "dataID": "50505",
+    "gender": "Category:Male Unit",
+    "maxLevel": "100",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

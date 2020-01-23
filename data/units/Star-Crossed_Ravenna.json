@@ -1,0 +1,19 @@
+{
+    "id": "8181",
+    "name": "Star-Crossed Ravenna",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Star-Crossed_Ravenna",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/26/Unit_ills_thum_840326.png/revision/latest/scale-to-width-down/42?cb=20160212061155",
+    "element": "Category:Thunder",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 30",
+    "dataID": "840326",
+    "gender": "Category:Female Unit",
+    "maxLevel": "100",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

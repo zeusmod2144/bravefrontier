@@ -1,0 +1,19 @@
+{
+    "id": "752",
+    "name": "Elf Queen Arbonella",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Elf_Queen_Arbonella",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/1a/Unit_ills_thum_30095.png/revision/latest/scale-to-width-down/42?cb=20141116192537",
+    "element": "Category:Earth",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 24",
+    "dataID": "30095",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "100",
+    "arenaType": "7",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

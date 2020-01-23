@@ -1,0 +1,18 @@
+{
+    "id": "1671",
+    "name": "Piercing Oath Arsom",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Piercing_Oath_Arsom",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/16/Unit_ills_thum_21037.png/revision/latest/scale-to-width-down/42?cb=20170710052825",
+    "element": "Category:Water",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 50",
+    "dataID": "21037",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "776",
+    "name": "ナジル (4★)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/%E3%83%8A%E3%82%B8%E3%83%AB_(4%E2%98%85)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/6a/Unit_ills_thum_60613.png/revision/latest/scale-to-width-down/42?cb=20141128064412",
+    "element": "Category:Dark",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 12",
+    "dataID": "60613",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

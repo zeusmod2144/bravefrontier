@@ -1,0 +1,19 @@
+{
+    "id": "1020",
+    "name": "Dark Snake Kafka",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Dark_Snake_Kafka",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/54/Unit_ills_thum_60764.png/revision/latest/scale-to-width-down/42?cb=20150624033246",
+    "element": "Category:Dark",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 20",
+    "dataID": "60764",
+    "gender": "Category:Female Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

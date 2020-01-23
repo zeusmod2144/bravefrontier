@@ -1,0 +1,19 @@
+{
+    "id": "1017",
+    "name": "Noble Cavalier Krantz",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Noble_Cavalier_Krantz",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/fd/Unit_ills_thum_50754.png/revision/latest/scale-to-width-down/42?cb=20150624033245",
+    "element": "Category:Light",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 20",
+    "dataID": "50754",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

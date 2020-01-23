@@ -1,0 +1,19 @@
+{
+    "id": "129",
+    "name": "Sky Knight Falma",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Sky_Knight_Falma",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/31/Unit_ills_thum_40102.png/revision/latest/scale-to-width-down/42?cb=20131101001427",
+    "element": "Category:Thunder",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 5",
+    "dataID": "40102",
+    "gender": "Category:Male Unit",
+    "maxLevel": "40",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

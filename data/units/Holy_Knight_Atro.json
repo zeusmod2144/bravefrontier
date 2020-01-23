@@ -1,0 +1,19 @@
+{
+    "id": "19",
+    "name": "Holy Knight Atro",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Holy_Knight_Atro",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/13/Unit_ills_thum_50013.png/revision/latest/scale-to-width-down/42?cb=20131029091002",
+    "element": "Category:Light",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 8",
+    "dataID": "50013",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

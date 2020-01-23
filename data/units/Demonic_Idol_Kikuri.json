@@ -1,0 +1,19 @@
+{
+    "id": "881",
+    "name": "Demonic Idol Kikuri",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Demonic_Idol_Kikuri",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/79/Unit_ills_thum_60176.png/revision/latest/scale-to-width-down/42?cb=20150217180239",
+    "element": "Category:Dark",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 40",
+    "dataID": "60176",
+    "gender": "Category:Female Unit",
+    "maxLevel": "120",
+    "arenaType": "1",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

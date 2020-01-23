@@ -1,0 +1,19 @@
+{
+    "id": "8022",
+    "name": "Damsel Estia",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Damsel_Estia",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/75/Unit_ills_thum_850014.png/revision/latest/scale-to-width-down/42?cb=20140617132143",
+    "element": "Category:Light",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 10",
+    "dataID": "850014",
+    "gender": "Category:Female Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

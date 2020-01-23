@@ -1,0 +1,19 @@
+{
+    "id": "41",
+    "name": "Samurai Mifune",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Samurai_Mifune",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/72/Unit_ills_thum_60022.png/revision/latest/scale-to-width-down/42?cb=20131030140652",
+    "element": "Category:Dark",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 5",
+    "dataID": "60022",
+    "gender": "Category:Male Unit",
+    "maxLevel": "40",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

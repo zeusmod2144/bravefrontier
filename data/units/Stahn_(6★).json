@@ -1,0 +1,19 @@
+{
+    "id": "1122",
+    "name": "Stahn (6★)",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Stahn_(6%E2%98%85)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/d7/Unit_ills_thum_10575.png/revision/latest/scale-to-width-down/42?cb=20160528061952",
+    "element": "Category:Fire",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 25",
+    "dataID": "10575",
+    "gender": "Category:Male Unit",
+    "maxLevel": "100",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

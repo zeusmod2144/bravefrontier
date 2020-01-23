@@ -1,0 +1,18 @@
+{
+    "id": "1610",
+    "name": "Draconic Emperor Barion",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Draconic_Emperor_Barion",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/71/Unit_ills_thum_11057.png/revision/latest/scale-to-width-down/42?cb=20170323161656",
+    "element": "Category:Fire",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 50",
+    "dataID": "11057",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": "8374",
+    "name": "Occult Reaper Ciardha",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Occult_Reaper_Ciardha",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/0e/Unit_ills_thum_860048.png/revision/latest/scale-to-width-down/42?cb=20171227074955",
+    "element": "Category:Dark",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 54",
+    "dataID": "860048",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "13",
+    "colosseumLegality": [
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

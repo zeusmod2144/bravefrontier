@@ -1,0 +1,19 @@
+{
+    "id": "8017",
+    "name": "Demon Blade Lico",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Demon_Blade_Lico",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e5/Unit_ills_thum_860005.png/revision/latest/scale-to-width-down/42?cb=20140425010044",
+    "element": "Category:Dark",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 15",
+    "dataID": "860005",
+    "gender": "Category:Female Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

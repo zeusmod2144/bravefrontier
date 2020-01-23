@@ -1,0 +1,17 @@
+{
+    "id": "1689",
+    "name": "Pious Emperor Alza Masta",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Pious_Emperor_Alza_Masta",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/21/Unit_ills_thum_61207.png/revision/latest/scale-to-width-down/42?cb=20170731064906",
+    "element": "Category:Dark",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 54",
+    "dataID": "61207",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

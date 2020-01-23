@@ -1,0 +1,18 @@
+{
+    "id": "1637",
+    "name": "Deadly Illusion Shida",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Deadly_Illusion_Shida",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/f0/Unit_ills_thum_60097.png/revision/latest/scale-to-width-down/42?cb=20170518084938",
+    "element": "Category:Dark",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 47",
+    "dataID": "60097",
+    "gender": "Category:Male Unit",
+    "maxLevel": "150",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

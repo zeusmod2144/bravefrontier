@@ -1,0 +1,19 @@
+{
+    "id": "658",
+    "name": "Prince Arius",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Prince_Arius",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/c1/Unit_ills_thum_20473.png/revision/latest/scale-to-width-down/42?cb=20140824230040",
+    "element": "Category:Water",
+    "rarity": "Category:4★ Rarity (Unit)",
+    "cost": "Category:Cost 13",
+    "dataID": "20473",
+    "gender": "Category:Male Unit",
+    "maxLevel": "60",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

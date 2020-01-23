@@ -1,0 +1,19 @@
+{
+    "id": "965",
+    "name": "Resplendent Queen Rinon",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Resplendent_Queen_Rinon",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/80/Unit_ills_thum_50736.png/revision/latest/scale-to-width-down/42?cb=20150424081920",
+    "element": "Category:Light",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 40",
+    "dataID": "50736",
+    "gender": "Category:Female Unit",
+    "maxLevel": "120",
+    "arenaType": "6",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "794",
+    "name": "Gaia Bow Lario",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Gaia_Bow_Lario",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/0d/Unit_ills_thum_30025.png/revision/latest/scale-to-width-down/42?cb=20141215170837",
+    "element": "Category:Earth",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 25",
+    "dataID": "30025",
+    "gender": "Category:Male Unit",
+    "maxLevel": "100",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "1650",
+    "name": "Sacred Ashes Jakra",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Sacred_Ashes_Jakra",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/45/Unit_ills_thum_11097.png/revision/latest/scale-to-width-down/42?cb=20170609074511",
+    "element": "Category:Fire",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 50",
+    "dataID": "11097",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

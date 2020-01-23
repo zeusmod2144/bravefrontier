@@ -1,0 +1,19 @@
+{
+    "id": "795",
+    "name": "Gilded General Weiss",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Gilded_General_Weiss",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/9c/Unit_ills_thum_40025.png/revision/latest/scale-to-width-down/42?cb=20141215170837",
+    "element": "Category:Thunder",
+    "rarity": "Category:6★ Rarity (Unit)",
+    "cost": "Category:Cost 25",
+    "dataID": "40025",
+    "gender": "Category:Male Unit",
+    "maxLevel": "100",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

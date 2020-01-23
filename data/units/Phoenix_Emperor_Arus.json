@@ -1,0 +1,19 @@
+{
+    "id": "757",
+    "name": "Phoenix Emperor Arus",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Phoenix_Emperor_Arus",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e3/Unit_ills_thum_10554.png/revision/latest/scale-to-width-down/42?cb=20141124171926",
+    "element": "Category:Fire",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 18",
+    "dataID": "10554",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

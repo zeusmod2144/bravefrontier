@@ -1,0 +1,19 @@
+{
+    "id": "176",
+    "name": "Dark Nymph",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Dark_Nymph",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/ca/Unit_ills_thum_60120.png/revision/latest/scale-to-width-down/42?cb=20131101092151",
+    "element": "Category:Dark",
+    "rarity": "Category:1★ Rarity (Unit)",
+    "cost": "Category:Cost 2",
+    "dataID": "60120",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "3",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

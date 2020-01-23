@@ -1,0 +1,19 @@
+{
+    "id": "1169",
+    "name": "Grimoire",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Grimoire",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/32/Unit_ills_thum_60822.png/revision/latest/scale-to-width-down/42?cb=20160218015257",
+    "element": "Category:Dark",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 6",
+    "dataID": "60822",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "40",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

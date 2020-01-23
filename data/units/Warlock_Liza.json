@@ -1,0 +1,19 @@
+{
+    "id": "56",
+    "name": "Warlock Liza",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Warlock_Liza",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/52/Unit_ills_thum_10041.png/revision/latest/scale-to-width-down/42?cb=20131031042248",
+    "element": "Category:Fire",
+    "rarity": "Category:2★ Rarity (Unit)",
+    "cost": "Category:Cost 4",
+    "dataID": "10041",
+    "gender": "Category:Female Unit",
+    "maxLevel": "30",
+    "arenaType": "5",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

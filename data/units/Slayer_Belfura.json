@@ -1,0 +1,19 @@
+{
+    "id": "760",
+    "name": "Slayer Belfura",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Slayer_Belfura",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/12/Unit_ills_thum_20534.png/revision/latest/scale-to-width-down/42?cb=20141124171927",
+    "element": "Category:Water",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 18",
+    "dataID": "20534",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "80",
+    "arenaType": "4",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

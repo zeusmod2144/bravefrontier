@@ -1,0 +1,19 @@
+{
+    "id": "766",
+    "name": "Thunder Sentry Shera",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Thunder_Sentry_Shera",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/64/Unit_ills_thum_40504.png/revision/latest/scale-to-width-down/42?cb=20141124171930",
+    "element": "Category:Thunder",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 18",
+    "dataID": "40504",
+    "gender": "Category:Female Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "8404",
+    "name": "Wonder Mirror Idol",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Wonder_Mirror_Idol",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/9a/Unit_ills_thum_750122.png/revision/latest/scale-to-width-down/42?cb=20170601211739",
+    "element": "Category:Dark",
+    "rarity": "Category:3★ Rarity (Unit)",
+    "cost": "Category:Cost 8",
+    "dataID": "750122",
+    "gender": "Category:Genderless Unit",
+    "maxLevel": "1",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

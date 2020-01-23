@@ -1,0 +1,19 @@
+{
+    "id": "1199",
+    "name": "Marzanna Reaper Elza",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Marzanna_Reaper_Elza",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/ef/Unit_ills_thum_60526.png/revision/latest/scale-to-width-down/42?cb=20151119021806",
+    "element": "Category:Dark",
+    "rarity": "Category:7★ Rarity (Unit)",
+    "cost": "Category:Cost 40",
+    "dataID": "60526",
+    "gender": "Category:Female Unit",
+    "maxLevel": "120",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

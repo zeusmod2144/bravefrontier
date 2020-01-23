@@ -1,0 +1,18 @@
+{
+    "id": "1437",
+    "name": "Torrential Scar Holia",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Torrential_Scar_Holia",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/9a/Unit_ills_thum_20877.png/revision/latest/scale-to-width-down/42?cb=20160810060149",
+    "element": "Category:Water",
+    "rarity": "Category:Omni Evolution Rarity",
+    "cost": "Category:Cost 48",
+    "dataID": "20877",
+    "gender": "Category:Female Unit",
+    "maxLevel": "150",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}

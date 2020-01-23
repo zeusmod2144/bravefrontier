@@ -1,0 +1,19 @@
+{
+    "id": "1090",
+    "name": "Flame Demon Adel",
+    "link": "https://bravefrontierglobal.fandom.com/wiki/Flame_Demon_Adel",
+    "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/44/Unit_ills_thum_10734.png/revision/latest/scale-to-width-down/42?cb=20150823172955",
+    "element": "Category:Fire",
+    "rarity": "Category:5★ Rarity (Unit)",
+    "cost": "Category:Cost 20",
+    "dataID": "10734",
+    "gender": "Category:Male Unit",
+    "maxLevel": "80",
+    "arenaType": "2",
+    "colosseumLegality": [
+        "Category:Warrior Class",
+        "Category:Gladiator Class",
+        "Category:Conqueror Class",
+        "Category:Hero Class"
+    ]
+}
