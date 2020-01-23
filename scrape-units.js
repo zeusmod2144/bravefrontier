@@ -32,6 +32,9 @@ const getMainSeriesUnits = async (url) => {
             } else {
               thumbnail = $(el).find("a > img").attr("src");
             }
+            const findPathThumbnail = "/scale-to-width-down/42";
+            const regex = new RegExp(findPathThumbnail, 'g');
+            thumbnail = thumbnail.replace(regex, '');
             name = $(el).find("a").last().attr("title");
             link = `${rootUrl}${$(el).find("a").last().attr("href")}`;
             break;
@@ -89,6 +92,9 @@ const getGlobalExclusiveSeriesUnits = async (url) => {
             } else {
               thumbnail = $(el).find("a > img").attr("src");
             }
+            const findPathThumbnail = "/scale-to-width-down/42";
+            const regex = new RegExp(findPathThumbnail, 'g');
+            thumbnail = thumbnail.replace(regex, '');
             name = $(el).find("a").last().attr("title");
             link = `${rootUrl}${$(el).find("a").last().attr("href")}`;
             break;
