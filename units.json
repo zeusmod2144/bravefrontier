@@ -900,15 +900,6 @@
         "cost": "Category:Cost 4"
     },
     {
-        "id": "100",
-        "name": "Ifrit",
-        "link": "https://bravefrontierglobal.fandom.com/wiki/Ifrit",
-        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/54/Unit_ills_thum_10082.png/revision/latest/scale-to-width-down/42?cb=20131031073428",
-        "element": "Category:Fire",
-        "rarity": "Category:3★ Rarity (Unit)",
-        "cost": "Category:Cost 4"
-    },
-    {
         "id": "101",
         "name": "Rantoul",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Rantoul",
@@ -1798,15 +1789,6 @@
         "element": "Category:Dark",
         "rarity": "Category:4★ Rarity (Unit)",
         "cost": "Category:Cost 6"
-    },
-    {
-        "id": "200",
-        "name": "Metal God",
-        "link": "https://bravefrontierglobal.fandom.com/wiki/Metal_God",
-        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/0b/Unit_ills_thum_60134.png/revision/latest/scale-to-width-down/42?cb=20131101125031",
-        "element": "Category:Dark",
-        "rarity": "Category:5★ Rarity (Unit)",
-        "cost": "Category:Cost 9"
     },
     {
         "id": "200",
@@ -2718,15 +2700,6 @@
         "cost": "Category:Cost 10"
     },
     {
-        "id": "300",
-        "name": "Blade Storm Sefia",
-        "link": "https://bravefrontierglobal.fandom.com/wiki/Blade_Storm_Sefia",
-        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/8a/Unit_ills_thum_50163.png/revision/latest/scale-to-width-down/42?cb=20140429162657",
-        "element": "Category:Light",
-        "rarity": "Category:4★ Rarity (Unit)",
-        "cost": "Category:Cost 10"
-    },
-    {
         "id": "301",
         "name": "Blade Queen Sefia",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Blade_Queen_Sefia",
@@ -3627,15 +3600,6 @@
         "cost": "Category:Cost 15"
     },
     {
-        "id": "400",
-        "name": "Ray Sibyl Sola",
-        "link": "https://bravefrontierglobal.fandom.com/wiki/Ray_Sibyl_Sola",
-        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/ba/Unit_ills_thum_50264.png/revision/latest/scale-to-width-down/42?cb=20140514153150",
-        "element": "Category:Light",
-        "rarity": "Category:5★ Rarity (Unit)",
-        "cost": "Category:Cost 15"
-    },
-    {
         "id": "401",
         "name": "Madia",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Madia",
@@ -4525,15 +4489,6 @@
         "element": "Category:Dark",
         "rarity": "Category:6★ Rarity (Unit)",
         "cost": "Category:Cost 26"
-    },
-    {
-        "id": "500",
-        "name": "Fire Step Ramna",
-        "link": "https://bravefrontierglobal.fandom.com/wiki/Fire_Step_Ramna",
-        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/ed/Unit_ills_thum_10363.png/revision/latest/scale-to-width-down/42?cb=20140515020541",
-        "element": "Category:Fire",
-        "rarity": "Category:4★ Rarity (Unit)",
-        "cost": "Category:Cost 12"
     },
     {
         "id": "500",
@@ -6183,15 +6138,6 @@
         "cost": "Category:Cost 9"
     },
     {
-        "id": "700",
-        "name": "Lotan",
-        "link": "https://bravefrontierglobal.fandom.com/wiki/Lotan",
-        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/ce/Unit_ills_thum_20073.png/revision/latest/scale-to-width-down/42?cb=20140930012337",
-        "element": "Category:Water",
-        "rarity": "Category:4★ Rarity (Unit)",
-        "cost": "Category:Cost 9"
-    },
-    {
         "id": "701",
         "name": "Finkell",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Finkell",
@@ -7081,15 +7027,6 @@
         "element": "Category:Earth",
         "rarity": "Category:5★ Rarity (Unit)",
         "cost": "Category:Cost 16"
-    },
-    {
-        "id": "800",
-        "name": "Flare Goddess Seria",
-        "link": "https://bravefrontierglobal.fandom.com/wiki/Flare_Goddess_Seria",
-        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/83/Unit_ills_thum_10235.png/revision/latest/scale-to-width-down/42?cb=20141218181350",
-        "element": "Category:Fire",
-        "rarity": "Category:6★ Rarity (Unit)",
-        "cost": "Category:Cost 30"
     },
     {
         "id": "800",
@@ -8001,15 +7938,6 @@
         "cost": "Category:Cost 40"
     },
     {
-        "id": "900",
-        "name": "Galactic Treasure Ivris",
-        "link": "https://bravefrontierglobal.fandom.com/wiki/Galactic_Treasure_Ivris",
-        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/58/Unit_ills_thum_60676.png/revision/latest/scale-to-width-down/42?cb=20150222164117",
-        "element": "Category:Dark",
-        "rarity": "Category:7★ Rarity (Unit)",
-        "cost": "Category:Cost 40"
-    },
-    {
         "id": "901",
         "name": "Phoenix Wings Lava",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Phoenix_Wings_Lava",
@@ -8782,15 +8710,6 @@
         "element": "Category:Dark",
         "rarity": "Category:7★ Rarity (Unit)",
         "cost": "Category:Cost 40"
-    },
-    {
-        "id": "1000",
-        "name": "Grudge Flail Sylvia",
-        "link": "https://bravefrontierglobal.fandom.com/wiki/Grudge_Flail_Sylvia",
-        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/8d/Unit_ills_thum_60575.png/revision/latest/scale-to-width-down/42?cb=20150611005355",
-        "element": "Category:Dark",
-        "rarity": "Category:6★ Rarity (Unit)",
-        "cost": "Category:Cost 29"
     },
     {
         "id": "1000",
@@ -9702,15 +9621,6 @@
         "cost": "Category:Cost 30"
     },
     {
-        "id": "1100",
-        "name": "Lightning Rain Zoldark",
-        "link": "https://bravefrontierglobal.fandom.com/wiki/Lightning_Rain_Zoldark",
-        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/96/Unit_ills_thum_40645.png/revision/latest/scale-to-width-down/42?cb=20150823173131",
-        "element": "Category:Thunder",
-        "rarity": "Category:6★ Rarity (Unit)",
-        "cost": "Category:Cost 30"
-    },
-    {
         "id": "1101",
         "name": "Electrical Storm Eldora",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Electrical_Storm_Eldora",
@@ -10611,15 +10521,6 @@
         "cost": "Category:Cost 20"
     },
     {
-        "id": "1200",
-        "name": "Fire Rod Limera",
-        "link": "https://bravefrontierglobal.fandom.com/wiki/Fire_Rod_Limera",
-        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/22/Unit_ills_thum_10794.png/revision/latest/scale-to-width-down/42?cb=20151125143047",
-        "element": "Category:Fire",
-        "rarity": "Category:5★ Rarity (Unit)",
-        "cost": "Category:Cost 20"
-    },
-    {
         "id": "1201",
         "name": "Flame Staff Limera",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Flame_Staff_Limera",
@@ -11507,15 +11408,6 @@
         "link": "https://bravefrontierglobal.fandom.com/wiki/Flare_Paladin_Darvanshel",
         "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/4b/Unit_ills_thum_10466.png/revision/latest/scale-to-width-down/42?cb=20160215172310",
         "element": "Category:Fire",
-        "rarity": "Category:7★ Rarity (Unit)",
-        "cost": "Category:Cost 40"
-    },
-    {
-        "id": "1300",
-        "name": "Supreme Dragon Elderex",
-        "link": "https://bravefrontierglobal.fandom.com/wiki/Supreme_Dragon_Elderex",
-        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/1c/Unit_ills_thum_50106.png/revision/latest/scale-to-width-down/42?cb=20160215172313",
-        "element": "Category:Light",
         "rarity": "Category:7★ Rarity (Unit)",
         "cost": "Category:Cost 40"
     },
@@ -12429,15 +12321,6 @@
         "cost": "Category:Cost 47"
     },
     {
-        "id": "1400",
-        "name": "Graceful Princess Elza",
-        "link": "https://bravefrontierglobal.fandom.com/wiki/Graceful_Princess_Elza",
-        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/03/Unit_ills_thum_60527.png/revision/latest/scale-to-width-down/42?cb=20160616051936",
-        "element": "Category:Dark",
-        "rarity": "Category:Omni Evolution Rarity",
-        "cost": "Category:Cost 47"
-    },
-    {
         "id": "1401",
         "name": "Cerulean Knight Stein",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Cerulean_Knight_Stein",
@@ -13158,15 +13041,6 @@
         "cost": "Category:Cost 40"
     },
     {
-        "id": "1500",
-        "name": "Rain (7★, Original)",
-        "link": "https://bravefrontierglobal.fandom.com/wiki/Rain_(7%E2%98%85,_Original)",
-        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/d8/Unit_ills_thum_10986.png/revision/latest/scale-to-width-down/42?cb=20161025013516",
-        "element": "Category:Fire",
-        "rarity": "Category:7★ Rarity (Unit)",
-        "cost": "Category:Cost 40"
-    },
-    {
         "id": "1501",
         "name": "Lasswell (6★, Original)",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Lasswell_(6%E2%98%85,_Original)",
@@ -13822,15 +13696,6 @@
         "element": "Category:Earth",
         "rarity": "Category:4★ Rarity (Unit)",
         "cost": "Category:Cost 12"
-    },
-    {
-        "id": "1600",
-        "name": "Inception God Maxwell",
-        "link": "https://bravefrontierglobal.fandom.com/wiki/Inception_God_Maxwell",
-        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/12/Unit_ills_thum_51147.png/revision/latest/scale-to-width-down/42?cb=20170309000736",
-        "element": "Category:Light",
-        "rarity": "Category:Omni Evolution Rarity",
-        "cost": "Category:Cost 54"
     },
     {
         "id": "1600",
@@ -14731,15 +14596,6 @@
         "element": "Category:Earth",
         "rarity": "Category:7★ Rarity (Unit)",
         "cost": "Category:Cost 46"
-    },
-    {
-        "id": "1700",
-        "name": "Weald Guardian Nagid",
-        "link": "https://bravefrontierglobal.fandom.com/wiki/Weald_Guardian_Nagid",
-        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/b1/Unit_ills_thum_31007.png/revision/latest/scale-to-width-down/42?cb=20170825111532",
-        "element": "Category:Earth",
-        "rarity": "Category:Omni Evolution Rarity",
-        "cost": "Category:Cost 50"
     },
     {
         "id": "1700",
@@ -16182,15 +16038,6 @@
         "cost": "Category:Cost 27"
     },
     {
-        "id": "8100",
-        "name": "Avalanche Jack",
-        "link": "https://bravefrontierglobal.fandom.com/wiki/Avalanche_Jack",
-        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/a1/Unit_ills_thum_820116.png/revision/latest/scale-to-width-down/42?cb=20150105115043",
-        "element": "Category:Water",
-        "rarity": "Category:6★ Rarity (Unit)",
-        "cost": "Category:Cost 27"
-    },
-    {
         "id": "8101",
         "name": "Eva",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Eva",
@@ -17082,15 +16929,6 @@
         "cost": "Category:Cost 43"
     },
     {
-        "id": "8200",
-        "name": "Overlord Azurai",
-        "link": "https://bravefrontierglobal.fandom.com/wiki/Overlord_Azurai",
-        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/c0/Unit_ills_thum_810337.png/revision/latest/scale-to-width-down/42?cb=20160608071703",
-        "element": "Category:Fire",
-        "rarity": "Category:7★ Rarity (Unit)",
-        "cost": "Category:Cost 43"
-    },
-    {
         "id": "8201",
         "name": "Doombringer Azurai",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Doombringer_Azurai",
@@ -17953,15 +17791,6 @@
         "element": "Category:Dark",
         "rarity": "Category:Omni Evolution Rarity",
         "cost": "Category:Cost 50"
-    },
-    {
-        "id": "8300",
-        "name": "Dizzy (7★)",
-        "link": "https://bravefrontierglobal.fandom.com/wiki/Dizzy_(7%E2%98%85)",
-        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/d1/Unit_ills_thum_830377.png/revision/latest/scale-to-width-down/42?cb=20170517081340",
-        "element": "Category:Earth",
-        "rarity": "Category:7★ Rarity (Unit)",
-        "cost": "Category:Cost 46"
     },
     {
         "id": "8300",
@@ -18873,15 +18702,6 @@
         "cost": "Category:Cost 52"
     },
     {
-        "id": "8400",
-        "name": "Black Knight Xenon",
-        "link": "https://bravefrontierglobal.fandom.com/wiki/Black_Knight_Xenon",
-        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/25/Unit_ills_thum_860017.png/revision/latest/scale-to-width-down/42?cb=20180418050616",
-        "element": "Category:Dark",
-        "rarity": "Category:7★ Rarity (Unit)",
-        "cost": "Category:Cost 52"
-    },
-    {
         "id": "8401",
         "name": "Xenon, Son of Elysia",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Xenon,_Son_of_Elysia",
@@ -19782,15 +19602,6 @@
         "cost": "Category:Cost 46"
     },
     {
-        "id": "8500",
-        "name": "Orebi Lux Geode",
-        "link": "https://bravefrontierglobal.fandom.com/wiki/Orebi_Lux_Geode",
-        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/72/Unit_ills_thum_850900.png/revision/latest/scale-to-width-down/42?cb=20190227081350",
-        "element": "Category:Light",
-        "rarity": "Category:Omni Evolution Rarity",
-        "cost": "Category:Cost 46"
-    },
-    {
         "id": "8501",
         "name": "Orebi Umbra Geode",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Orebi_Umbra_Geode",
@@ -20545,15 +20356,6 @@
         "element": "Category:Earth",
         "rarity": "Category:Omni Evolution Rarity",
         "cost": "Category:Cost 60"
-    },
-    {
-        "id": "8587",
-        "name": "Loving Goddess Tilith",
-        "link": "https://bravefrontierglobal.fandom.com/wiki/Loving_Goddess_Tilith",
-        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/8a/Unit_ills_thum_51367.png/revision/latest/scale-to-width-down/42?cb=20190703040629",
-        "element": "Category:Light",
-        "rarity": "Category:Omni Evolution Rarity",
-        "cost": "Category:Cost 54"
     },
     {
         "id": "8588",

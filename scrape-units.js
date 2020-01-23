@@ -139,12 +139,17 @@ async function collectUnits() {
     }
   }
 
+  const filteredUnits = units.filter(function ({id, name}) {
+    const key = `${id}${name}`;
+    return !this.has(key) && this.add(key);
+  }, new Set);
+
   // Store the result to units.json file
-  fs.writeFile(outputFile, JSON.stringify(units, null, 4), err => {
+  fs.writeFile(outputFile, JSON.stringify(filteredUnits, null, 4), err => {
     if (err) {
       console.log(err);
     }
-    console.log(chalk.yellow.bgBlue(`\n Success export ${units.length} units to ${outputFile}. \n`));
+    console.log(chalk.yellow.bgBlue(`\n Success export ${filteredUnits.length} units to ${outputFile}. \n`));
   });
 }
 
