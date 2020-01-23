@@ -18,11 +18,14 @@ const getMainSeriesUnits = async (url) => {
     const $ = cheerio.load(response.data);
 
     const rows = $("table.wikitable tbody").first().find("tr");
-    let name, link, thumbnail, element, rarity, cost;
+    let id, name, link, thumbnail, element, rarity, cost;
     rows.each((i, el) => {
       const columns = $(el).find($("td"));
       columns.each((i, el) => {
         switch (i) {
+          case 0:
+            id = $(el).find("center").text();
+            break;
           case 1:
             if (typeof $(el).find("a > img").attr("data-src") !== "undefined") {
               thumbnail = $(el).find("a > img").attr("data-src");
@@ -44,7 +47,7 @@ const getMainSeriesUnits = async (url) => {
         }
       })
       mainUnits.push({
-        name, link, thumbnail, element, rarity, cost
+        id, name, link, thumbnail, element, rarity, cost
       });
     });
 
@@ -72,11 +75,14 @@ const getGlobalExclusiveSeriesUnits = async (url) => {
     const $ = cheerio.load(response.data);
 
     const rows = $("table.wikitable tbody").first().find("tr");
-    let name, link, thumbnail, element, rarity, cost;
+    let id, name, link, thumbnail, element, rarity, cost;
     rows.each((i, el) => {
       const columns = $(el).find($("td"));
       columns.each((i, el) => {
         switch (i) {
+          case 0:
+            id = $(el).find("center").text();
+            break;
           case 1:
             if (typeof $(el).find("a > img").attr("data-src") !== "undefined") {
               thumbnail = $(el).find("a > img").attr("data-src");
@@ -98,7 +104,7 @@ const getGlobalExclusiveSeriesUnits = async (url) => {
         }
       })
       exclusiveUnits.push({
-        name, link, thumbnail, element, rarity, cost
+        id, name, link, thumbnail, element, rarity, cost
       });
     });
 
