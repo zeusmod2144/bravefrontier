@@ -18,11 +18,11 @@ Previously, I would like to use awesome technology like Puppeteer for scraping. 
 
 ## TODO
 
-- [x] Collect units and store in json file.
+- [x] Collect units and store in **units.json** file.
 - [x] Collect spheres and store in json file.
-- [] Get detail data each of unit and store it in json file (?).
-- [] Get detail data each of sphere and store it in json file (?).
+- [x] Get detail data each of unit and update it in **units.json** file.
+- [] Get detail data each of sphere and update it in **spheres.json** file.
 
 ## Next after TODO
 
-I would like to considering replace method store json file to database like SQL or NoSQL.
+I would like to consider replace store mechanism data in json file with database like NoSQL.
