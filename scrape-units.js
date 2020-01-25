@@ -151,13 +151,72 @@ async function collectUnits() {
     return !this.has(key) && this.add(key);
   }, new Set);
 
+  // Update units data
+  const updatedUnits = await updateUnitsData(filteredUnits);
+
   // Store the result to units.json file
-  fs.writeFile(outputFile, JSON.stringify(filteredUnits, null, 4), err => {
+  fs.writeFile(outputFile, JSON.stringify(updatedUnits, null, 4), err => {
     if (err) {
       console.log(err);
     }
-    console.log(chalk.yellow.bgBlue(`\n Success export ${filteredUnits.length} units to ${outputFile}. \n`));
+    console.log(chalk.yellow.bgBlue(`\n Success export ${updatedUnits.length} units to ${outputFile}. \n`));
   });
+}
+
+const getUnitBio = (unitLink) => {
+  return new Promise((resolve, reject) => {
+    axios.get(unitLink)
+      .then(response => {
+        return resolve(response.data)
+      })
+      .catch(error => {
+        return reject(error);
+      })
+  })
+}
+
+const updateUnitsData = async (units) => {
+  try {
+    for (const unit of units) {
+      console.log(chalk.blue(`${unit.id}. ${unit.name}: start`));
+      await getUnitBio(unit.link).then((data) => {
+        const $ = cheerio.load(data);
+        const rows = $("table.article-table.tight").first().find("tr");
+        rows.each((i, el) => {
+          const columns = $(el).find($("td"));
+          switch (i) {
+            case 1:
+              const dataIDHTML = columns.text();
+              unit.dataID = dataIDHTML.trim();
+              break;
+            case 3:
+              unit.gender = columns.find('a').attr('title');
+              break;
+            case 5:
+              unit.maxLevel = columns.find('a').html();
+              break;
+            case 7:
+              unit.arenaType = columns.find('a').html();
+              break;
+            case 8:
+              let colosseumLegality = [];
+              $(el).find($("a")).each(function (i, el) {
+                colosseumLegality[i] = $(this).attr('title');
+              })
+              unit.colosseumLegality = colosseumLegality;
+              break;
+          }
+        });
+  
+        const unitArtwork = $("div.tabbertab center a img").attr('data-src');
+        unit.artwork = unitArtwork.replace('/scale-to-width-down/330', '');
+      });
+      console.log(chalk.green(`${unit.id}. ${unit.name}: done`));
+    }
+    return units;
+  } catch (error) {
+    console.error(error);
+  }
 }
 
 collectUnits();
