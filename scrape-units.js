@@ -2,6 +2,7 @@ const cheerio = require("cheerio");
 const fs = require("fs");
 const chalk = require("chalk");
 const axios = require("axios");
+const { performance } = require('perf_hooks');
 
 const rootUrl = "https://bravefrontierglobal.fandom.com";
 const firstMainSeriesUrl = "https://bravefrontierglobal.fandom.com/wiki/Unit_List";
@@ -133,6 +134,8 @@ const getGlobalExclusiveSeriesUnits = async (url) => {
 }
 
 async function collectUnits() {
+  const t0 = performance.now();
+
   let [mainUnits, exclusiveUnits] = await Promise.all([getMainSeriesUnits(firstMainSeriesUrl), getGlobalExclusiveSeriesUnits(firstGlobalExclusiveSeriesUrl)]);
 
   let result = [...mainUnits, ...exclusiveUnits];
@@ -161,6 +164,15 @@ async function collectUnits() {
     }
     console.log(chalk.yellow.bgBlue(`\n Success export ${updatedUnits.length} units to ${outputFile}. \n`));
   });
+
+  const t1 = performance.now();
+  chalk.yellow.bgBlue(`\n Process took: ${millisToMinutesAndSeconds(t1 - t0)}. \n`)
+}
+
+function millisToMinutesAndSeconds(millis) {
+  var minutes = Math.floor(millis / 60000);
+  var seconds = ((millis % 60000) / 1000).toFixed(0);
+  return (seconds == 60 ? (minutes+1) + ":00" : minutes + ":" + (seconds < 10 ? "0" : "") + seconds);
 }
 
 const getUnitBio = (unitLink) => {
