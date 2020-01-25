@@ -2,6 +2,7 @@ const fs = require('fs');
 const cheerio = require('cheerio');
 const axios = require('axios');
 const chalk = require("chalk");
+const outputFile = 'units.json';
 
 const getUnitBio = (unitLink) => {
   return new Promise((resolve, reject) => {
@@ -20,6 +21,7 @@ fs.readFile('units.json', 'utf-8', function (err, data) {
   const units = JSON.parse(data);
   const start = async () => {
     for (const unit of units) {
+      console.log(chalk.blue(`${unit.id}. ${unit.name}: start`));
       await getUnitBio(unit.link).then((data) => {
         const $ = cheerio.load(data);
         const rows = $("table.article-table.tight").first().find("tr");
@@ -48,16 +50,21 @@ fs.readFile('units.json', 'utf-8', function (err, data) {
               break;
           }
         });
-      });
 
-      const filename = unit.name.split(' ').join('_');
-      fs.writeFile(`data/units/${filename}.json`, JSON.stringify(unit, null, 4), err => {
-        if (err) {
-          console.log(err);
-        }
-        console.log(chalk.yellow.bgBlue(`\n Success export unit id ${unit.id}: ${unit.name} to data/units/${filename}. \n`));
-      })
+        const unitArtwork = $("div.tabbertab center a img").attr('data-src');
+        unit.artwork = unitArtwork.replace('/scale-to-width-down/330', '');
+      });
+      console.log(chalk.green(`${unit.id}. ${unit.name}: done`));
     }
+    
+
+    fs.writeFile('units.json', JSON.stringify(units, null, 4), err => {
+      if (err) {
+        console.log(err);
+      }
+
+      console.log(chalk.yellow.bgBlue(`\n Success update data ${units.length} units to ${outputFile}. \n`));
+    })
   }
   start();
 });
