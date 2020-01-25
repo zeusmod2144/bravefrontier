@@ -145,6 +145,7 @@ async function collectUnits() {
     }
   }
 
+  // Remove duplicate unit object
   const filteredUnits = units.filter(function ({id, name}) {
     const key = `${id}${name}`;
     return !this.has(key) && this.add(key);
