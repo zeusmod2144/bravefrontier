@@ -895,6 +895,11 @@
         "rarity": "3"
     },
     {
+        "name": "Golden Lion Regalia",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Golden_Lion_Regalia",
+        "rarity": "3"
+    },
+    {
         "name": "Grand Shield",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Grand_Shield",
         "rarity": "3"
@@ -1407,11 +1412,6 @@
     {
         "name": "Geldnite Axe",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Geldnite_Axe",
-        "rarity": "4"
-    },
-    {
-        "name": "Golden Lion Regalia",
-        "link": "https://bravefrontierglobal.fandom.com/wiki/Golden_Lion_Regalia",
         "rarity": "4"
     },
     {
@@ -2235,6 +2235,11 @@
         "rarity": "5"
     },
     {
+        "name": "Zartosht Blessing",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Zartosht_Blessing",
+        "rarity": "5"
+    },
+    {
         "name": "ジェダイ・オーダー",
         "link": "https://bravefrontierglobal.fandom.com/wiki/%E3%82%B8%E3%82%A7%E3%83%80%E3%82%A4%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%80%E3%83%BC",
         "rarity": "5"
@@ -2292,6 +2297,11 @@
     {
         "name": "Armor of Seals",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Armor_of_Seals",
+        "rarity": "6"
+    },
+    {
+        "name": "Atar Unburning",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Atar_Unburning",
         "rarity": "6"
     },
     {
@@ -2760,6 +2770,11 @@
         "rarity": "6"
     },
     {
+        "name": "Horse's Calm",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Horse%27s_Calm",
+        "rarity": "6"
+    },
+    {
         "name": "Illusory Desire",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Illusory_Desire",
         "rarity": "6"
@@ -3190,6 +3205,11 @@
         "rarity": "6"
     },
     {
+        "name": "Snake's Poise",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Snake%27s_Poise",
+        "rarity": "6"
+    },
+    {
         "name": "Solar Essence Orb",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Solar_Essence_Orb",
         "rarity": "6"
@@ -3235,21 +3255,6 @@
         "rarity": "6"
     },
     {
-        "name": "Summoner Key",
-        "link": "https://bravefrontierglobal.fandom.com/wiki/Summoner_Key",
-        "rarity": "6"
-    },
-    {
-        "name": "Thief's Jewel",
-        "link": "https://bravefrontierglobal.fandom.com/wiki/Thief%27s_Jewel",
-        "rarity": "6"
-    },
-    {
-        "name": "Thunder Pearl",
-        "link": "https://bravefrontierglobal.fandom.com/wiki/Thunder_Pearl",
-        "rarity": "6"
-    },
-    {
         "name": "Abyss Sword",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Abyss_Sword",
         "rarity": "7"
@@ -3287,6 +3292,11 @@
     {
         "name": "Argeus",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Argeus",
+        "rarity": "7"
+    },
+    {
+        "name": "Atar Eternal",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Atar_Eternal",
         "rarity": "7"
     },
     {
@@ -3660,6 +3670,11 @@
         "rarity": "7"
     },
     {
+        "name": "Lad Mirazh",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Lad_Mirazh",
+        "rarity": "7"
+    },
+    {
         "name": "Lament of Dread",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Lament_of_Dread",
         "rarity": "7"
@@ -3722,6 +3737,11 @@
     {
         "name": "Naudé's Honor",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Naud%C3%A9%27s_Honor",
+        "rarity": "7"
+    },
+    {
+        "name": "Neonback",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Neonback",
         "rarity": "7"
     },
     {
@@ -4062,6 +4082,11 @@
     {
         "name": "Windstorm Oxhead",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Windstorm_Oxhead",
+        "rarity": "7"
+    },
+    {
+        "name": "Windswell",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Windswell",
         "rarity": "7"
     },
     {
