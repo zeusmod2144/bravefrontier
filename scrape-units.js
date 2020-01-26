@@ -40,13 +40,16 @@ const getMainSeriesUnits = async (url) => {
             link = `${rootUrl}${$(el).find("a").last().attr("href")}`;
             break;
           case 2:
-            element = $(el).find("center > a").attr("title");
+            const elementAttr = $(el).find("center > a").attr("title");
+            element = elementAttr.replace('Category:', '');
             break;
           case 3:
-            rarity = $(el).find("center > a").attr("title");
+            const rarityAttr = $(el).find("center > a").attr("title");
+            rarity = rarityAttr.replace('Category:', '');
             break;
           case 4:
-            cost = $(el).find("center > a").attr("title");
+            const constAttr = $(el).find("center > a").attr("title");
+            cost = constAttr.replace('Category:Cost', '');
             break;
         }
       })
@@ -100,13 +103,16 @@ const getGlobalExclusiveSeriesUnits = async (url) => {
             link = `${rootUrl}${$(el).find("a").last().attr("href")}`;
             break;
           case 2:
-            element = $(el).find("center > a").attr("title");
+            const elementAttr = $(el).find("center > a").attr("title");
+            element = elementAttr.replace('Category:', '');
             break;
           case 3:
-            rarity = $(el).find("center > a").attr("title");
+            const rarityAttr = $(el).find("center > a").attr("title");
+            rarity = rarityAttr.replace('Category:', '');
             break;
           case 4:
-            cost = $(el).find("center > a").attr("title");
+            const constAttr = $(el).find("center > a").attr("title");
+            cost = constAttr.replace('Category:Cost', '');
             break;
         }
       })
@@ -149,7 +155,7 @@ async function collectUnits() {
   }
 
   // Remove duplicate unit object
-  const filteredUnits = units.filter(function ({id, name}) {
+  const filteredUnits = units.filter(function ({ id, name }) {
     const key = `${id}${name}`;
     return !this.has(key) && this.add(key);
   }, new Set);
@@ -172,7 +178,7 @@ async function collectUnits() {
 function millisToMinutesAndSeconds(millis) {
   var minutes = Math.floor(millis / 60000);
   var seconds = ((millis % 60000) / 1000).toFixed(0);
-  return (seconds == 60 ? (minutes+1) + ":00" : minutes + ":" + (seconds < 10 ? "0" : "") + seconds);
+  return (seconds == 60 ? (minutes + 1) + ":00" : minutes + ":" + (seconds < 10 ? "0" : "") + seconds);
 }
 
 const getUnitBio = (unitLink) => {
@@ -202,7 +208,8 @@ const updateUnitsData = async (units) => {
               unit.dataID = dataIDHTML.trim();
               break;
             case 3:
-              unit.gender = columns.find('a').attr('title');
+              const genderAttr = columns.find('a').attr('title');
+              unit.gender = genderAttr.replace('Category:', '');
               break;
             case 5:
               unit.maxLevel = columns.find('a').html();
@@ -213,13 +220,14 @@ const updateUnitsData = async (units) => {
             case 8:
               let colosseumLegality = [];
               $(el).find($("a")).each(function (i, el) {
-                colosseumLegality[i] = $(this).attr('title');
+                const colosseumAttr = $(this).attr('title');
+                colosseumLegality[i] = colosseumAttr.replace('Category:', '');
               })
               unit.colosseumLegality = colosseumLegality;
               break;
           }
         });
-  
+
         const unitArtwork = $("div.tabbertab center a img").attr('data-src');
         unit.artwork = unitArtwork.replace('/scale-to-width-down/330', '');
       });
