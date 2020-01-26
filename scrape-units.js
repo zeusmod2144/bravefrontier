@@ -170,7 +170,7 @@ async function collectUnits() {
   });
 
   const t1 = performance.now();
-  chalk.yellow.bgBlue(`\n Process took: ${millisToMinutesAndSeconds(t1 - t0)}. \n`)
+  console.log(chalk.yellow.bgBlue(`\n Process took: ${millisToMinutesAndSeconds(t1 - t0)}. \n`));
 }
 
 function millisToMinutesAndSeconds(millis) {
