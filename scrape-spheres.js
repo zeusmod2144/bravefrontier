@@ -51,13 +51,51 @@ const getSpheres = async (url) => {
 async function collectSpheres() {
   let spheres = await getSpheres(sphereFirstUrl);
   
+  const updatedSpheres = await updateSpheresData(spheres); 
+
   // Store the result to spheres.json file
-  fs.writeFile(outputFile, JSON.stringify(spheres, null, 4), err => {
+  fs.writeFile(outputFile, JSON.stringify(updatedSpheres, null, 4), err => {
     if (err) {
       console.log(err);
     }
     console.log(chalk.yellow.bgBlue(`\n Success export ${spheres.length} spheres to ${outputFile}. \n`));
   });
+}
+
+const getSphereDetail = (sphereLink) => {
+  return new Promise((resolve, reject) => {
+    axios.get(sphereLink)
+      .then(response => {
+        return resolve(response.data)
+      })
+      .catch(error => {
+        return reject(error);
+      })
+  })
+}
+
+const updateSpheresData = async (spheres) => {
+  try {
+    for (const sphere of spheres) {
+      console.log(chalk.blue(`${sphere.name}: start`));
+      await getSphereDetail(sphere.link).then(data => {
+        const $ = cheerio.load(data);
+        sphere.thumbnail = $("table.article-table").first().find("tr > td > img").attr("data-src");
+        const $effect = $("div[style='padding:3px 12px 0px 12px;']").html();
+        if ($effect.includes("<br>")) {
+          const splitEffect = $effect.split('<br>');
+          sphere.effect = splitEffect[0];
+          sphere.effectDetail = $("div[style='padding:3px 12px 0px 12px;'] > small > i").text();
+        } else {
+          sphere.effect = $("div[style='padding:3px 12px 0px 12px;']").text();
+        }
+      });
+      console.log(chalk.green(`${sphere.name}: done`));
+    }
+    return spheres;
+  } catch (error) {
+    console.error(error);
+  }
 }
 
 collectSpheres();
