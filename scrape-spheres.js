@@ -9,6 +9,8 @@ const sphereFirstUrl = "https://bravefrontierglobal.fandom.com/wiki/Category:1%E
 const spheres = [];
 const outputFile = 'spheres.json';
 
+console.log(chalk.yellow.bgBlue(`\n Scraping of Brave Frontier spheres started initiated...\n`));
+
 const getSpheres = async (url) => {
   try {
     const response = await axios.get(url);
@@ -35,7 +37,6 @@ const getSpheres = async (url) => {
     const nextPageHref = $('div#mw-content-text p:nth-of-type(2)').find('strong').next().attr('href');
 
     if (nextPageHref === undefined) {
-      console.log(chalk.yellow.bgBlue(`\n Finish scraping list of spheres. \n`));
       return spheres;
     }
 
@@ -61,7 +62,7 @@ async function collectSpheres() {
     if (err) {
       console.log(err);
     }
-    console.log(chalk.yellow.bgBlue(`\n Success export ${spheres.length} spheres to ${outputFile}. \n`));
+    console.log(chalk.yellow.bgBlue(`\n Scraping Brave Frontier spheres finish. Success export ${spheres.length} spheres to ${outputFile}. \n`));
   });
 
   const t1 = performance.now();
