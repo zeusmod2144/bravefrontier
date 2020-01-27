@@ -35,14 +35,7 @@ const getSpheres = async (url) => {
 
     if (nextPageHref === undefined) {
       console.log(chalk.yellow.bgBlue(`\n Finish scraping list of spheres. \n`));
-      // Store the result to units.json file
-      fs.writeFile(outputFile, JSON.stringify(spheres, null, 4), err => {
-        if (err) {
-          console.log(err);
-        }
-        console.log(chalk.yellow.bgBlue(`\n Success export ${spheres.length} spheres to ${outputFile}. \n`));
-      });
-      return false;
+      return spheres;
     }
 
     const nextUrl = `${rootUrl}${nextPageHref}`;
@@ -55,5 +48,16 @@ const getSpheres = async (url) => {
   }
 }
 
-getSpheres(sphereFirstUrl);
+async function collectSpheres() {
+  let spheres = await getSpheres(sphereFirstUrl);
+  
+  // Store the result to spheres.json file
+  fs.writeFile(outputFile, JSON.stringify(spheres, null, 4), err => {
+    if (err) {
+      console.log(err);
+    }
+    console.log(chalk.yellow.bgBlue(`\n Success export ${spheres.length} spheres to ${outputFile}. \n`));
+  });
+}
 
+collectSpheres();
