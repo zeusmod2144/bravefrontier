@@ -2,6 +2,7 @@ const cheerio = require("cheerio");
 const fs = require("fs");
 const chalk = require("chalk");
 const axios = require("axios");
+const { performance } = require('perf_hooks');
 
 const rootUrl = "https://bravefrontierglobal.fandom.com";
 const sphereFirstUrl = "https://bravefrontierglobal.fandom.com/wiki/Category:1%E2%98%85_Rarity_(Item)";
@@ -49,6 +50,8 @@ const getSpheres = async (url) => {
 }
 
 async function collectSpheres() {
+  const t0 = performance.now();
+
   let spheres = await getSpheres(sphereFirstUrl);
   
   const updatedSpheres = await updateSpheresData(spheres); 
@@ -60,6 +63,15 @@ async function collectSpheres() {
     }
     console.log(chalk.yellow.bgBlue(`\n Success export ${spheres.length} spheres to ${outputFile}. \n`));
   });
+
+  const t1 = performance.now();
+  console.log(chalk.yellow.bgBlue(`\n Process took: ${millisToMinutesAndSeconds(t1 - t0)}. \n`));
+}
+
+function millisToMinutesAndSeconds(millis) {
+  var minutes = Math.floor(millis / 60000);
+  var seconds = ((millis % 60000) / 1000).toFixed(0);
+  return `${ (seconds == 60 ? (minutes + 1) : minutes) } ${ (minutes > 1) ? "minutes" : "minute" } and ${ (seconds < 10 ? "0" : seconds) } ${ (seconds > 1 ? "seconds" : "second") }`;
 }
 
 const getSphereDetail = (sphereLink) => {
