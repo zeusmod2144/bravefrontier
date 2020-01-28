@@ -14,14 +14,7 @@ This took a time, but I believe that this will be done!
 
 ## Tech Stack
 
-Previously, I would like to use awesome technology like Puppeteer for scraping. But, this site is to slow when access Puppeteer in headless mode. So, I choose the boring and proven stack like Cheerio to scraping this site.
-
-## TODO
-
-- [x] Collect units and store in **units.json** file.
-- [x] Collect spheres and store in json file.
-- [x] Get detail data each of unit and update it in **units.json** file.
-- [] Get detail data each of sphere and update it in **spheres.json** file.
+Previously, I would like to use awesome technology like Puppeteer for scraping. But, this site is too slow when access Puppeteer in headless mode. So, I choose the boring and proven stack like Cheerio to scraping this site.
 
 ## Next after TODO
 
