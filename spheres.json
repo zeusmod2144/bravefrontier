@@ -169,14 +169,6 @@
         "effectDetail": "Increases resistance by 50%"
     },
     {
-        "name": "Hell's Edge",
-        "link": "https://bravefrontierglobal.fandom.com/wiki/Hell%27s_Edge",
-        "rarity": "1",
-        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/5e/Sphere_thum_5_2.png/revision/latest/scale-to-width-down/80?cb=20141110151134",
-        "effect": "Raises some abilities by 6",
-        "effectDetail": "6% boost to all parameters, 6% boost to critical hit rate, 6% boost to Spark damage, 6% chance to ignore Def, 6% boost to BB Atk & 6% boost to OD fill rate"
-    },
-    {
         "name": "Holy Blade",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Holy_Blade",
         "rarity": "1",
@@ -476,7 +468,7 @@
         "rarity": "2",
         "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/5e/Sphere_thum_5_2.png/revision/latest/scale-to-width-down/80?cb=20141110151134",
         "effect": "Slightly increases BB gauge after every turn",
-        "effectDetail": "Increases BB Gauge by 1 at the end of the turn"
+        "effectDetail": "Fills 1 BC"
     },
     {
         "name": "Divine Gem",
@@ -2744,6 +2736,14 @@
         "effectDetail": "50% boost to BB Atk, 25% boost to Spark damage, fills 5 BC after dealing damage"
     },
     {
+        "name": "闇月弓",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E9%97%87%E6%9C%88%E5%BC%93",
+        "rarity": "4",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/63/Sphere_thum_2_6.png/revision/latest/scale-to-width-down/80?cb=20141110150448",
+        "effect": "&#x30AF;&#x30EA;&#x30C6;&#x30A3;&#x30AB;&#x30EB;&#x7387;&#x3092;&#x30A2;&#x30C3;&#x30D7;",
+        "effectDetail": "20% boost to crit rate"
+    },
+    {
         "name": "Adaptation Jewel",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Adaptation_Jewel",
         "rarity": "5",
@@ -3939,7 +3939,7 @@
         "link": "https://bravefrontierglobal.fandom.com/wiki/Dreadnought_Shell_Aleph",
         "rarity": "6",
         "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/35/Sphere_thum_5_6.png/revision/latest/scale-to-width-down/80?cb=20141110151234",
-        "effect": "Adds 10% to Def, 10% to Rec and 30% to Max HP. Immunity from Curse, Paralyze and Weakness. BB Gauge fill rate is increased.",
+        "effect": "10% boost to Def and Rec, 30% boost to max HP, negates Curse, Paralysis, Weak effects &amp; boosts BB gauge fill rate",
         "effectDetail": "30% boost to BB gauge fill rate"
     },
     {
@@ -4083,7 +4083,7 @@
         "rarity": "6",
         "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/89/Sphere_thum_3_5.png/revision/latest/scale-to-width-down/80?cb=20141110150716",
         "effect": "50% boost to Spark damage, reduces BB gauge amount needed for BB, negates stronger element damage &amp; recovers HP each turn",
-        "effectDetail": "Reduces BB gauge cost by 15% & recovers (1,000 - 1,500 x 10% Rec)"
+        "effectDetail": "Reduces BB gauge cost by 15% & recovers (1,000 ~ 1,500 + 10% Rec) HP"
     },
     {
         "name": "Frigid Melody",
@@ -4225,7 +4225,7 @@
         "rarity": "6",
         "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/1a/Sphere_thum_4_5.png/revision/latest/scale-to-width-down/80?cb=20141110151012",
         "effect": "Absorbs HP when attacking, nullfies all status ailments, reduces BB gauge requirement &amp; chance to refill BB gauge when attacking",
-        "effectDetail": "10~20% HP drain, 7~15% reduction in BB gauge requirement, probable 7 BC fill when attacking"
+        "effectDetail": "10~20% HP drain, 7~15% reduction in BB gauge consumed, probable 7 BC fill when attacking"
     },
     {
         "name": "Harvester Pickaxe",
@@ -4589,15 +4589,15 @@
         "link": "https://bravefrontierglobal.fandom.com/wiki/Metal_Orb",
         "rarity": "6",
         "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/37/Sphere_thum_4_1.png/revision/latest/scale-to-width-down/80?cb=20141110150836",
-        "effect": "20% boost to Atk and Def &amp; low chance of inflicting status ailment",
-        "effectDetail": "7% chance of inflicting Sick/Weak/Injury, 5% chance of inflicting Poison/Paralysis/Curse."
+        "effect": "Slight probable infliction of random status ailment when attacking &amp; 20% boost to Atk, Def",
+        "effectDetail": "7% chance of inflicting Sick/Weak/Injury, 5% chance of inflicting Poison/Paralysis/Curse"
     },
     {
         "name": "Mirage Device",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Mirage_Device",
         "rarity": "6",
         "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/5e/Sphere_thum_5_2.png/revision/latest/scale-to-width-down/80?cb=20141110151134",
-        "effect": "Restores HP, BB gauge at each turn&apos;s start, considerably restores HP, BB gauge after damage taken has exceeded certain amount for 3 turns &amp; 30% boost to Rec, max HP",
+        "effect": "HP and BB recovery effects trigger at turn&apos;s start, considerably restores HP, BB gauge after damage taken has exceeded certain amount for 3 turns &amp; 30% boost to Rec, max HP",
         "effectDetail": "1000~2000 HP healing & 5 BC fill when 5,000 HP as damage is taken"
     },
     {
@@ -5117,6 +5117,13 @@
         "effectDetail": "30% Crit rate to Water types & 300% BB Atk"
     },
     {
+        "name": "Arcane Bulwark",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Arcane_Bulwark",
+        "rarity": "7",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/87/Sphere_thum_819295.png/revision/latest/scale-to-width-down/80?cb=20200129072429",
+        "effect": "70% max HP, 150% spark damage when HP is above 50%, 15% damage reduction, 100% critical/elemental damage reduction & 35% DoT reduction"
+    },
+    {
         "name": "Argeus",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Argeus",
         "rarity": "7",
@@ -5352,7 +5359,7 @@
         "rarity": "7",
         "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/35/Sphere_thum_819122.png/revision/latest/scale-to-width-down/80?cb=20170929075330",
         "effect": "Adds all elements to attack, hugely boosts elemental damage, greatly restores HP each turn, enormously boosts BB gauge each turn &amp; activates at turn&apos;s end effects during turn&apos;s start instead",
-        "effectDetail": "175% elemental weakness damage, heals 3500-4500 HP & fills 12 BC"
+        "effectDetail": "175% elemental weakness damage, heals 3500-4500 + 10% Rec HP & fills 12 BC"
     },
     {
         "name": "Divine Master Gate",

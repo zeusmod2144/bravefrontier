@@ -44391,6 +44391,23 @@
         "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/a6/Unit_ills_full_760006.png/revision/latest?cb=20200122065426"
     },
     {
+        "id": "8594",
+        "name": "Miriam, Elysia's Steel",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Miriam,_Elysia%27s_Steel",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/95/Unit_ills_thum_840798.png/revision/latest?cb=20200129072406",
+        "element": "Thunder",
+        "rarity": "Omni Evolution Rarity",
+        "cost": " 60",
+        "dataID": "840798",
+        "gender": "Female Unit",
+        "maxLevel": "150",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/23/Unit_ills_full_840798.png/revision/latest?cb=20200129072341"
+    },
+    {
         "id": "9997",
         "name": "Rainbow Crystal",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Rainbow_Crystal",
