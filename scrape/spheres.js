@@ -7,7 +7,7 @@ const { performance } = require('perf_hooks');
 const rootUrl = "https://bravefrontierglobal.fandom.com";
 const sphereFirstUrl = "https://bravefrontierglobal.fandom.com/wiki/Category:1%E2%98%85_Rarity_(Item)";
 const spheres = [];
-const outputFile = 'spheres.json';
+const outputFile = '../data/spheres.json';
 
 console.log(chalk.yellow.bgBlue(`\n Scraping of Brave Frontier spheres started initiated...\n`));
 

@@ -9,7 +9,7 @@ const firstMainSeriesUrl = "https://bravefrontierglobal.fandom.com/wiki/Unit_Lis
 const firstGlobalExclusiveSeriesUrl = "https://bravefrontierglobal.fandom.com/wiki/Unit_List:7000";
 const mainUnits = [];
 const exclusiveUnits = [];
-const outputFile = 'units.json';
+const outputFile = '../data/units.json';
 
 console.log(chalk.yellow.bgBlue(`\n Scraping of Brave Frontier units started initiated...\n`));
 
