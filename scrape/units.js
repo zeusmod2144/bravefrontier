@@ -18,45 +18,7 @@ const getMainSeriesUnits = async (url) => {
     const response = await axios.get(url);
     const $ = cheerio.load(response.data);
 
-    const rows = $("table.wikitable tbody").first().find("tr");
-    let id, name, link, thumbnail, element, rarity, cost;
-    rows.each((i, el) => {
-      const columns = $(el).find($("td"));
-      columns.each((i, el) => {
-        switch (i) {
-          case 0:
-            id = $(el).find("center").text();
-            break;
-          case 1:
-            if (typeof $(el).find("a > img").attr("data-src") !== "undefined") {
-              thumbnail = $(el).find("a > img").attr("data-src");
-            } else {
-              thumbnail = $(el).find("a > img").attr("src");
-            }
-            const findPathThumbnail = "/scale-to-width-down/42";
-            const regex = new RegExp(findPathThumbnail, 'g');
-            thumbnail = thumbnail.replace(regex, '');
-            name = $(el).find("a").last().attr("title");
-            link = `${rootUrl}${$(el).find("a").last().attr("href")}`;
-            break;
-          case 2:
-            const elementAttr = $(el).find("center > a").attr("title");
-            element = elementAttr.replace('Category:', '');
-            break;
-          case 3:
-            const rarityAttr = $(el).find("center > a").attr("title");
-            rarity = rarityAttr.replace('Category:', '');
-            break;
-          case 4:
-            const constAttr = $(el).find("center > a").attr("title");
-            cost = constAttr.replace('Category:Cost', '');
-            break;
-        }
-      })
-      units.push({
-        id, name, link, thumbnail, element, rarity, cost
-      });
-    });
+    scrapeUnits($);
 
     // Recursion start
     const nextPageHref = $('div#mw-content-text > div > p').find('strong').next().attr('href');
@@ -80,7 +42,27 @@ const getGlobalExclusiveSeriesUnits = async (url) => {
     const response = await axios.get(url);
     const $ = cheerio.load(response.data);
 
-    const rows = $("table.wikitable tbody").first().find("tr");
+    scrapeUnits($);
+
+    // Recursion start
+    const nextPageHref = $('div#mw-content-text > div > div > p').find('strong').next().attr('href');
+
+    if (nextPageHref === undefined) {
+      return units;
+    }
+
+    nextUrl = `${rootUrl}${nextPageHref}`;
+    console.log(chalk.cyan(`Scraping next url: ${nextUrl}`));
+
+    return await getGlobalExclusiveSeriesUnits(nextUrl);
+    // Recursion end
+  } catch (error) {
+    console.error(error);
+  }
+}
+
+function scrapeUnits($) {
+  const rows = $("table.wikitable tbody").first().find("tr");
     let id, name, link, thumbnail, element, rarity, cost;
     rows.each((i, el) => {
       const columns = $(el).find($("td"));
@@ -119,22 +101,6 @@ const getGlobalExclusiveSeriesUnits = async (url) => {
         id, name, link, thumbnail, element, rarity, cost
       });
     });
-
-    // Recursion start
-    const nextPageHref = $('div#mw-content-text > div > div > p').find('strong').next().attr('href');
-
-    if (nextPageHref === undefined) {
-      return units;
-    }
-
-    nextUrl = `${rootUrl}${nextPageHref}`;
-    console.log(chalk.cyan(`Scraping next url: ${nextUrl}`));
-
-    return await getGlobalExclusiveSeriesUnits(nextUrl);
-    // Recursion end
-  } catch (error) {
-    console.error(error);
-  }
 }
 
 async function collectUnits() {
