@@ -1,5 +1,6 @@
 const cheerio = require("cheerio");
 const fs = require("fs");
+const path = require('path');
 const chalk = require("chalk");
 const axios = require("axios");
 const { performance } = require('perf_hooks');
@@ -8,7 +9,7 @@ const rootUrl = "https://bravefrontierglobal.fandom.com";
 const firstMainSeriesUrl = "https://bravefrontierglobal.fandom.com/wiki/Unit_List";
 const firstGlobalExclusiveSeriesUrl = "https://bravefrontierglobal.fandom.com/wiki/Unit_List:7000";
 const units = [];
-const outputFile = '../data/units.json';
+const outputFile = path.join(__dirname, '..', 'data', 'units.json');
 
 console.log(chalk.yellow.bgBlue(`\n Scraping of Brave Frontier units started initiated...\n`));
 
