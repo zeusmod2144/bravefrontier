@@ -7,8 +7,7 @@ const { performance } = require('perf_hooks');
 const rootUrl = "https://bravefrontierglobal.fandom.com";
 const firstMainSeriesUrl = "https://bravefrontierglobal.fandom.com/wiki/Unit_List";
 const firstGlobalExclusiveSeriesUrl = "https://bravefrontierglobal.fandom.com/wiki/Unit_List:7000";
-const mainUnits = [];
-const exclusiveUnits = [];
+const units = [];
 const outputFile = '../data/units.json';
 
 console.log(chalk.yellow.bgBlue(`\n Scraping of Brave Frontier units started initiated...\n`));
@@ -53,7 +52,7 @@ const getMainSeriesUnits = async (url) => {
             break;
         }
       })
-      mainUnits.push({
+      units.push({
         id, name, link, thumbnail, element, rarity, cost
       });
     });
@@ -62,7 +61,7 @@ const getMainSeriesUnits = async (url) => {
     const nextPageHref = $('div#mw-content-text > div > p').find('strong').next().attr('href');
 
     if (nextPageHref === undefined) {
-      return mainUnits;
+      return units;
     }
 
     nextUrl = `${rootUrl}${nextPageHref}`;
@@ -115,7 +114,7 @@ const getGlobalExclusiveSeriesUnits = async (url) => {
             break;
         }
       })
-      exclusiveUnits.push({
+      units.push({
         id, name, link, thumbnail, element, rarity, cost
       });
     });
@@ -124,7 +123,7 @@ const getGlobalExclusiveSeriesUnits = async (url) => {
     const nextPageHref = $('div#mw-content-text > div > div > p').find('strong').next().attr('href');
 
     if (nextPageHref === undefined) {
-      return exclusiveUnits;
+      return units;
     }
 
     nextUrl = `${rootUrl}${nextPageHref}`;
