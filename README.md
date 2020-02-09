@@ -1,20 +1,16 @@
 # Scraping Brave Frontier
 
-Brave Frontier is a RPG (Role Playing Game) that available in a smartphone like Android, iOS, Amazon. I love this game since 2015, take a break at 2016 and come back at 2017. For me, this game is awesome.
+Brave Frontier is a RPG (Role Playing Game) that available in a smartphone like Android, iOS, Amazon. I love this game since 2015, take a break at 2016 and come back at 2019. For me, this game is awesome.
 
-## Why Do You Scrape This?
+## What data will you scraping?
 
-Because I want to collect data like units and spheres. After that, build an API and website to:
-- Display list of units and spheres.
-- Display detail of unit
-- Display detail of sphere
-- Attach spheres to an unit
+- [ ] Scrape list of omni units.
+- [ ] Scrape SP and recommended SP of omni units.
 
-This took a time, but I believe that this will be done!
 
 ## Tech Stack
 
-Previously, I would like to use awesome technology like Puppeteer for scraping. But, this site is too slow when access Puppeteer in headless mode. So, I choose the boring and proven stack like Cheerio to scraping this site.
+Previously, I would like to use awesome technology like Puppeteer for scraping. But, [Brave Frontier Fandom's site](https://bravefrontierglobal.fandom.com/wiki/Brave_Frontier_Wiki) is too slow when access Puppeteer in headless mode. So, I choose the boring and proven stack like Cheerio to scraping this site.
 
 ## Next after TODO
 
