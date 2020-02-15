@@ -33,68 +33,69 @@ const updateOmniUnits = async () => {
       await getUnitSP(`${unit.link}/Builds`).then((data) => {
         console.log(`${unit.name}: start`);
         const { document } = (new JSDOM(data)).window;
-        var bodies = Array.from(document.querySelectorAll('table[class="article-table tight"] tbody'));
+        var contents = Array.from(document.querySelectorAll('div[style="float:left; width: 640px; margin: 0 0.5em 0 0.5em;"]'));
 
-        // Double shift
-        bodies.shift();
-        bodies.shift();
+        // Remove first index of contents
+        contents.shift();
 
-        var cost, option;
-        var spList = [];
-        if (Array.isArray(bodies) && bodies.length > 0) {
-          for (i = 0; i < bodies.length; i++) {
-            var body = bodies[i];
-            var rows = Array.from(body.querySelectorAll('tr'));
-            // Pattern: remove the first of three rows.
-            rows.shift();
-            rows.shift();
-            rows.shift();
+        if (Array.isArray(contents) && contents.length > 0) {
+          var spRecommendation = [];
+          for (i = 0; i < contents.length; i++) {
+            var content = contents[i];
 
-            var sp = [];
-            var newRows = [];
-            rows.filter(row => {
-              if (!row.hasAttribute('style')) {
-                newRows.push(row);
-              }
-            });
+            var body = content.querySelector('table[class="article-table tight"] tbody');
+            if (body !== null) {
+              var rows = Array.from(body.querySelectorAll('tr'));
+              // Pattern: remove the first of three rows.
+              rows.shift();
+              rows.shift();
+              rows.shift();
 
-            for (let j = 0; j < newRows.length; j++) {
-              var row = newRows[j];
-              var columns = row.querySelectorAll('td');
-              for (let k = 0; k < columns.length; k++) {
-                var column = columns[k];
-                var cost, option, analysis;
-                if (row.querySelectorAll('td').length > 1) {
-                  if (k === 0) {
-                    cost = column.textContent.trim();
+              var sp = [];
+              var newRows = [];
+              rows.filter(row => {
+                if (!row.hasAttribute('style')) {
+                  newRows.push(row);
+                }
+              });
+
+              for (let j = 0; j < newRows.length; j++) {
+                var row = newRows[j];
+                var columns = row.querySelectorAll('td');
+                for (let k = 0; k < columns.length; k++) {
+                  var column = columns[k];
+                  var cost, option, analysis;
+                  if (row.querySelectorAll('td').length > 1) {
+                    if (k === 0) {
+                      cost = column.textContent.trim();
+                    } else {
+                      option = column.textContent.trim();
+                    }
                   } else {
-                    option = column.textContent.trim();
+                    analysis = column.textContent.trim();
                   }
-                } else {
-                  analysis = column.textContent.trim();
+                }
+                sp.push({ cost, option });
+                if (j === (newRows.length - 1)) {
+                  sp.push({ analysis });
                 }
               }
-              sp.push({ cost, option });
 
-              if (j === (newRows.length - 1)) {
-                sp.push({ analysis });
-              }
+              var filteredSP = sp.filter(function ({ cost, option }) {
+                var key = `${cost}${option}`;
+                return !this.has(key) && this.add(key);
+              }, new Set);
+
+
+              spRecommendation.push(filteredSP);
+              unit.spRecommendation = spRecommendation;
             }
-
-            var filteredSP = sp.filter(function ({ cost, option }) {
-              var key = `${cost}${option}`;
-              return !this.has(key) && this.add(key);
-            }, new Set);
-
-            spList.push(filteredSP);
-
-            unit.spRecommendation = spList;
           }
         }
       })
-      .catch(error => {
-        console.log(error.response.statusText);
-      })
+        .catch(error => {
+          console.log(error.response.statusText);
+        })
       console.log(`${unit.name}: done`);
     }
   } catch (error) {
