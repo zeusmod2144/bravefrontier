@@ -70,9 +70,15 @@ const updateOmniUnits = async () => {
                   } else {
                     option = column.textContent.trim();
                   }
+                } else {
+                  analysis = column.textContent.trim();
                 }
               }
               sp.push({ cost, option });
+
+              if (j === (newRows.length - 1)) {
+                sp.push({ analysis });
+              }
             }
 
             var filteredSP = sp.filter(function ({ cost, option }) {
