@@ -45,6 +45,7 @@ const updateOmniUnits = async () => {
 
             var body = content.querySelector('table[class="article-table tight"] tbody');
             if (body !== null) {
+              var title = content.querySelector('h2 > span').textContent;
               var rows = Array.from(body.querySelectorAll('tr'));
               // Pattern: remove the first of three rows.
               rows.shift();
@@ -86,7 +87,7 @@ const updateOmniUnits = async () => {
                 return !this.has(key) && this.add(key);
               }, new Set);
 
-
+              filteredSP.push({ title });
               spRecommendation.push(filteredSP);
               unit.spRecommendation = spRecommendation;
             }
