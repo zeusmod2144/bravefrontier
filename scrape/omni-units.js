@@ -30,8 +30,8 @@ const updateOmniUnits = async () => {
     });
 
     for (const unit of omniUnits) {
+      console.log(`${unit.name}: start`);
       await getUnitSP(`${unit.link}/Builds`).then((data) => {
-        console.log(`${unit.name}: start`);
         const { document } = (new JSDOM(data)).window;
         var contents = Array.from(document.querySelectorAll('div[style="float:left; width: 640px; margin: 0 0.5em 0 0.5em;"]'));
 
