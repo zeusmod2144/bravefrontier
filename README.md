@@ -5,7 +5,7 @@ Brave Frontier is a RPG (Role Playing Game) that available in a smartphone like 
 ## What data will you scraping?
 
 - [ ] Scrape list of omni units.
-- [ ] Scrape SP and recommended SP of omni units.
+- [ ] Scrape recommended SP of omni units.
 
 
 ## Tech Stack
