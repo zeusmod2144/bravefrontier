@@ -90,6 +90,15 @@ const updateOmniUnits = async () => {
               filteredSP.push({ title });
               spRecommendation.push(filteredSP);
               unit.spRecommendation = spRecommendation;
+
+              // delete unnecessary property of object
+              delete unit.id;
+              delete unit.link;
+              delete unit.rarity;
+              delete unit.dataID;
+              delete unit.maxLevel;
+              delete unit.arenaType;
+              delete unit.colosseumLegality;
             }
           }
         }
@@ -103,7 +112,7 @@ const updateOmniUnits = async () => {
     console.log(error);
   }
 
-  fs.writeFile(outputFile, JSON.stringify(omniUnits, null, 4), err => {
+  fs.writeFile(outputFile, JSON.stringify(omniUnits), err => {
     if (err) {
       console.log(err);
     }
