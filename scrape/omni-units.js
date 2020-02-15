@@ -33,7 +33,7 @@ const updateOmniUnits = async () => {
       await getUnitSP(`${unit.link}/Builds`).then((data) => {
         console.log(`${unit.name}: start`);
         const { document } = (new JSDOM(data)).window;
-        const bodies = Array.from(document.querySelectorAll('table[class="article-table tight"] tbody'));
+        var bodies = Array.from(document.querySelectorAll('table[class="article-table tight"] tbody'));
 
         // Double shift
         bodies.shift();
@@ -50,26 +50,38 @@ const updateOmniUnits = async () => {
             rows.shift();
             rows.shift();
 
-            // Pattern: remove the last of two rows.
-            // Becareful: it can leading a bug.
-            rows.pop();
-            rows.pop();
-
             var sp = [];
-            for (j = 0; j < rows.length; j++) {
-              var row = rows[j];
-              var columns = Array.from(row.querySelectorAll('td'));
-              for (k = 0; k < columns.length; k++) {
+            var newRows = [];
+            rows.filter(row => {
+              if (!row.hasAttribute('style')) {
+                newRows.push(row);
+              }
+            });
+
+            for (let j = 0; j < newRows.length; j++) {
+              var row = newRows[j];
+              var columns = row.querySelectorAll('td');
+              for (let k = 0; k < columns.length; k++) {
                 var column = columns[k];
-                if (k == 0) {
-                  cost = column.textContent.trim();
-                } else {
-                  option = column.textContent.trim();
+                var cost, option, analysis;
+                if (row.querySelectorAll('td').length > 1) {
+                  if (k === 0) {
+                    cost = column.textContent.trim();
+                  } else {
+                    option = column.textContent.trim();
+                  }
                 }
               }
               sp.push({ cost, option });
             }
-            spList.push(sp);
+
+            var filteredSP = sp.filter(function ({ cost, option }) {
+              var key = `${cost}${option}`;
+              return !this.has(key) && this.add(key);
+            }, new Set);
+
+            spList.push(filteredSP);
+
             unit.spRecommendation = spList;
           }
         }
