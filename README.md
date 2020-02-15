@@ -10,4 +10,4 @@ Brave Frontier is a RPG (Role Playing Game) that available in a smartphone like 
 
 ## Tech Stack
 
-Previously, I would like to use awesome technology like Puppeteer for scraping. But, [Brave Frontier Fandom's site](https://bravefrontierglobal.fandom.com/wiki/Brave_Frontier_Wiki) is too slow when access Puppeteer in headless mode. So, I choose the boring and proven stack like Cheerio to scraping this site.
+Previously, I would like to use awesome technology like Puppeteer for scraping. But, [Brave Frontier Fandom's site](https://bravefrontierglobal.fandom.com/wiki/Brave_Frontier_Wiki) is too slow when access Puppeteer in headless mode. So, I choose the boring and proven stack like [Cheerio](https://cheerio.js.org/) or [JSDOM](https://github.com/jsdom/jsdom) to scraping this site.
