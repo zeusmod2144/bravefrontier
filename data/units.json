@@ -11820,6 +11820,366 @@
         "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/0a/Unit_ills_full_50525.png/revision/latest?cb=20140701153231"
     },
     {
+        "id": "592",
+        "name": "熱姫カイエナ",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E7%86%B1%E5%A7%AB%E3%82%AB%E3%82%A4%E3%82%A8%E3%83%8A",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/9a/Unit_ills_thum_10472.png/revision/latest?cb=20191105214149",
+        "element": "Fire",
+        "rarity": "3★ Rarity (Unit)",
+        "cost": " 6",
+        "dataID": "10472",
+        "gender": "Female Unit",
+        "maxLevel": "40",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Warrior Class",
+            "Gladiator Class",
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/2d/Unit_ills_full_10472.png/revision/latest?cb=20191105214154"
+    },
+    {
+        "id": "593",
+        "name": "熱砲姫カイエナ",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E7%86%B1%E7%A0%B2%E5%A7%AB%E3%82%AB%E3%82%A4%E3%82%A8%E3%83%8A",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/c6/Unit_ills_thum_10473.png/revision/latest?cb=20191105214150",
+        "element": "Fire",
+        "rarity": "4★ Rarity (Unit)",
+        "cost": " 10",
+        "dataID": "10473",
+        "gender": "Female Unit",
+        "maxLevel": "60",
+        "arenaType": "3",
+        "colosseumLegality": [
+            "Warrior Class",
+            "Gladiator Class",
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/f1/Unit_ills_full_10473.png/revision/latest?cb=20191105214154"
+    },
+    {
+        "id": "594",
+        "name": "爆砲神姫カイエナ",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E7%88%86%E7%A0%B2%E7%A5%9E%E5%A7%AB%E3%82%AB%E3%82%A4%E3%82%A8%E3%83%8A",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/06/Unit_ills_thum_10474.png/revision/latest?cb=20191105214151",
+        "element": "Fire",
+        "rarity": "5★ Rarity (Unit)",
+        "cost": " 15",
+        "dataID": "10474",
+        "gender": "Female Unit",
+        "maxLevel": "80",
+        "arenaType": "3",
+        "colosseumLegality": [
+            "Warrior Class",
+            "Gladiator Class",
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/19/Unit_ills_full_10474.png/revision/latest?cb=20191105214153"
+    },
+    {
+        "id": "595",
+        "name": "氷女セリン",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E6%B0%B7%E5%A5%B3%E3%82%BB%E3%83%AA%E3%83%B3",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/3f/Unit_ills_thum_20462.png/revision/latest?cb=20200214181249",
+        "element": "Water",
+        "rarity": "3★ Rarity (Unit)",
+        "cost": " 6",
+        "dataID": "20462",
+        "gender": "Female Unit",
+        "maxLevel": "40",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Warrior Class",
+            "Gladiator Class",
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/d4/Unit_ills_full_20462.png/revision/latest?cb=20200214181148"
+    },
+    {
+        "id": "596",
+        "name": "氷銃乙女セリン",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E6%B0%B7%E9%8A%83%E4%B9%99%E5%A5%B3%E3%82%BB%E3%83%AA%E3%83%B3",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/f4/Unit_ills_thum_20463.png/revision/latest?cb=20200214181257",
+        "element": "Water",
+        "rarity": "4★ Rarity (Unit)",
+        "cost": " 10",
+        "dataID": "20463",
+        "gender": "Female Unit",
+        "maxLevel": "60",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Warrior Class",
+            "Gladiator Class",
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/bf/Unit_ills_full_20463.png/revision/latest?cb=20200214181148"
+    },
+    {
+        "id": "597",
+        "name": "氷砲女神セリン",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E6%B0%B7%E7%A0%B2%E5%A5%B3%E7%A5%9E%E3%82%BB%E3%83%AA%E3%83%B3",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/6f/Unit_ills_thum_20464.png/revision/latest?cb=20200214181309",
+        "element": "Water",
+        "rarity": "5★ Rarity (Unit)",
+        "cost": " 15",
+        "dataID": "20464",
+        "gender": "Female Unit",
+        "maxLevel": "80",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Warrior Class",
+            "Gladiator Class",
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/7b/Unit_ills_full_20464.png/revision/latest?cb=20200214181149"
+    },
+    {
+        "id": "598",
+        "name": "地猫女ベイリー",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E5%9C%B0%E7%8C%AB%E5%A5%B3%E3%83%99%E3%82%A4%E3%83%AA%E3%83%BC",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/b5/Unit_ills_thum_30452.png/revision/latest?cb=20200214183346",
+        "element": "Earth",
+        "rarity": "3★ Rarity (Unit)",
+        "cost": " 6",
+        "dataID": "30452",
+        "gender": "Female Unit",
+        "maxLevel": "40",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Warrior Class",
+            "Gladiator Class",
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/68/Unit_ills_full_30452.png/revision/latest?cb=20200214183536"
+    },
+    {
+        "id": "599",
+        "name": "地猫姫ベイリー",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E5%9C%B0%E7%8C%AB%E5%A7%AB%E3%83%99%E3%82%A4%E3%83%AA%E3%83%BC",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/d4/Unit_ills_thum_30453.png/revision/latest?cb=20200214183338",
+        "element": "Earth",
+        "rarity": "4★ Rarity (Unit)",
+        "cost": " 10",
+        "dataID": "30453",
+        "gender": "Female Unit",
+        "maxLevel": "60",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Warrior Class",
+            "Gladiator Class",
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/56/Unit_ills_full_30453.png/revision/latest?cb=20200214183524"
+    },
+    {
+        "id": "600",
+        "name": "地猫神ベイリー",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E5%9C%B0%E7%8C%AB%E7%A5%9E%E3%83%99%E3%82%A4%E3%83%AA%E3%83%BC",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/80/Unit_ills_thum_30454.png/revision/latest?cb=20200214183329",
+        "element": "Earth",
+        "rarity": "5★ Rarity (Unit)",
+        "cost": " 15",
+        "dataID": "30454",
+        "gender": "Female Unit",
+        "maxLevel": "80",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Warrior Class",
+            "Gladiator Class",
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/1a/Unit_ills_full_30454.png/revision/latest?cb=20200214183525"
+    },
+    {
+        "id": "601",
+        "name": "雷光姫フェニア",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E9%9B%B7%E5%85%89%E5%A7%AB%E3%83%95%E3%82%A7%E3%83%8B%E3%82%A2",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/1b/Unit_ills_thum_40452.png/revision/latest?cb=20200214183354",
+        "element": "Thunder",
+        "rarity": "3★ Rarity (Unit)",
+        "cost": " 6",
+        "dataID": "40452",
+        "gender": "Female Unit",
+        "maxLevel": "40",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Warrior Class",
+            "Gladiator Class",
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/ef/Unit_ills_full_40452.png/revision/latest?cb=20200214183526"
+    },
+    {
+        "id": "602",
+        "name": "雷爆姫フェニア",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E9%9B%B7%E7%88%86%E5%A7%AB%E3%83%95%E3%82%A7%E3%83%8B%E3%82%A2",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/a1/Unit_ills_thum_40453.png/revision/latest?cb=20200214183402",
+        "element": "Thunder",
+        "rarity": "4★ Rarity (Unit)",
+        "cost": " 10",
+        "dataID": "40453",
+        "gender": "Female Unit",
+        "maxLevel": "60",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Warrior Class",
+            "Gladiator Class",
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/3c/Unit_ills_full_40453.png/revision/latest?cb=20200214183526"
+    },
+    {
+        "id": "603",
+        "name": "雷爆の女神フェニア",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E9%9B%B7%E7%88%86%E3%81%AE%E5%A5%B3%E7%A5%9E%E3%83%95%E3%82%A7%E3%83%8B%E3%82%A2",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/39/Unit_ills_thum_40454.png/revision/latest?cb=20200214183409",
+        "element": "Thunder",
+        "rarity": "5★ Rarity (Unit)",
+        "cost": " 15",
+        "dataID": "40454",
+        "gender": "Female Unit",
+        "maxLevel": "80",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Warrior Class",
+            "Gladiator Class",
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/6f/Unit_ills_full_40454.png/revision/latest?cb=20200214183525"
+    },
+    {
+        "id": "604",
+        "name": "光の乙女ヴァニラ",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E5%85%89%E3%81%AE%E4%B9%99%E5%A5%B3%E3%83%B4%E3%82%A1%E3%83%8B%E3%83%A9",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/5e/Unit_ills_thum_50492.png/revision/latest?cb=20200214190844",
+        "element": "Light",
+        "rarity": "3★ Rarity (Unit)",
+        "cost": " 6",
+        "dataID": "50492",
+        "gender": "Female Unit",
+        "maxLevel": "40",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Warrior Class",
+            "Gladiator Class",
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/02/Unit_ills_full_50492.png/revision/latest?cb=20200214190841"
+    },
+    {
+        "id": "605",
+        "name": "清空乙女ヴァニラ",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E6%B8%85%E7%A9%BA%E4%B9%99%E5%A5%B3%E3%83%B4%E3%82%A1%E3%83%8B%E3%83%A9",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/91/Unit_ills_thum_50493.png/revision/latest?cb=20200214190843",
+        "element": "Light",
+        "rarity": "4★ Rarity (Unit)",
+        "cost": " 10",
+        "dataID": "50493",
+        "gender": "Female Unit",
+        "maxLevel": "60",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Warrior Class",
+            "Gladiator Class",
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e6/Unit_ills_full_50493.png/revision/latest?cb=20200214190841"
+    },
+    {
+        "id": "606",
+        "name": "蒼空天神ヴァニラ",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E8%92%BC%E7%A9%BA%E5%A4%A9%E7%A5%9E%E3%83%B4%E3%82%A1%E3%83%8B%E3%83%A9",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/2f/Unit_ills_thum_50494.png/revision/latest?cb=20200214190842",
+        "element": "Light",
+        "rarity": "5★ Rarity (Unit)",
+        "cost": " 15",
+        "dataID": "50494",
+        "gender": "Female Unit",
+        "maxLevel": "80",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Warrior Class",
+            "Gladiator Class",
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/5c/Unit_ills_full_50494.png/revision/latest?cb=20200214190842"
+    },
+    {
+        "id": "607",
+        "name": "闇乙女リコ",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E9%97%87%E4%B9%99%E5%A5%B3%E3%83%AA%E3%82%B3",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/c9/Unit_ills_thum_60512.png/revision/latest?cb=20200214190844",
+        "element": "Dark",
+        "rarity": "3★ Rarity (Unit)",
+        "cost": " 6",
+        "dataID": "60512",
+        "gender": "Female Unit",
+        "maxLevel": "40",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Warrior Class",
+            "Gladiator Class",
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/15/Unit_ills_full_60512.png/revision/latest?cb=20200214190847"
+    },
+    {
+        "id": "608",
+        "name": "闇刀乙女リコ",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E9%97%87%E5%88%80%E4%B9%99%E5%A5%B3%E3%83%AA%E3%82%B3",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/41/Unit_ills_thum_60513.png/revision/latest?cb=20200214190845",
+        "element": "Dark",
+        "rarity": "4★ Rarity (Unit)",
+        "cost": " 10",
+        "dataID": "60513",
+        "gender": "Female Unit",
+        "maxLevel": "60",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Warrior Class",
+            "Gladiator Class",
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e0/Unit_ills_full_60513.png/revision/latest?cb=20200214190846"
+    },
+    {
+        "id": "609",
+        "name": "魔刀女神リコ",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/%E9%AD%94%E5%88%80%E5%A5%B3%E7%A5%9E%E3%83%AA%E3%82%B3",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/18/Unit_ills_thum_60514.png/revision/latest?cb=20200214190846",
+        "element": "Dark",
+        "rarity": "5★ Rarity (Unit)",
+        "cost": " 15",
+        "dataID": "60514",
+        "gender": "Female Unit",
+        "maxLevel": "80",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Warrior Class",
+            "Gladiator Class",
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/8c/Unit_ills_full_60514.png/revision/latest?cb=20200214190826"
+    },
+    {
         "id": "610",
         "name": "Bodyguard Darvanshel",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Bodyguard_Darvanshel",
@@ -29819,7 +30179,7 @@
         "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/42/Unit_ills_full_51127.png/revision/latest?cb=20170112044424"
     },
     {
-        "id": "1560",
+        "id": "1559",
         "name": "Judgment Demon Zalvard",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Judgment_Demon_Zalvard",
         "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/d2/Unit_ills_thum_61086.png/revision/latest?cb=20170112044429",
@@ -43035,7 +43395,7 @@
         "id": "8513",
         "name": "Kaiser Apex Gilgamesh",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Kaiser_Apex_Gilgamesh",
-        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/28/Unit_ills_thum_740247.png/revision/latest?cb=20190410071744",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/28/Unit_ills_thum_740247.png/revision/latest?cb=20200214063152",
         "element": "Thunder",
         "rarity": "Omni Evolution Rarity",
         "cost": " 60",
@@ -44406,6 +44766,58 @@
             "Hero Class"
         ],
         "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/23/Unit_ills_full_840798.png/revision/latest?cb=20200129072341"
+    },
+    {
+        "id": "8595",
+        "name": "Prescient Goddess Frigg",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Prescient_Goddess_Frigg",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/fd/Unit_ills_thum_730287.png/revision/latest?cb=20200122065634",
+        "element": "Earth",
+        "rarity": "Omni Evolution Rarity",
+        "cost": " 60",
+        "dataID": "730287",
+        "gender": "Female Unit",
+        "maxLevel": "150",
+        "arenaType": "5",
+        "colosseumLegality": [
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/ba/Unit_ills_full_730287.png/revision/latest?cb=20200122065427"
+    },
+    {
+        "id": "8596",
+        "name": "Consecrated Sin Nimrah",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Consecrated_Sin_Nimrah",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/d1/Unit_ills_thum_840848.png/revision/latest?cb=20200212070823",
+        "element": "Thunder",
+        "rarity": "Omni Evolution Rarity",
+        "cost": " 60",
+        "dataID": "840848",
+        "gender": "Female Unit",
+        "maxLevel": "150",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/7b/Unit_ills_full_840848.png/revision/latest?cb=20200212070830"
+    },
+    {
+        "id": "8597",
+        "name": "Faithless Seeker Renatus",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Faithless_Seeker_Renatus",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/c5/Unit_ills_thum_820848.png/revision/latest?cb=20200212070817",
+        "element": "Water",
+        "rarity": "Omni Evolution Rarity",
+        "cost": " 54",
+        "dataID": "820848",
+        "gender": "Male Unit",
+        "maxLevel": "150",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/8c/Unit_ills_full_820848.png/revision/latest?cb=20200212070715"
     },
     {
         "id": "9997",
