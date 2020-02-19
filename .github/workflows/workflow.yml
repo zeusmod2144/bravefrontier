@@ -1,5 +1,7 @@
 name: Scrape Brave Frontier on Github Actions
-on: ['push']
+on:
+  schedule:
+    - cron: '*/15 * * * *'
 
 jobs:
   build:
