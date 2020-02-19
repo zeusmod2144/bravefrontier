@@ -44820,6 +44820,23 @@
         "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/8c/Unit_ills_full_820848.png/revision/latest?cb=20200212070715"
     },
     {
+        "id": "8598",
+        "name": "Evie, Twilight Heir",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Evie,_Twilight_Heir",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/a4/Unit_ills_thum_860798.png/revision/latest?cb=20200219061753",
+        "element": "Dark",
+        "rarity": "Omni Evolution Rarity",
+        "cost": " 60",
+        "dataID": "860798",
+        "gender": "Female Unit",
+        "maxLevel": "150",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/ea/Unit_ills_full_860798.png/revision/latest?cb=20200219061751"
+    },
+    {
         "id": "9997",
         "name": "Rainbow Crystal",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Rainbow_Crystal",
