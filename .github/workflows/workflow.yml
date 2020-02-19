@@ -6,7 +6,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - uses: actions/setup-node@v1
+    - name: Setup node
+      uses: actions/setup-node@v1
       with:
         node-version: '>=12.14.1'
-    - run: npm ci
+    - name: Install dependecies
+      run: npm ci
+    - name: Scrape omni units
+      run: npm run scrape-omni-units
