@@ -14,3 +14,9 @@ jobs:
       run: npm ci
     - name: Scrape omni units
       run: npm run scrape-omni-units
+    - name: Commit files
+      run: |
+        git config --local user.email ${{ secrets.MY_EMAIL }}
+        git config --local user.name "Satya Kresna on Github Actions"
+        git add .
+        git commit -m "Add changes" -a
