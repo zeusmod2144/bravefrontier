@@ -1,0 +1,13 @@
+name: Scrape Brave Frontier on Github Actions
+on: ['push']
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Install Node JS
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v1
+      with:
+        node-version: '>=12.14.1'
+    - run: npm ci
