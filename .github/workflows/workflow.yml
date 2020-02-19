@@ -12,6 +12,8 @@ jobs:
         node-version: '>=12.14.1'
     - name: Install dependecies
       run: npm ci
+    - name: Scrape units
+      run: npm run scrape-units
     - name: Scrape omni units
       run: npm run scrape-omni-units
     - name: Commit files
@@ -19,7 +21,7 @@ jobs:
         git config --local user.email ${{ secrets.MY_EMAIL }}
         git config --local user.name "Satya Kresna on Github Actions"
         git add .
-        git commit -m "Add changes" -a
+        git commit -m "chore: update scrape data" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
