@@ -4,7 +4,7 @@ on:
     branches:
       - master
   schedule:
-    # Run each 15 minutes
+    # Run at 23:59 on every 3rd day-of-month
     - cron: '59 23 */3 * *'
 
 jobs:
