@@ -1,6 +1,10 @@
 name: Scrape Brave Frontier on Github Actions
 on:
+  push:
+    branches:
+      - master
   schedule:
+    # Run each 15 minutes
     - cron: '*/15 * * * *'
 
 jobs:
