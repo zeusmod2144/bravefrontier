@@ -46015,6 +46015,41 @@
         "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/ea/Unit_ills_full_860798.png/revision/latest?cb=20200219061751"
     },
     {
+        "id": "8599",
+        "name": "Alphie",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Alphie",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/52/Unit_ills_thum_830827.png/revision/latest?cb=20200226065300",
+        "element": "Earth",
+        "rarity": "7★ Rarity (Unit)",
+        "cost": " 52",
+        "dataID": "830827",
+        "gender": "Male Unit",
+        "maxLevel": "120",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/1a/Unit_ills_full_830827.png/revision/latest?cb=20200226065214"
+    },
+    {
+        "id": "8600",
+        "name": "Snowtop Alpinist Alphie",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Snowtop_Alpinist_Alphie",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/ad/Unit_ills_thum_830828.png/revision/latest?cb=20200226065313",
+        "element": "Earth",
+        "rarity": "Omni Evolution Rarity",
+        "cost": " 60",
+        "dataID": "830828",
+        "gender": "Male Unit",
+        "maxLevel": "150",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/7d/Unit_ills_full_830828.png/revision/latest?cb=20200226065235"
+    },
+    {
         "id": "9997",
         "name": "Rainbow Crystal",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Rainbow_Crystal",
