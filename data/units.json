@@ -46050,6 +46050,23 @@
         "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/7d/Unit_ills_full_830828.png/revision/latest?cb=20200226065235"
     },
     {
+        "id": "8601",
+        "name": "Creation God Odin",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Creation_God_Odin",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/c5/Unit_ills_thum_750317.png/revision/latest?cb=20200214063032",
+        "element": "Light",
+        "rarity": "Omni Evolution Rarity",
+        "cost": " 60",
+        "dataID": "750317",
+        "gender": "Male Unit",
+        "maxLevel": "150",
+        "arenaType": "Unknown",
+        "colosseumLegality": [
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/21/Unit_ills_full_750317.png/revision/latest?cb=20200214061325"
+    },
+    {
         "id": "9997",
         "name": "Rainbow Crystal",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Rainbow_Crystal",
