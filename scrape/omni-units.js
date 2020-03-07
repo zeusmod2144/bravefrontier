@@ -45,6 +45,7 @@ const updateOmniUnits = async () => {
 
             var body = content.querySelector('table[class="article-table tight"] tbody');
             if (body !== null) {
+              var analysis;
               var title = content.querySelector('h2 > span').textContent;
               var rows = Array.from(body.querySelectorAll('tr'));
               // Pattern: remove the first of three rows.
@@ -65,7 +66,7 @@ const updateOmniUnits = async () => {
                 var columns = row.querySelectorAll('td');
                 for (let k = 0; k < columns.length; k++) {
                   var column = columns[k];
-                  var cost, option, analysis;
+                  var cost, option;
                   if (row.querySelectorAll('td').length > 1) {
                     if (k === 0) {
                       cost = column.textContent.trim();
@@ -77,9 +78,6 @@ const updateOmniUnits = async () => {
                   }
                 }
                 sp.push({ cost, option });
-                if (j === (newRows.length - 1)) {
-                  sp.push({ analysis });
-                }
               }
 
               var filteredSP = sp.filter(function ({ cost, option }) {
@@ -87,7 +85,7 @@ const updateOmniUnits = async () => {
                 return !this.has(key) && this.add(key);
               }, new Set);
 
-              filteredSP.push({ title });
+              filteredSP.push({ title, analysis });
               spRecommendation.push(filteredSP);
               unit.spRecommendation = spRecommendation;
 
