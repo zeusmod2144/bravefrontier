@@ -69,7 +69,7 @@ const updateOmniUnits = async () => {
                   var cost, option;
                   if (row.querySelectorAll('td').length > 1) {
                     if (k === 0) {
-                      cost = column.textContent.trim();
+                      cost = parseInt(column.textContent.trim());
                     } else {
                       option = column.textContent.trim();
                     }
