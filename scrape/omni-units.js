@@ -85,7 +85,12 @@ const updateOmniUnits = async () => {
                 return !this.has(key) && this.add(key);
               }, new Set);
 
-              filteredSP.push({ title, analysis });
+              var initialValue = 0;
+              var total = filteredSP.reduce((accumulator, currentValue) => {
+                return accumulator + currentValue.cost;
+              }, initialValue);
+
+              filteredSP.push({ title, analysis, total });
               spRecommendation.push(filteredSP);
               unit.spRecommendation = spRecommendation;
 
