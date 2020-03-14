@@ -39784,13 +39784,12 @@
         "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/b0/Unit_ills_thum_860258.png/revision/latest?cb=20161201080056",
         "element": "Dark",
         "rarity": "Omni Evolution Rarity",
-        "cost": " 47",
+        "cost": " 54",
         "dataID": "860258",
         "gender": "Female Unit",
         "maxLevel": "150",
         "arenaType": "3",
         "colosseumLegality": [
-            "Gladiator Class",
             "Conqueror Class",
             "Hero Class"
         ],
@@ -46065,6 +46064,23 @@
             "Hero Class"
         ],
         "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/21/Unit_ills_full_750317.png/revision/latest?cb=20200214061325"
+    },
+    {
+        "id": "8602",
+        "name": "Orthian Champion Avyn",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Orthian_Champion_Avyn",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/c7/Unit_ills_thum_850798.png/revision/latest?cb=20200311081512",
+        "element": "Light",
+        "rarity": "Omni Evolution Rarity",
+        "cost": " 60",
+        "dataID": "850798",
+        "gender": "Female Unit",
+        "maxLevel": "150",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/05/Unit_ills_full_850798.png/revision/latest?cb=20200311081320"
     },
     {
         "id": "9997",
