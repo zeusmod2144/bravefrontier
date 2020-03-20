@@ -46083,6 +46083,41 @@
         "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/05/Unit_ills_full_850798.png/revision/latest?cb=20200311081320"
     },
     {
+        "id": "8603",
+        "name": "Ukie",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Ukie",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/91/Unit_ills_thum_840827.png/revision/latest?cb=20200318064904",
+        "element": "Thunder",
+        "rarity": "Omni Evolution Rarity",
+        "cost": " 52",
+        "dataID": "840827",
+        "gender": "Female Unit",
+        "maxLevel": "120",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/85/Unit_ills_full_840827.png/revision/latest?cb=20200318061517"
+    },
+    {
+        "id": "8604",
+        "name": "Sagacious Mantra Ukie",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sagacious_Mantra_Ukie",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/12/Unit_ills_thum_840828.png/revision/latest?cb=20200318061517",
+        "element": "Thunder",
+        "rarity": "Omni Evolution Rarity",
+        "cost": " 60",
+        "dataID": "840828",
+        "gender": "Female Unit",
+        "maxLevel": "150",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/2a/Unit_ills_full_840828.png/revision/latest?cb=20200318061518"
+    },
+    {
         "id": "9997",
         "name": "Rainbow Crystal",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Rainbow_Crystal",
