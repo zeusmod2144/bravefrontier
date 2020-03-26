@@ -46118,6 +46118,23 @@
         "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/2/2a/Unit_ills_full_840828.png/revision/latest?cb=20200318061518"
     },
     {
+        "id": "8605",
+        "name": "Jade Edge Sasha",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Jade_Edge_Sasha",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/3c/Unit_ills_thum_830858.png/revision/latest?cb=20200325062752",
+        "element": "Earth",
+        "rarity": "Omni Evolution Rarity",
+        "cost": " 60",
+        "dataID": "830858",
+        "gender": "Female Unit",
+        "maxLevel": "150",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/8/80/Unit_ills_full_830858.png/revision/latest?cb=20200325062719"
+    },
+    {
         "id": "9997",
         "name": "Rainbow Crystal",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Rainbow_Crystal",
