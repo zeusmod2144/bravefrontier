@@ -46151,6 +46151,163 @@
         "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/44/Unit_ills_full_810858.png/revision/latest?cb=20200401060707"
     },
     {
+        "id": "8607",
+        "name": "Seiðkona Aoife",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Sei%C3%B0kona_Aoife",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e1/Unit_ills_thum_820798.png/revision/latest?cb=20200408062938",
+        "element": "Water",
+        "rarity": "Omni Evolution Rarity",
+        "cost": " 60",
+        "dataID": "820798",
+        "gender": "Female Unit",
+        "maxLevel": "150",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/0e/Unit_ills_full_820798.png/revision/latest?cb=20200408062937"
+    },
+    {
+        "id": "9992",
+        "name": "Random Mystery Frog",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Random_Mystery_Frog",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/98/Unit_ills_thum_730302.png/revision/latest?cb=20200409172059",
+        "element": "Earth",
+        "rarity": "4★ Rarity (Unit)",
+        "cost": " 5",
+        "dataID": "730302",
+        "gender": "Genderless Unit",
+        "maxLevel": "1",
+        "arenaType": "3",
+        "colosseumLegality": [
+            "Warrior Class",
+            "Gladiator Class",
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/4f/Unit_ills_full_730302.png/revision/latest?cb=20200409172045"
+    },
+    {
+        "id": "9993",
+        "name": "Lord Mystery Frog",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Lord_Mystery_Frog",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/6d/Unit_ills_thum_730312.png/revision/latest?cb=20200409172058",
+        "element": "Earth",
+        "rarity": "4★ Rarity (Unit)",
+        "cost": " 5",
+        "dataID": "730312",
+        "gender": "Genderless Unit",
+        "maxLevel": "1",
+        "arenaType": "3",
+        "colosseumLegality": [
+            "Warrior Class",
+            "Gladiator Class",
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/ec/Unit_ills_full_730312.png/revision/latest?cb=20200409172048"
+    },
+    {
+        "id": "9994",
+        "name": "Anima Mystery Frog",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Anima_Mystery_Frog",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/68/Unit_ills_thum_730322.png/revision/latest?cb=20200409172057",
+        "element": "Earth",
+        "rarity": "4★ Rarity (Unit)",
+        "cost": " 5",
+        "dataID": "730322",
+        "gender": "Genderless Unit",
+        "maxLevel": "1",
+        "arenaType": "3",
+        "colosseumLegality": [
+            "Warrior Class",
+            "Gladiator Class",
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/d1/Unit_ills_full_730322.png/revision/latest?cb=20200409172049"
+    },
+    {
+        "id": "9995",
+        "name": "Breaker Mystery Frog",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Breaker_Mystery_Frog",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/15/Unit_ills_thum_730332.png/revision/latest?cb=20200409172056",
+        "element": "Earth",
+        "rarity": "4★ Rarity (Unit)",
+        "cost": " 5",
+        "dataID": "730332",
+        "gender": "Genderless Unit",
+        "maxLevel": "1",
+        "arenaType": "3",
+        "colosseumLegality": [
+            "Warrior Class",
+            "Gladiator Class",
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e3/Unit_ills_full_730332.png/revision/latest?cb=20200409172051"
+    },
+    {
+        "id": "9996",
+        "name": "Guardian Mystery Frog",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Guardian_Mystery_Frog",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/31/Unit_ills_thum_730342.png/revision/latest?cb=20200409172056",
+        "element": "Earth",
+        "rarity": "4★ Rarity (Unit)",
+        "cost": " 5",
+        "dataID": "730342",
+        "gender": "Genderless Unit",
+        "maxLevel": "1",
+        "arenaType": "3",
+        "colosseumLegality": [
+            "Warrior Class",
+            "Gladiator Class",
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/9f/Unit_ills_full_730342.png/revision/latest?cb=20200409172053"
+    },
+    {
+        "id": "9997",
+        "name": "Oracle Mystery Frog",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Oracle_Mystery_Frog",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/5d/Unit_ills_thum_730352.png/revision/latest?cb=20200409172055",
+        "element": "Earth",
+        "rarity": "4★ Rarity (Unit)",
+        "cost": " 5",
+        "dataID": "730352",
+        "gender": "Genderless Unit",
+        "maxLevel": "1",
+        "arenaType": "3",
+        "colosseumLegality": [
+            "Warrior Class",
+            "Gladiator Class",
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/73/Unit_ills_full_730352.png/revision/latest?cb=20200409172053"
+    },
+    {
+        "id": "9998",
+        "name": "Rex Mystery Frog",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Rex_Mystery_Frog",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/fb/Unit_ills_thum_730362.png/revision/latest?cb=20200409172055",
+        "element": "Earth",
+        "rarity": "4★ Rarity (Unit)",
+        "cost": " 5",
+        "dataID": "730362",
+        "gender": "Genderless Unit",
+        "maxLevel": "1",
+        "arenaType": "3",
+        "colosseumLegality": [
+            "Warrior Class",
+            "Gladiator Class",
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/51/Unit_ills_full_730362.png/revision/latest?cb=20200409172054"
+    },
+    {
         "id": "9997",
         "name": "Rainbow Crystal",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Rainbow_Crystal",
