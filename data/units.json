@@ -46168,7 +46168,77 @@
         "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/0e/Unit_ills_full_820798.png/revision/latest?cb=20200408062937"
     },
     {
-        "id": "9992",
+        "id": "8608",
+        "name": "Vash the Stampede (7★)",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Vash_the_Stampede_(7%E2%98%85)",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/ec/Unit_ills_thum_840867.png/revision/latest?cb=20200415100205",
+        "element": "Thunder",
+        "rarity": "7★ Rarity (Unit)",
+        "cost": " 52",
+        "dataID": "840867",
+        "gender": "Male Unit",
+        "maxLevel": "120",
+        "arenaType": "4",
+        "colosseumLegality": [
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/a/a3/Unit_ills_full_840867.png/revision/latest?cb=20200415100205"
+    },
+    {
+        "id": "8609",
+        "name": "Vash the Stampede (Omni)",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Vash_the_Stampede_(Omni)",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/c/c3/Unit_ills_thum_840868.png/revision/latest?cb=20200415100205",
+        "element": "Thunder",
+        "rarity": "Omni Evolution Rarity",
+        "cost": " 60",
+        "dataID": "840868",
+        "gender": "Male Unit",
+        "maxLevel": "150",
+        "arenaType": "4",
+        "colosseumLegality": [
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/97/Unit_ills_full_840868.png/revision/latest?cb=20200415100204"
+    },
+    {
+        "id": "8610",
+        "name": "Meryl & Milly (7★)",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Meryl_%26_Milly_(7%E2%98%85)",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/01/Unit_ills_thum_820867.png/revision/latest?cb=20200415083045",
+        "element": "Water",
+        "rarity": "7★ Rarity (Unit)",
+        "cost": " 52",
+        "dataID": "820867",
+        "gender": "Female Unit",
+        "maxLevel": "120",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/58/Unit_ills_full_820867.png/revision/latest?cb=20200415083048"
+    },
+    {
+        "id": "8611",
+        "name": "Meryl & Milly (Omni)",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Meryl_%26_Milly_(Omni)",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/54/Unit_ills_thum_820868.png/revision/latest?cb=20200415083046",
+        "element": "Water",
+        "rarity": "Omni Evolution Rarity",
+        "cost": " 60",
+        "dataID": "820868",
+        "gender": "Female Unit",
+        "maxLevel": "150",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/fa/Unit_ills_full_820868.png/revision/latest?cb=20200415083049"
+    },
+    {
+        "id": "9990",
         "name": "Random Mystery Frog",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Random_Mystery_Frog",
         "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/98/Unit_ills_thum_730302.png/revision/latest?cb=20200409172059",
@@ -46188,7 +46258,7 @@
         "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/4f/Unit_ills_full_730302.png/revision/latest?cb=20200409172045"
     },
     {
-        "id": "9993",
+        "id": "9991",
         "name": "Lord Mystery Frog",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Lord_Mystery_Frog",
         "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/6d/Unit_ills_thum_730312.png/revision/latest?cb=20200409172058",
@@ -46208,7 +46278,7 @@
         "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/ec/Unit_ills_full_730312.png/revision/latest?cb=20200409172048"
     },
     {
-        "id": "9994",
+        "id": "9992",
         "name": "Anima Mystery Frog",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Anima_Mystery_Frog",
         "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/6/68/Unit_ills_thum_730322.png/revision/latest?cb=20200409172057",
@@ -46228,7 +46298,7 @@
         "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/d/d1/Unit_ills_full_730322.png/revision/latest?cb=20200409172049"
     },
     {
-        "id": "9995",
+        "id": "9993",
         "name": "Breaker Mystery Frog",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Breaker_Mystery_Frog",
         "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/15/Unit_ills_thum_730332.png/revision/latest?cb=20200409172056",
@@ -46248,7 +46318,7 @@
         "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/e/e3/Unit_ills_full_730332.png/revision/latest?cb=20200409172051"
     },
     {
-        "id": "9996",
+        "id": "9994",
         "name": "Guardian Mystery Frog",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Guardian_Mystery_Frog",
         "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/31/Unit_ills_thum_730342.png/revision/latest?cb=20200409172056",
@@ -46268,7 +46338,7 @@
         "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/9f/Unit_ills_full_730342.png/revision/latest?cb=20200409172053"
     },
     {
-        "id": "9997",
+        "id": "9995",
         "name": "Oracle Mystery Frog",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Oracle_Mystery_Frog",
         "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/5d/Unit_ills_thum_730352.png/revision/latest?cb=20200409172055",
@@ -46288,7 +46358,7 @@
         "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/7/73/Unit_ills_full_730352.png/revision/latest?cb=20200409172053"
     },
     {
-        "id": "9998",
+        "id": "9996",
         "name": "Rex Mystery Frog",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Rex_Mystery_Frog",
         "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/fb/Unit_ills_thum_730362.png/revision/latest?cb=20200409172055",
