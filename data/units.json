@@ -46238,6 +46238,94 @@
         "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/fa/Unit_ills_full_820868.png/revision/latest?cb=20200415083049"
     },
     {
+        "id": "8612",
+        "name": "Nicholas D. Wolfwood (7★)",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Nicholas_D._Wolfwood_(7%E2%98%85)",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/97/Unit_ills_thum_830867.png/revision/latest?cb=20200422090420",
+        "element": "Earth",
+        "rarity": "7★ Rarity (Unit)",
+        "cost": " 52",
+        "dataID": "830867",
+        "gender": "Male Unit",
+        "maxLevel": "120",
+        "arenaType": "4",
+        "colosseumLegality": [
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/4/44/Unit_ills_full_830867.png/revision/latest?cb=20200422090420"
+    },
+    {
+        "id": "8613",
+        "name": "Nicholas D. Wolfwood (Omni)",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Nicholas_D._Wolfwood_(Omni)",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/b/be/Unit_ills_thum_830868.png/revision/latest?cb=20200422090421",
+        "element": "Earth",
+        "rarity": "Omni Evolution Rarity",
+        "cost": " 60",
+        "dataID": "830868",
+        "gender": "Male Unit",
+        "maxLevel": "150",
+        "arenaType": "4",
+        "colosseumLegality": [
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/94/Unit_ills_full_830868.png/revision/latest?cb=20200422090420"
+    },
+    {
+        "id": "8614",
+        "name": "Legato Bluesummers (7★)",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Legato_Bluesummers_(7%E2%98%85)",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/f9/Unit_ills_thum_860867.png/revision/latest?cb=20200422083055",
+        "element": "Dark",
+        "rarity": "7★ Rarity (Unit)",
+        "cost": " 52",
+        "dataID": "860867",
+        "gender": "Male Unit",
+        "maxLevel": "120",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/92/Unit_ills_full_860867.png/revision/latest?cb=20200422083054"
+    },
+    {
+        "id": "8615",
+        "name": "Legato Bluesummers (Omni)",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Legato_Bluesummers_(Omni)",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/9/9d/Unit_ills_thum_860868.png/revision/latest?cb=20200422083054",
+        "element": "Dark",
+        "rarity": "Omni Evolution Rarity",
+        "cost": " 60",
+        "dataID": "860868",
+        "gender": "Male Unit",
+        "maxLevel": "150",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/f/f5/Unit_ills_full_860868.png/revision/latest?cb=20200422083053"
+    },
+    {
+        "id": "8616",
+        "name": "Millions Knives",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Millions_Knives",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/19/Unit_ills_thum_840878.png/revision/latest?cb=20200422071531",
+        "element": "Thunder",
+        "rarity": "Omni Evolution Rarity",
+        "cost": " 54",
+        "dataID": "840878",
+        "gender": "Male Unit",
+        "maxLevel": "150",
+        "arenaType": "4",
+        "colosseumLegality": [
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/32/Unit_ills_full_840878.png/revision/latest?cb=20200422071532"
+    },
+    {
         "id": "9990",
         "name": "Random Mystery Frog",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Random_Mystery_Frog",
