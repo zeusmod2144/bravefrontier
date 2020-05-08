@@ -47535,6 +47535,23 @@
         "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/32/Unit_ills_full_840878.png/revision/latest?cb=20200422071532"
     },
     {
+        "id": "8617",
+        "name": "Silver Knight Joshua",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Silver_Knight_Joshua",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/0/01/Unit_ills_thum_850858.png/revision/latest?cb=20200506094522",
+        "element": "Light",
+        "rarity": "Omni Evolution Rarity",
+        "cost": " 60",
+        "dataID": "850858",
+        "gender": "Male Unit",
+        "maxLevel": "150",
+        "arenaType": "2",
+        "colosseumLegality": [
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/1e/Unit_ills_full_850858.png/revision/latest?cb=20200506094512"
+    },
+    {
         "id": "9990",
         "name": "Random Mystery Frog",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Random_Mystery_Frog",
