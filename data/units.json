@@ -47552,6 +47552,24 @@
         "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/1/1e/Unit_ills_full_850858.png/revision/latest?cb=20200506094512"
     },
     {
+        "id": "8618",
+        "name": "Deimos the Undaunted",
+        "link": "https://bravefrontierglobal.fandom.com/wiki/Deimos_the_Undaunted",
+        "thumbnail": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/5/54/Unit_ills_thum_840258.png/revision/latest?cb=20200513063243",
+        "element": "Thunder",
+        "rarity": "Omni Evolution Rarity",
+        "cost": " 54",
+        "dataID": "840258",
+        "gender": "Male Unit",
+        "maxLevel": "150",
+        "arenaType": "11",
+        "colosseumLegality": [
+            "Conqueror Class",
+            "Hero Class"
+        ],
+        "artwork": "https://vignette.wikia.nocookie.net/bravefrontierglobal/images/3/30/Unit_ills_full_840258.png/revision/latest?cb=20200513063243"
+    },
+    {
         "id": "9990",
         "name": "Random Mystery Frog",
         "link": "https://bravefrontierglobal.fandom.com/wiki/Random_Mystery_Frog",
