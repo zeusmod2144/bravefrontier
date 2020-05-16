@@ -6,6 +6,7 @@ const { performance } = require('perf_hooks');
 const jsdom = require('jsdom');
 const { JSDOM } = jsdom;
 const fsPromises = require('fs').promises;
+const milisConverter = require('../utils/milis_converter.js');
 
 
 const baseFile = path.join(__dirname, '..', 'data', 'units.json');
@@ -123,13 +124,7 @@ const updateOmniUnits = async () => {
   });
 
   const t1 = performance.now();
-  console.log(chalk.yellow.bgBlue(`\n Process took: ${millisToMinutesAndSeconds(t1 - t0)}. \n`));
-}
-
-function millisToMinutesAndSeconds(millis) {
-  var minutes = Math.floor(millis / 60000);
-  var seconds = ((millis % 60000) / 1000).toFixed(0);
-  return `${(seconds == 60 ? (minutes + 1) : minutes)} ${(minutes > 1) ? "minutes" : "minute"} and ${(seconds < 10 ? "0" : seconds)} ${(seconds > 1 ? "seconds" : "second")}`;
+  console.log(chalk.yellow.bgBlue(`\n Process took: ${milisConverter.toMinutesAndSeconds(t1 - t0)}. \n`));
 }
 
 updateOmniUnits();
