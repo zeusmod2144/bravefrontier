@@ -19,4 +19,3 @@ Previously, I would like to use awesome technology like Puppeteer for scraping. 
 - Install dependencies with `npm ci`
 - To run scrape list of units: `npm run scrape-units`
 - To run scrape list of omni units: `npm run scrape-omni-units`
-- To run scrape list of spheres: `npm run scrape-spheres`
