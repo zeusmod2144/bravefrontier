@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "scrape-units": "node lib/units.js",
-    "scrape-omni-units": "node lib/omni_units.js"
+    "scrape-omni-units": "node lib/omni_units.js",
+    "store-omni-units": "node lib/store_omni_units.js"
   },
   "repository": {
     "type": "git",

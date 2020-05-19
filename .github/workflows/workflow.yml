@@ -19,9 +19,11 @@ jobs:
     - name: Install dependecies
       run: npm ci
     - name: Scrape omni units
+      run: npm run scrape-omni-units
+    - name: Store omni units to nosql
       env:
         MONGO_URL: ${{ secrets.MONGO_URL }}
-      run: npm run scrape-omni-units
+      run: npm run store-omni-units
     - name: Commit files
       run: |
         git config --local user.email ${{ secrets.MY_EMAIL }}
