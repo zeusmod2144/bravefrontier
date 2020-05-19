@@ -19,6 +19,8 @@ jobs:
     - name: Install dependecies
       run: npm ci
     - name: Scrape omni units
+      env:
+        MONGO_URL: ${{ secrets.MONGO_URL }}
       run: npm run scrape-omni-units
     - name: Commit files
       run: |
