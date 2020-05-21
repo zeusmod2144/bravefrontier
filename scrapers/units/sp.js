@@ -73,8 +73,7 @@ module.exports = async (omniUnits) => {
                                 return accumulator + currentValue.cost;
                             }, initialValue);
 
-                            filteredSP.push({ title, analysis, total });
-                            spRecommendation.push(filteredSP);
+                            spRecommendation.push({ title, analysis, total, list: filteredSP });
                             unit.spRecommendation = spRecommendation;
                         }
                     }
