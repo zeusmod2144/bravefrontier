@@ -18,8 +18,8 @@ jobs:
         node-version: '>=12.14.1'
     - name: Install dependecies
       run: npm ci
-    - name: Scrape omni units
-      run: npm run scrape:omniunits
+    - name: Store scraping omni units into raw file
+      run: npm run omniunits:raw
     - name: Commit files
       run: |
         git config --local user.email ${{ secrets.MY_EMAIL }}
