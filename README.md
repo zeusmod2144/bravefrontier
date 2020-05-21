@@ -4,7 +4,7 @@ Brave Frontier is a RPG (Role Playing Game) that available in a smartphone like 
 
 ## What data you scrape?
 
-I scrape list of omni units with their recommended SP.
+I scrape list of omni units with their recommended SP and store in [a JSON raw file](./data/omniunits.json).
 
 ## Tech Stack
 
@@ -15,4 +15,4 @@ Previously, I would like to use [Puppeteer](https://pptr.dev/) for scraping. But
 **Note: this project requires Node JS version at least 12.14.1 or more.**
 - Clone this project
 - Install dependencies with `npm ci`
-- To run scrape list of omni units: `npm run scrape-omni-units`
+- To run scrape list of omni units: `npm run omniunits:raw`
