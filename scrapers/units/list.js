@@ -119,4 +119,4 @@ async function collectUnits() {
     return filteredUnits;
 }
 
-exports.collectUnits = collectUnits;
+module.exports = collectUnits;

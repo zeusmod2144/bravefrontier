@@ -10,7 +10,7 @@ const getUnitSP = link => {
     });
 }
 
-exports.scrape = async (omniUnits) => {
+module.exports = async (omniUnits) => {
     try {
         for (const unit of omniUnits) {
             console.log(`${unit.id}. ${unit.name}: start`);

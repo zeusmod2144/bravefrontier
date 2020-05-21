@@ -13,7 +13,7 @@ const getUnitBio = (unitLink) => {
     })
 }
 
-exports.scrape = async (units, additional = false) => {
+module.exports = async (units, additional = false) => {
     try {
         for (const unit of units) {
             console.log(`${unit.id}. ${unit.name}: start`);
