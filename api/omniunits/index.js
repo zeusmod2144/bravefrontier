@@ -1,6 +1,6 @@
 const fsPromises = require('fs').promises;
 const { join } = require('path');
-const file = join(__dirname, '..', 'src', 'omniunits', 'data.json');
+const file = join(__dirname, '..', '..', 'src', 'omniunits', 'data.json');
 
 module.exports = async (req, res) => {
     const text = await fsPromises.readFile(file, 'utf8');
