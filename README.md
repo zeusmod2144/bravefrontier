@@ -1,10 +1,12 @@
-# Scraping Brave Frontier
+# Brave Frontier Scraper and API
+
+## About
 
 Brave Frontier is a RPG (Role Playing Game) that available in a smartphone like Android, iOS, Amazon. I love this game since 2015, take a break at 2016 and come back at 2019. For me, this game is awesome.
 
 ## What data you scrape?
 
-I scrape list of omni units with their recommended SP and store in [a JSON raw file](./data/omniunits.json).
+I scrape list of omni units with their recommended SP and store in [a JSON raw file](./omniunits/data.json).
 
 ## Tech Stack
 
