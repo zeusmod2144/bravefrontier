@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "omniunits:raw": "node omniunits/raw.js",
-    "build:lambda": "netlify-lambda build functions"
+    "omniunits:raw": "node src/omniunits/raw.js"
   },
   "repository": {
     "type": "git",
