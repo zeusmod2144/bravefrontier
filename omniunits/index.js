@@ -1,6 +1,6 @@
-const collectUnits = require('../scrapers/units/list.js');
-const unitProfiles = require('../scrapers/units/profile.js');
-const spUnits = require('../scrapers/units/sp.js');
+const collectUnits = require('../units/index.js');
+const unitProfiles = require('../units/scrapers/profile.js');
+const spUnits = require('./scrapers/sp.js');
 
 module.exports = async () => {
     try {
