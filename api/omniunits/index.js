@@ -16,11 +16,11 @@ module.exports = async (req, res) => {
 
     if (name && element) {
         result = omniUnits.filter(unit => {
-            return unit.name.includes(name) && unit.element === capitalizeFirstLetter(element);
+            return unit.name.includes(capitalizeFirstLetter(name)) && unit.element === capitalizeFirstLetter(element);
         });
     } else if (name)  {
         result = omniUnits.filter(unit => {
-            return unit.name === name;
+            return unit.name.includes(capitalizeFirstLetter(name));
         });
     } else if (element) {
         result = omniUnits.filter(unit => {
