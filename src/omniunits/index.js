@@ -1,6 +1,7 @@
 const collectUnits = require('../units/index.js');
 const unitProfiles = require('../units/scrapers/profile.js');
 const spUnits = require('./scrapers/sp.js');
+const { isJapaneseAndChineseChars } = require('../helpers/charschecker.js');
 
 module.exports = async () => {
     try {
@@ -19,10 +20,12 @@ module.exports = async () => {
         await spUnits(omniUnits);
 
         omniUnits = omniUnits.filter(unit => {
-            // Remove unit rarity and link because I don't need it
-            delete unit.link;
-            delete unit.rarity;
-            return unit;
+            if (!isJapaneseAndChineseChars(unit.name)) {
+                // Remove unit rarity and link because I don't need it
+                delete unit.link;
+                delete unit.rarity;
+                return unit;
+            }
         });
 
         return omniUnits;
