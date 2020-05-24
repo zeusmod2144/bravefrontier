@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "omniunits:raw": "node src/omniunits/raw.js"
+    "omniunits:raw": "node src/omniunits/raw.js",
+    "omniunits:artworks": "node src/omniunits/download_artworks.js && node src/omniunits/build_artworks.js"
   },
   "repository": {
     "type": "git",

@@ -20,6 +20,8 @@ jobs:
       run: npm ci
     - name: Store scraping omni units into raw file
       run: npm run omniunits:raw
+    - name: Download unit artworks
+      run: npm run omniunits:artworks
     - name: Commit files
       run: |
         git config --local user.email ${{ secrets.MY_EMAIL }}
