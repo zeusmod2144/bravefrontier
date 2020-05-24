@@ -22,7 +22,10 @@
     "axios": "^0.19.2",
     "chalk": "^4.0.0",
     "cheerio": "^1.0.0-rc.3",
-    "jsdom": "^16.2.2"
+    "imagemin": "^7.0.1",
+    "imagemin-mozjpeg": "^8.0.0",
+    "jsdom": "^16.2.2",
+    "sharp": "^0.25.3"
   },
   "engines": {
     "node": ">=12.14.1"
