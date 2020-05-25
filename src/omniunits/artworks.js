@@ -1,9 +1,12 @@
 const axios = require('axios');
 const fs = require('fs');
 const fsPromises = fs.promises;
-const { join } = require('path');
 const sharp = require('sharp');
+const { join } = require('path');
+const imagemin = require('imagemin');
+const mozjpeg = require('imagemin-mozjpeg');
 const omniUnitsFile = join(__dirname, '..', '..', 'src', 'omniunits', 'data.json');
+const { bytesToSize } = require('../helper.js');
 
 const downloadFile = (link) => {
     return new Promise((resolve, reject) => {
@@ -35,9 +38,17 @@ const downloadFile = (link) => {
               .jpeg()
               .toFile(`src/omniunits/tmp/artworks/${omniUnit.id}.jpg`)
             );
-            // const file = await sharp(data).jpeg().toFile(`src/omniunits/tmp/artworks/${omniUnit.id}.jpg`);
-            console.log(`${omniUnit.id}. ${omniUnit.name} downloaded. Size: ${resizeFileByHalf.size} bytes`);
+            console.log(`${omniUnit.id}. ${omniUnit.name} downloaded. Size: ${bytesToSize(resizeFileByHalf.size)}`);
         }
+
+        const files = await imagemin(['src/omniunits/tmp/artworks/*.{jpg,png}'], {
+            destination: 'src/omniunits/artworks',
+            plugins: [
+                mozjpeg({ quality: 75 })
+            ]
+        });
+    
+        console.log(`${files.length} files has been compressed`);
     } catch (error) {
         console.log(error);
     }
