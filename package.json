@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "omniunits:raw": "node src/omniunits/raw.js",
-    "omniunits:artworks": "node src/omniunits/artworks.js"
+    "omniunits:artworks": "node src/omniunits/artworks.js",
+    "omniunits:thumbnails": "node src/omniunits/thumbnails.js"
   },
   "repository": {
     "type": "git",
