@@ -22,6 +22,8 @@ jobs:
       run: npm run omniunits:raw
     - name: Download unit artworks
       run: npm run omniunits:artworks
+    - name: Download unit thumbnails
+      run: npm run omniunits:thumbnails
     - name: Commit files
       run: |
         git config --local user.email ${{ secrets.MY_EMAIL }}
