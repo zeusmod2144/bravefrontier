@@ -24,13 +24,6 @@ jobs:
       run: npm run omniunits:artworks
     - name: Download unit thumbnails
       run: npm run omniunits:thumbnails
-    - name: Deploy to vercel
-      uses: amondnet/vercel-action@v19
-      with:
-        vercel-token: ${{ secrets.VERCEL_TOKEN }}
-        github-token: ${{ secrets.GITHUB_TOKEN }}
-        vercel-org-id: ${{ secrets.ORG_ID}}
-        vercel-project-id: ${{ secrets.PROJECT_ID}}
     - name: Commit files
       run: |
         git config --local user.email ${{ secrets.MY_EMAIL }}

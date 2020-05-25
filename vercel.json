@@ -1,8 +1,4 @@
 {
-    "public": false,
-    "github":{
-        "enabled": false
-    },
     "headers": [
         {
             "source": "/(.*)",
