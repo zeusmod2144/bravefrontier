@@ -34,18 +34,14 @@ const downloadFile = (link) => {
             const response = await downloadFile(omniUnit.thumbnail);
             const data = await response.data;
             const resizeFileByHalf = await sharp(data)
-            .png()
-            .toFile(`src/omniunits/tmp/thumbnails/${omniUnit.id}.png`);
+            .metadata()
+            .then(({ width, height }) => sharp(data)
+              .resize(Math.round(width * 0.5), Math.round(height * 0.5))
+              .png()
+              .toFile(`src/omniunits/thumbnails/${omniUnit.id}.png`)
+            );
             console.log(`${omniUnit.id}. ${omniUnit.name} downloaded. Size: ${bytesToSize(resizeFileByHalf.size)}`);
         }
-
-        // Reduce png size with pngquant
-        await imagemin(['src/omniunits/tmp/thumbnails/*.png'], {
-            destination: 'src/omniunits/thumbnails',
-            plugins: [
-                imageminPngquant()
-            ]
-        });
 
         // Convert to webp
         await imagemin(['src/omniunits/thumbnails/*.png'], {
