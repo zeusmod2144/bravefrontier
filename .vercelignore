@@ -1,5 +1,8 @@
 # Ignore everything (folders and files) on root only
-/*
+/src/omniunits/artworks/*.webp
+/src/omniunits/artworks/*.png
+/src/omniunits/thumbnails/*.webp
+/src/omniunits/thumbnails/*.png
 !api
 !vercel.json
 !*.html
