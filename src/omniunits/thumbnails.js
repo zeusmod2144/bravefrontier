@@ -34,12 +34,8 @@ const downloadFile = (link) => {
             const response = await downloadFile(omniUnit.thumbnail);
             const data = await response.data;
             const resizeFileByHalf = await sharp(data)
-            .metadata()
-            .then(({ width, height }) => sharp(data)
-              .resize(Math.round(width * 0.3), Math.round(height * 0.3))
-              .png()
-              .toFile(`src/omniunits/tmp/thumbnails/${omniUnit.id}.png`)
-            );
+            .png()
+            .toFile(`src/omniunits/tmp/thumbnails/${omniUnit.id}.png`);
             console.log(`${omniUnit.id}. ${omniUnit.name} downloaded. Size: ${bytesToSize(resizeFileByHalf.size)}`);
         }
 
