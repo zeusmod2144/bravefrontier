@@ -8,8 +8,6 @@ module.exports = async (req, res) => {
     const text = await fsPromises.readFile(file, 'utf8');
     const omniUnits = JSON.parse(text);
     for (const omniUnit of omniUnits) {
-        delete omniUnit.id;
-        delete omniUnit.artwork;
         delete omniUnit.spRecommendation;
     }
     let result = omniUnits;
