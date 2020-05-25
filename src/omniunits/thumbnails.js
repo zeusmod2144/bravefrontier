@@ -4,8 +4,10 @@ const fsPromises = fs.promises;
 const sharp = require('sharp');
 const { join } = require('path');
 const imagemin = require('imagemin');
-const mozjpeg = require('imagemin-mozjpeg');
-const omniUnitsFile = join(__dirname, '..', '..', 'src', 'omniunits', 'data.json');
+const imageminPngquant = require('imagemin-pngquant');
+const imageminWebp = require('imagemin-webp');
+
+const omniUnitsFile = join(__dirname, 'raw.json');
 const { bytesToSize } = require('../helper.js');
 
 const downloadFile = (link) => {
@@ -31,20 +33,33 @@ const downloadFile = (link) => {
         for (const omniUnit of omniUnits) {
             const response = await downloadFile(omniUnit.thumbnail);
             const data = await response.data;
-            const file = await sharp(data)
-            .jpeg()
-            .toFile(`src/omniunits/tmp/thumbnails/${omniUnit.id}.jpg`);
-            console.log(`${omniUnit.id}. ${omniUnit.name} downloaded. Size: ${bytesToSize(file.size)}`);
+            const resizeFileByHalf = await sharp(data)
+            .metadata()
+            .then(({ width, height }) => sharp(data)
+              .resize(Math.round(width * 0.3), Math.round(height * 0.3))
+              .png()
+              .toFile(`src/omniunits/tmp/thumbnails/${omniUnit.id}.png`)
+            );
+            console.log(`${omniUnit.id}. ${omniUnit.name} downloaded. Size: ${bytesToSize(resizeFileByHalf.size)}`);
         }
 
-        const files = await imagemin(['src/omniunits/tmp/thumbnails/*.{jpg,png}'], {
+        // Reduce png size with pngquant
+        await imagemin(['src/omniunits/tmp/thumbnails/*.png'], {
             destination: 'src/omniunits/thumbnails',
             plugins: [
-                mozjpeg({ quality: 75 })
+                imageminPngquant()
             ]
         });
-    
-        console.log(`${files.length} files has been compressed`);
+
+        // Convert to webp
+        await imagemin(['src/omniunits/thumbnails/*.png'], {
+            destination: 'src/omniunits/thumbnails',
+            plugins: [
+                imageminWebp({quality: 50})
+            ]
+        });
+
+        console.log('Compression thumbnail units success!');
     } catch (error) {
         console.log(error);
     }
