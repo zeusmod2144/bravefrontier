@@ -5,7 +5,7 @@ const { performance } = require('perf_hooks');
 
 const getOmniUnits = require('./index.js');
 const outputFile = path.join(__dirname, 'data.json');
-const milisConverter = require('../helpers/milisconverter.js');
+const { milisConverter } = require('../helper.js');
 
 (async () => {
     const t0 = performance.now();

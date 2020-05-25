@@ -1,7 +1,7 @@
 const collectUnits = require('../units/index.js');
 const unitProfiles = require('../units/scrapers/profile.js');
 const spUnits = require('./scrapers/sp.js');
-const { isJapaneseAndChineseChars } = require('../helpers/charschecker.js');
+const { isJapaneseAndChineseChars } = require('../helper.js');
 
 module.exports = async () => {
     try {
