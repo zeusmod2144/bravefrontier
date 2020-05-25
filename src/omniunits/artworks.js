@@ -4,8 +4,10 @@ const fsPromises = fs.promises;
 const sharp = require('sharp');
 const { join } = require('path');
 const imagemin = require('imagemin');
-const mozjpeg = require('imagemin-mozjpeg');
-const omniUnitsFile = join(__dirname, '..', '..', 'src', 'omniunits', 'data.json');
+const imageminPngquant = require('imagemin-pngquant');
+const imageminWebp = require('imagemin-webp');
+
+const omniUnitsFile = join(__dirname, 'raw.json');
 const { bytesToSize } = require('../helper.js');
 
 const downloadFile = (link) => {
@@ -34,21 +36,30 @@ const downloadFile = (link) => {
             const resizeFileByHalf = await sharp(data)
             .metadata()
             .then(({ width, height }) => sharp(data)
-              .resize(Math.round(width * 0.5), Math.round(height * 0.5))
-              .jpeg()
-              .toFile(`src/omniunits/tmp/artworks/${omniUnit.id}.jpg`)
+              .resize(Math.round(width * 0.3), Math.round(height * 0.3))
+              .png()
+              .toFile(`src/omniunits/tmp/artworks/${omniUnit.id}.png`)
             );
             console.log(`${omniUnit.id}. ${omniUnit.name} downloaded. Size: ${bytesToSize(resizeFileByHalf.size)}`);
         }
 
-        const files = await imagemin(['src/omniunits/tmp/artworks/*.{jpg,png}'], {
+        // Reduce png size with pngquant
+        await imagemin(['src/omniunits/tmp/artworks/*.png'], {
             destination: 'src/omniunits/artworks',
             plugins: [
-                mozjpeg({ quality: 75 })
+                imageminPngquant()
             ]
         });
-    
-        console.log(`${files.length} files has been compressed`);
+
+        // Convert to webp
+        await imagemin(['src/omniunits/artworks/*.png'], {
+            destination: 'src/omniunits/artworks',
+            plugins: [
+                imageminWebp({quality: 50})
+            ]
+        });
+
+        console.log('Compression artwork units success!');
     } catch (error) {
         console.log(error);
     }
