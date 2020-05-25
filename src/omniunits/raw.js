@@ -4,7 +4,7 @@ const chalk = require("chalk");
 const { performance } = require('perf_hooks');
 
 const getOmniUnits = require('./index.js');
-const outputFile = path.join(__dirname, 'data.json');
+const outputFile = path.join(__dirname, 'raw.json');
 const { milisConverter } = require('../helper.js');
 
 (async () => {
