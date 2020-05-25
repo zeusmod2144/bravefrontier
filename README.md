@@ -6,7 +6,7 @@ Brave Frontier is a RPG (Role Playing Game) that available in a smartphone like 
 
 ## What data you scrape?
 
-I scrape list of omni units with their recommended SP and store in [a JSON raw file](./omniunits/data.json).
+I scrape list of omni units with their recommended SP and store in [a JSON raw file](./omniunits/raw.json).
 
 ## Tech Stack
 
