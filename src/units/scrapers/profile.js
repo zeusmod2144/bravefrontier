@@ -51,7 +51,8 @@ module.exports = async (units, additional = false) => {
                 }
 
                 const unitArtwork = $("div.tabbertab center a img").attr('data-src');
-                unit.artwork = unitArtwork.replace('/scale-to-width-down/330', '');
+                // unit.artwork = unitArtwork.replace('/scale-to-width-down/330', '');
+                unit.artwork = unitArtwork;
             });
             console.log(`${unit.id}. ${unit.name}: done`);
         }
