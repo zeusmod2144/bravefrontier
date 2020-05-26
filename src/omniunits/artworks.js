@@ -6,6 +6,7 @@ const { join } = require('path');
 const imagemin = require('imagemin');
 const imageminPngquant = require('imagemin-pngquant');
 const imageminWebp = require('imagemin-webp');
+const del = require('del');
 
 const omniUnitsFile = join(__dirname, 'raw.json');
 const { bytesToSize } = require('../helper.js');
@@ -60,6 +61,8 @@ const downloadFile = (link) => {
         });
 
         console.log('Compression artwork units success!');
+
+        await del('src/omniunits/tmp');
     } catch (error) {
         console.log(error);
     }
