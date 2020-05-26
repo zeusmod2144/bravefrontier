@@ -1,5 +1,7 @@
 # Ignore everything (folders and files) on root only
 .github
+/src/**/*.js
+/src/*.js
 /src/omniunits/artworks/*.webp
 /src/omniunits/artworks/*.png
 /src/omniunits/thumbnails/*.webp
