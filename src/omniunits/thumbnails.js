@@ -4,7 +4,6 @@ const fsPromises = fs.promises;
 const sharp = require('sharp');
 const { join } = require('path');
 const imagemin = require('imagemin');
-const imageminPngquant = require('imagemin-pngquant');
 const imageminWebp = require('imagemin-webp');
 const del = require('del');
 
