@@ -1,4 +1,5 @@
 # Ignore everything (folders and files) on root only
+.github
 /src/omniunits/artworks/*.webp
 /src/omniunits/artworks/*.png
 /src/omniunits/thumbnails/*.webp
