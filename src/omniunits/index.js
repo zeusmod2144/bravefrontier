@@ -8,8 +8,9 @@ module.exports = async () => {
         const units = await collectUnits();
 
         let omniUnits = units.filter(unit => {
-            if (unit.rarity.includes('Omni')) {
-                // Remove unit cost because I don't need it
+            if (unit.rarity.includes('Omni') && !isJapaneseAndChineseChars(unit.name)) {
+                // Remove cost and rarity property because I don't need it
+                delete unit.rarity;
                 delete unit.cost;
                 return unit;
             }
@@ -20,12 +21,9 @@ module.exports = async () => {
         await spUnits(omniUnits);
 
         omniUnits = omniUnits.filter(unit => {
-            if (!isJapaneseAndChineseChars(unit.name)) {
-                // Remove unit rarity and link because I don't need it
-                delete unit.link;
-                delete unit.rarity;
-                return unit;
-            }
+            // Remove link property because I don't need it
+            delete unit.link;
+            return unit;
         });
 
         return omniUnits;
