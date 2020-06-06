@@ -2,7 +2,7 @@
 
 ## About
 
-Brave Frontier is a RPG (Role Playing Game) that available in a smartphone like Android, iOS, Amazon. I love this game since 2015, take a break at 2016 and come back at 2019. For me, this game is awesome.
+Brave Frontier is a RPG (Role Playing Game) that available in a smartphone like Android, iOS, Amazon. I love this game since 2015, take a break at 2016 and come back at 2019. For me, this game is awesome. I create article about this project in bahasa Indonesia: [Membangun Brave Frontier API (Unofficial)](https://www.satyakresna.io/posts/membangun-brave-frontier-api-unofficial/).
 
 ## What data you scrape?
 
@@ -10,7 +10,22 @@ I scrape list of omni units with their recommended SP and store in [a JSON raw f
 
 ## Tech Stack
 
-Previously, I would like to use [Puppeteer](https://pptr.dev/) for scraping. But, [Brave Frontier Fandom's site](https://bravefrontierglobal.fandom.com/wiki/Brave_Frontier_Wiki) is too slow when I scrape using Puppeteer in headless mode. So, I choose [Cheerio](https://cheerio.js.org/) and [JSDOM](https://github.com/jsdom/jsdom) to scraping this site.
+- Axios
+- Cheerio
+- JSDOM
+- Github Actions
+- Vercel
+
+## API Usage
+
+To get list of omni units please go to: https://bravefrontier.satyakresna.io/api/v1/omniunits
+
+To get detail of omni units, you should use `name` of omni unit as path and if space(s) exist in omni unit's name then you should replace them with underscrore (_) and if their name contains `&` then you must use [encodeURIComponent](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent).
+
+Here's is example:
+
+1. Ignis Halcyon Vargas = https://bravefrontier.satyakresna.io/api/v1/omniunits/Ignis_Halcyon_Vargas
+2. Fearless Tate & Tama = https://bravefrontier.satyakresna.io/api/v1/omniunits/Fearless_Tate_%26_Tama (this has been encode).
 
 ## How to run
 
