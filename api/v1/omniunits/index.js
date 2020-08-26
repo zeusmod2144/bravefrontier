@@ -7,8 +7,8 @@ module.exports = async (req, res) => {
     let element = req.query.element;
     const text = await fsPromises.readFile(file, 'utf8');
     const omniUnits = JSON.parse(text);
+    omniUnits.sort((a, b) => parseInt(b.id) - parseInt(a.id));
     for (const omniUnit of omniUnits) {
-        delete omniUnit.id;
         delete omniUnit.artwork;
         delete omniUnit.spRecommendation;
     }
