@@ -19,7 +19,37 @@ module.exports = async (omniUnits) => {
                 var contents = Array.from(document.querySelectorAll('div[style="float:left; width: 640px; margin: 0 0.5em 0 0.5em;"]'));
 
                 // Remove first index of contents
-                contents.shift();
+                var enhancementsTable = contents.shift();
+                var enhancementsBody = enhancementsTable.querySelector('div > table:nth-of-type(2) tbody');
+                var enhancementsRows = Array.from(enhancementsBody.querySelectorAll('tr'));
+
+                // Remove first and second rows
+                enhancementsRows.shift();
+                enhancementsRows.shift();
+
+                var enhancements = [];
+                for (let i = 0; i < enhancementsRows.length; i++) {
+                    var row = enhancementsRows[i];
+                    var columns = row.querySelectorAll('td');
+                    for (let j = 0; j < columns.length; j++) {
+                        var column = columns[j];
+                        var cost, option, detail_option;
+                        if (row.querySelectorAll('td').length > 1) {
+                            if (j === 2) {
+                                cost = parseInt(column.textContent.trim());
+                            }
+
+                            if (j === 3) {
+                                option = column.textContent.trim();
+                                if (column.querySelector('span')) {
+                                    detail_option = column.querySelector('span').textContent.trim();
+                                }
+                            }
+                        }
+                    }
+                    enhancements.push({ cost, option, detail_option });
+                }
+                unit.enhancements = enhancements;
 
                 if (Array.isArray(contents) && contents.length > 0) {
                     var spRecommendation = [];
@@ -79,9 +109,9 @@ module.exports = async (omniUnits) => {
                     }
                 }
             })
-            .catch(error => {
-                console.log(error.response.statusText);
-            })
+                .catch(error => {
+                    console.log(error.response.statusText);
+                })
             console.log(`${unit.id}. ${unit.name}: done`);
         }
     } catch (error) {
