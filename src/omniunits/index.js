@@ -1,5 +1,6 @@
 const collectUnits = require('../units/index.js');
 const unitProfiles = require('../units/scrapers/profile.js');
+const omniUnitProfiles = require('./scrapers/profile.js');
 const spUnits = require('./scrapers/sp.js');
 const { isJapaneseAndChineseChars } = require('../helper.js');
 
@@ -17,7 +18,7 @@ module.exports = async () => {
         });
 
         await unitProfiles(omniUnits);
-
+        await omniUnitProfiles(omniUnits);
         await spUnits(omniUnits);
 
         omniUnits = omniUnits.filter(unit => {

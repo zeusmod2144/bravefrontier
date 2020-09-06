@@ -47,7 +47,7 @@ module.exports = async (units, additional = false) => {
                                 unit.colosseumLegality = colosseumLegality;
                                 break;
                         }
-                    });   
+                    });
                 }
 
                 const unitArtwork = $("div.tabbertab center a img").attr('data-src');
