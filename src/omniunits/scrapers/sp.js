@@ -40,9 +40,9 @@ module.exports = async (omniUnits) => {
                             }
 
                             if (j === 3) {
-                                option = column.textContent.trim();
+                                option = column.childNodes[0].textContent.trim();
                                 if (column.querySelector('span')) {
-                                    detail_option = column.querySelector('span').textContent.trim();
+                                    detail_option = column.childNodes[1].querySelector('span').textContent.trim();
                                 }
                             }
                         }
