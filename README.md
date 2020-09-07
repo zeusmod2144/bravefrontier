@@ -1,5 +1,7 @@
 # Brave Frontier Scraper and API
 
+Unofficial source data of omni units for [BFWIKI website](https://bfwiki.satyakresna.io).
+
 ## About
 
 Brave Frontier is a RPG (Role Playing Game) that available in a smartphone like Android, iOS, Amazon. I love this game since 2015, take a break at 2016 and come back at 2019. For me, this game is awesome. I create article about this project in bahasa Indonesia: [Membangun Brave Frontier API (Unofficial)](https://www.satyakresna.io/posts/membangun-brave-frontier-api-unofficial/).
