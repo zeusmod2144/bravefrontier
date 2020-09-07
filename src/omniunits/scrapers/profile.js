@@ -31,15 +31,15 @@ module.exports = async (units) => {
                 var es = { esName, esDesc };
 
                 var bbName = $skills.querySelectorAll('div[style="border-top:1px solid #ccc; padding:3px 12px;white-space:nowrap;"]')[1].querySelector('i').textContent.trim();
-                var bbDesc = $skills.querySelectorAll('div[style="padding:3px 12px 6px 12px;"]')[1].childNodes[0].textContent.trim();
+                var bbDesc = $skills.querySelectorAll('div[style="padding:3px 12px 6px 12px;"]')[2].childNodes[0].textContent.trim();
                 var bb = { bbName, bbDesc };
 
                 var sbbName = $skills.querySelectorAll('div[style="border-top:1px solid #ccc; padding:3px 12px;white-space:nowrap;"]')[2].querySelector('i').textContent.trim();
-                var sbbDesc = $skills.querySelectorAll('div[style="padding:3px 12px 6px 12px;"]')[2].childNodes[0].textContent.trim();
+                var sbbDesc = $skills.querySelectorAll('div[style="padding:3px 12px 6px 12px;"]')[3].childNodes[0].textContent.trim();
                 var sbb = { sbbName, sbbDesc };
 
                 var ubbName = $skills.querySelectorAll('div[style="border-top:1px solid #ccc; padding:3px 12px;white-space:nowrap;"]')[3].querySelector('i').textContent.trim();
-                var ubbDesc = $skills.querySelectorAll('div[style="padding:3px 12px 6px 12px;"]')[3].childNodes[0].textContent.trim();
+                var ubbDesc = $skills.querySelectorAll('div[style="padding:3px 12px 6px 12px;"]')[4].childNodes[0].textContent.trim();
                 var ubb = { ubbName, ubbDesc };
 
                 var skills = [];
