@@ -26,7 +26,7 @@ module.exports = async (units) => {
                 var lsDesc = $skills.querySelectorAll('div[style="padding:3px 12px 6px 12px;"]')[0].childNodes[0].textContent.trim();
                 var ls = { lsName, lsDesc };
 
-                var esName = $skills.querySelectorAll('div[style="border-top:1px solid #ccc; padding:3px 12px;white-space:nowrap;"]')[0].textContent.replace('Extra Skill:', '').trim();
+                var esName = $skills.querySelectorAll('div[style="border-top:1px solid #ccc; padding:3px 12px;white-space:nowrap;"]')[0].querySelector('b').textContent.replace('Extra Skill:', '').trim();
                 var esDesc = $skills.querySelectorAll('div[style="padding:3px 12px 6px 12px;"]')[1].childNodes[0].textContent.trim();
                 var es = { esName, esDesc };
 
