@@ -1,49 +1,48 @@
-const cheerio = require("cheerio");
+const jsdom = require('jsdom');
+const { JSDOM } = jsdom;
 const chalk = require("chalk");
 const axios = require("axios");
 
 const units = [];
 
-function scrape($) {
-    const rows = $("table.wikitable tbody").first().find("tr");
+function scrape(document) {
+    const rows = Array.from(document.querySelector('table.wikitable tbody').querySelectorAll('tr'));
     let id, name, link, thumbnail, element, rarity, cost;
-    rows.each((i, el) => {
-        const columns = $(el).find($("td"));
-        columns.each((i, el) => {
-            switch (i) {
+    for (let i = 0; i < rows.length; i++) {
+        const columns = rows[i].querySelectorAll('td');
+        for (let j = 0; j < columns.length; j++) {
+            const column = columns[j];
+            switch (j) {
                 case 0:
-                    id = $(el).find("center").text();
+                    id = column.querySelector('center').textContent.trim();
                     break;
                 case 1:
-                    if (typeof $(el).find("a > img").attr("data-src") !== "undefined") {
-                        thumbnail = $(el).find("a > img").attr("data-src");
+                    if (typeof column.querySelector('a > img').getAttribute('data-src') !== undefined) {
+                        thumbnail = column.querySelector('a > img').getAttribute('data-src');
                     } else {
-                        thumbnail = $(el).find("a > img").attr("src");
+                        thumbnail = column.querySelector('a > img').getAttribute('src');
                     }
                     // const findPathThumbnail = "/scale-to-width-down/42";
                     // const regex = new RegExp(findPathThumbnail, 'g');
                     // thumbnail = thumbnail.replace(regex, '');
-                    name = $(el).find("a").last().attr("title");
-                    link = `${rootUrl}${$(el).find("a").last().attr("href")}`;
+                    name = column.querySelectorAll('a')[1].getAttribute('title');
+                    link = `${rootUrl}${column.querySelectorAll('a')[1].getAttribute('href')}`;
                     break;
                 case 2:
-                    const elementAttr = $(el).find("center > a").attr("title");
-                    element = elementAttr.replace('Category:', '');
+                    element = column.querySelector('center > a').getAttribute('title').replace('Category:', '');
                     break;
                 case 3:
-                    const rarityAttr = $(el).find("center > a").attr("title");
-                    rarity = rarityAttr.replace('Category:', '');
+                    rarity = column.querySelector('center > a').getAttribute('title').replace('Category:', '');
                     break;
                 case 4:
-                    const costAttr = $(el).find("center > a").attr("title");
-                    cost = costAttr.replace('Category:Cost', '');
+                    cost = column.querySelector('center > a').getAttribute('title').replace('Category:Cost', '');
                     break;
             }
-        })
+        }
         units.push({
             id, name, link, thumbnail, element, rarity, cost
         });
-    });
+    }
 }
 
 const rootUrl = "https://bravefrontierglobal.fandom.com";
@@ -51,14 +50,15 @@ const rootUrl = "https://bravefrontierglobal.fandom.com";
 getMain = async (url) => {
     try {
         const response = await axios.get(url);
-        const $ = cheerio.load(response.data);
+        const { document } = (new JSDOM(response.data)).window;
 
-        scrape($);
+        scrape(document);
 
         // Recursion start
-        const nextPageHref = $('div#mw-content-text > div > p').find('strong').next().attr('href');
-
-        if (nextPageHref === undefined) {
+        const nextElementSibling = document.querySelector('div#mw-content-text > div > p > strong').nextElementSibling;
+        if (nextElementSibling !== null) {
+            nextPageHref = nextElementSibling.getAttribute('href');
+        } else {
             return units;
         }
 
@@ -75,14 +75,15 @@ getMain = async (url) => {
 getGlobalExclusive = async (url) => {
     try {
         const response = await axios.get(url);
-        const $ = cheerio.load(response.data);
+        const { document } = (new JSDOM(response.data)).window;
 
-        scrape($);
+        scrape(document);
 
         // Recursion start
-        const nextPageHref = $('div#mw-content-text > div > div > p').find('strong').next().attr('href');
-
-        if (nextPageHref === undefined) {
+        const nextElementSibling = document.querySelector('div#mw-content-text > div > div > p > strong').nextElementSibling;
+        if (nextElementSibling !== null) {
+            nextPageHref = nextElementSibling.getAttribute('href');
+        } else {
             return units;
         }
 
