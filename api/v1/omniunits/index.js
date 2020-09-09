@@ -16,21 +16,27 @@ module.exports = async (req, res) => {
 
     if (name && element) {
         result = omniUnits.filter(unit => {
-            return unit.name.includes(capitalizeFirstLetter(name)) && unit.element === capitalizeFirstLetter(element);
+            let unitName = unit.name.toLowerCase();
+            let unitElement = unit.element.toLowerCase();
+            return (unitName.includes(lowerCase(name)) && unitElement.includes(lowerCase(element)));
         });
     } else if (name)  {
         result = omniUnits.filter(unit => {
-            return unit.name.includes(capitalizeFirstLetter(name));
+            let unitName = unit.name.toLowerCase();
+            console.log('unit name', unitName);
+            console.log('req name', lowerCase(name));
+            return unitName.includes(lowerCase(name));
         });
     } else if (element) {
         result = omniUnits.filter(unit => {
-            return unit.element === capitalizeFirstLetter(element);
+            let unitElement = unit.element.toLowerCase();
+            return unitElement.includes(lowerCase(element));
         });
     }
 
     res.status(200).send(result);
 }
 
-function capitalizeFirstLetter(string) {
-    return string.charAt(0).toUpperCase() + string.slice(1);
+function lowerCase(string) {
+    return string.toLowerCase();
 }
