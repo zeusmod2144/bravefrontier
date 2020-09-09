@@ -4,8 +4,8 @@ on:
     branches:
       - master
   schedule:
-    # Run at 23:59 on every 3rd day-of-month
-    - cron: '59 23 */3 * *'
+    # Run at 23:59 on every day
+    - cron: '59 23 * * *'
 
 jobs:
   build:
