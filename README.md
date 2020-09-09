@@ -13,7 +13,6 @@ I scrape list of omni units with their recommended SP and store in [a JSON raw f
 ## Tech Stack
 
 - Axios
-- Cheerio
 - JSDOM
 - Github Actions
 - Vercel
