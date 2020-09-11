@@ -8,10 +8,6 @@ module.exports = async (req, res) => {
     const text = await fsPromises.readFile(file, 'utf8');
     const omniUnits = JSON.parse(text);
     omniUnits.sort((a, b) => parseInt(b.id) - parseInt(a.id));
-    for (const omniUnit of omniUnits) {
-        delete omniUnit.artwork;
-        delete omniUnit.spRecommendation;
-    }
     let result = omniUnits;
 
     if (name && element) {
@@ -32,6 +28,13 @@ module.exports = async (req, res) => {
             let unitElement = unit.element.toLowerCase();
             return unitElement.includes(lowerCase(element));
         });
+    }
+
+    for (const omniUnit of omniUnits) {
+        delete omniUnit.artwork;
+        delete omniUnit.spRecommendation;
+        delete omniUnit.skills;
+        delete omniUnit.enhancements;
     }
 
     res.status(200).send(result);
