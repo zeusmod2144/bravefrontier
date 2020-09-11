@@ -3,6 +3,7 @@ const unitProfiles = require('../units/scrapers/profile.js');
 const omniUnitProfiles = require('./scrapers/profile.js');
 const spUnits = require('./scrapers/sp.js');
 const { isJapaneseAndChineseChars } = require('../helper.js');
+const keywords = require('./keywords');
 
 module.exports = async () => {
     try {
@@ -60,6 +61,7 @@ module.exports = async () => {
                 }
             }
             unit.keywords = [...new Set(selectedKeywords)];
+            return unit;
         })
 
         return omniUnits;
