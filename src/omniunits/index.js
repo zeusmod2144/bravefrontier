@@ -27,10 +27,10 @@ module.exports = async () => {
             return unit;
         });
 
-        for (const omniUnit of omniUnits) {
+        omniUnits = omniUnits.map(unit => {
             let selectedKeywords = [];
             const omniUnitSkills = [];
-            for (const skill of omniUnit.skills) {
+            for (const skill of unit.skills) {
                 if (skill.lsDesc !== undefined) {
                     omniUnitSkills.push(skill.lsDesc.toLowerCase());
                 }
@@ -59,8 +59,8 @@ module.exports = async () => {
                     }
                 }
             }
-            omniUnit.keywords = [...new Set(selectedKeywords)];
-        }
+            unit.keywords = [...new Set(selectedKeywords)];
+        })
 
         return omniUnits;
     } catch (error) {
