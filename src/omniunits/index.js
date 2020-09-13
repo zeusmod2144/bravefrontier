@@ -55,7 +55,7 @@ module.exports = async () => {
     
             for (const omniUnitSkill of omniUnitSkills) {
                 for (const keyword of keywords) {
-                    if (omniUnitSkill.includes(keyword)) {
+                    if (omniUnitSkill.includes(keyword.toLowerCase())) {
                         selectedKeywords.push(keyword);
                     }
                 }
