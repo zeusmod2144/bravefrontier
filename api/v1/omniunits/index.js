@@ -16,7 +16,8 @@ module.exports = async (req, res) => {
             let unitName = unit.name.toLowerCase();
             let unitElement = unit.element.toLowerCase();
             for (const key of createKeywords(keywords)) {
-                for (const keyword of unit.keywords) {
+                for (let keyword of unit.keywords) {
+                    keyword = keyword.toLowerCase();
                     if (keyword.includes(key)) {
                         return (unitName.includes(lowerCase(name)) && unitElement.includes(lowerCase(element)));
                     }
@@ -37,7 +38,8 @@ module.exports = async (req, res) => {
         result = omniUnits.filter(unit => {
             for (const key of createKeywords(keywords)) {
                 if (unit.keywords.length >= 1) {
-                    for (const keyword of unit.keywords) {
+                    for (let keyword of unit.keywords) {
+                        keyword = keyword.toLowerCase();
                         if (keyword.includes(key)) {
                             return unit;
                         }
