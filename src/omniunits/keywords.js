@@ -13,5 +13,7 @@ module.exports = [
     "status ailments infliction",
     "resistance against KO attack",
     "resistance against 1 KO attack",
-    "resistance against 2 KO attacks"
+    "resistance against 2 KO attacks",
+    "Doom effect purge from self",
+    "purges Doom"
 ];
