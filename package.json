@@ -8,7 +8,8 @@
     "omniunits:raw": "node src/omniunits/raw.js",
     "omniunits:artworks": "node src/omniunits/artworks.js",
     "omniunits:thumbnails": "node src/omniunits/thumbnails.js",
-    "omniunits:build": "node src/omniunits/build.js"
+    "omniunits:build": "node src/omniunits/build.js",
+    "dbbs:raw": "node src/dbbs/raw.js"
   },
   "repository": {
     "type": "git",
