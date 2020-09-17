@@ -21,9 +21,9 @@ jobs:
     - name: Store scraping omni units into raw file
       run: npm run omniunits:raw
     - name: Build omni units data
-      run: |
-      npm run omniunits:build
-      npm run dbbs:raw
+      run: npm run omniunits:build
+    - name: Store scrapping dbbs into raw file
+      run: npm run dbbs:raw
     - name: Deploy to vercel
       uses: amondnet/vercel-action@v19
       with:
