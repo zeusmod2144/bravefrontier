@@ -20,12 +20,8 @@ jobs:
       run: npm ci
     - name: Store scraping omni units into raw file
       run: npm run omniunits:raw
-    # - name: Download unit artworks
-    #   run: npm run omniunits:artworks
-    # - name: Download unit thumbnails
-    #   run: npm run omniunits:thumbnails
-    - name: Build data
-      run: | 
+    - name: Build omni units data
+      run: |
       npm run omniunits:build
       npm run dbbs:raw
     - name: Deploy to vercel
