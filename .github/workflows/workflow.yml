@@ -25,7 +25,9 @@ jobs:
     # - name: Download unit thumbnails
     #   run: npm run omniunits:thumbnails
     - name: Build data
-      run: npm run omniunits:build
+      run: | 
+      npm run omniunits:build
+      npm run dbbs:raw
     - name: Deploy to vercel
       uses: amondnet/vercel-action@v19
       with:

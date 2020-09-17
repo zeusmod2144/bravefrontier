@@ -23,13 +23,26 @@ const sourceUrl = 'https://bravefrontierglobal.fandom.com/wiki/List_of_Units_wit
         var dbbs = [];
         for (let i = 0; i < rows.length; i++) {
             var columns = rows[i].querySelectorAll('td');
-            var firstUnit, secondUnit, releaseDate, elementalSynergyName, elementalSynergyDesc, dbbName, dbbDesc;
+            var firstUnitName, firstUnitThumbnail, secondUnitName, secondUnitThumbnail;
+            let releaseDate, elementalSynergyName, elementalSynergyDesc, dbbName, dbbDesc;
             for (let j = 0; j < columns.length; j++) {
                 var column = columns[j];
                 switch (j) {
                     case 0:
-                        firstUnit = column.querySelectorAll('a')[1].textContent.trim();
-                        secondUnit = column.querySelectorAll('a')[3].textContent.trim();
+                        let firstUnitImg = column.querySelectorAll('a')[0].querySelector('img');
+                        if (firstUnitImg.hasAttribute('data-src')) {
+                            firstUnitThumbnail = firstUnitImg.getAttribute('data-src');
+                        } else {
+                            firstUnitThumbnail = firstUnitImg.getAttribute('src');
+                        }
+                        firstUnitName = column.querySelectorAll('a')[1].textContent.trim();
+                        secondUnitName = column.querySelectorAll('a')[3].textContent.trim();
+                        let secondUnitImg = column.querySelectorAll('a')[2].querySelector('img');
+                        if (secondUnitImg.hasAttribute('data-src')) {
+                            secondUnitThumbnail = secondUnitImg.getAttribute('data-src');
+                        } else {
+                            secondUnitThumbnail = secondUnitImg.getAttribute('src');
+                        }
                         releaseDate = column.querySelector('center > small').textContent.replace('Released: ', '').trim();
                         break;
                     case 1:
@@ -43,7 +56,7 @@ const sourceUrl = 'https://bravefrontierglobal.fandom.com/wiki/List_of_Units_wit
                         break;
                 }
             }
-            dbbs.push({ firstUnit, secondUnit, releaseDate, elementalSynergyName, elementalSynergyDesc, dbbName, dbbDesc });
+            dbbs.push({ firstUnitName, firstUnitThumbnail, secondUnitName, secondUnitThumbnail, releaseDate, elementalSynergyName, elementalSynergyDesc, dbbName, dbbDesc });
 
             fs.writeFile(outputFile, JSON.stringify(dbbs), err => {
                 if (err) {
