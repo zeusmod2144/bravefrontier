@@ -17,7 +17,7 @@ function scrape(document) {
                     id = column.querySelector('center').textContent.trim();
                     break;
                 case 1:
-                    if (typeof column.querySelector('a > img').getAttribute('data-src') !== undefined) {
+                    if (column.querySelector('a > img').hasAttribute('data-src')) {
                         thumbnail = column.querySelector('a > img').getAttribute('data-src');
                     } else {
                         thumbnail = column.querySelector('a > img').getAttribute('src');
