@@ -14,6 +14,7 @@ module.exports = [
     "resistance against KO attack",
     "resistance against 1 KO attack",
     "resistance against 2 KO attacks",
-    "Doom effect purge from self",
-    "purges Doom"
+    "Adds Doom effect purge from self to BB/UBB",
+    "purges Doom",
+    "raises allies from KO"
 ];
