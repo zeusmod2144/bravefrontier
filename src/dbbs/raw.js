@@ -8,6 +8,7 @@ const axios = require("axios");
 const outputFile = path.join(__dirname, 'raw.json');
 const { milisConverter } = require('../helper.js');
 const sourceUrl = 'https://bravefrontierglobal.fandom.com/wiki/List_of_Units_with_Dual_Brave_Burst';
+const keywords = require('./keywords');
 
 (async () => {
     try {
@@ -57,6 +58,19 @@ const sourceUrl = 'https://bravefrontierglobal.fandom.com/wiki/List_of_Units_wit
                 }
             }
             dbbs.push({ firstUnitName, firstUnitThumbnail, secondUnitName, secondUnitThumbnail, releaseDate, elementalSynergyName, elementalSynergyDesc, dbbName, dbbDesc });
+
+            // Create keywords
+            dbbs.map(dbb => {
+                let selectedKeywords = [];
+                dbbDesc = dbb.dbbDesc.toLowerCase();
+                for (const keyword of keywords) {
+                    if (dbbDesc.includes(keyword.toLowerCase())) {
+                        selectedKeywords.push(keyword);
+                    }
+                }
+                dbb.keywords = [...new Set(selectedKeywords)];
+                return dbb;
+            });
 
             fs.writeFile(outputFile, JSON.stringify(dbbs), err => {
                 if (err) {
