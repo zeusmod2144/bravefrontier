@@ -9,7 +9,7 @@ module.exports = [
     "reduces BB gauge required",
     "reduction to BB activation cost",
     "fills OD gauge",
-    "boosts OD gauge fill rate",
+    "boosts OD gauge",
     "status ailments infliction",
     "resistance against KO attack",
     "resistance against 1 KO attack",
