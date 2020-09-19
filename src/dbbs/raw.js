@@ -22,8 +22,10 @@ const keywords = require('./keywords');
         // shift first row
         rows.shift();
         var dbbs = [];
+        let number = 1;
         for (let i = 0; i < rows.length; i++) {
             var columns = rows[i].querySelectorAll('td');
+            let dbbId = number;
             var firstUnitName, firstUnitThumbnail, secondUnitName, secondUnitThumbnail;
             let releaseDate, elementalSynergyName, elementalSynergyDesc, dbbName, dbbDesc;
             for (let j = 0; j < columns.length; j++) {
@@ -57,31 +59,41 @@ const keywords = require('./keywords');
                         break;
                 }
             }
-            dbbs.push({ firstUnitName, firstUnitThumbnail, secondUnitName, secondUnitThumbnail, releaseDate, elementalSynergyName, elementalSynergyDesc, dbbName, dbbDesc });
 
-            // Create keywords
-            dbbs.map(dbb => {
-                let selectedKeywords = [];
-                dbbDesc = dbb.dbbDesc.toLowerCase();
-                for (const keyword of keywords) {
-                    if (dbbDesc.includes(keyword.toLowerCase())) {
-                        selectedKeywords.push(keyword);
-                    }
-                }
-                dbb.keywords = [...new Set(selectedKeywords)];
-                return dbb;
-            });
-
-            fs.writeFile(outputFile, JSON.stringify(dbbs), err => {
-                if (err) {
-                    console.log(err);
-                }
-                console.log(chalk.yellow.bgBlue(`\n Scraping dbbs finish! Success export ${dbbs.length} dbbs to ${outputFile}. \n`));
-        
-                const t1 = performance.now();
-                console.log(chalk.yellow.bgBlue(`\n Process took: ${milisConverter(t1 - t0)}. \n`));
-            });
+            dbbs.push({ firstUnitName, firstUnitThumbnail, secondUnitName, secondUnitThumbnail, releaseDate, elementalSynergyName, elementalSynergyDesc, dbbId, dbbName, dbbDesc });
+            number++;
         }
+
+        // Create keywords
+        dbbs.map(dbb => {
+            let selectedKeywords = [];
+            dbbDesc = dbb.dbbDesc.toLowerCase();
+            for (const keyword of keywords) {
+                if (dbbDesc.includes(keyword.toLowerCase())) {
+                    selectedKeywords.push(keyword);
+                }
+            }
+            dbb.keywords = [...new Set(selectedKeywords)];
+            return dbb;
+        });
+        
+        // Sort by id
+        dbbs.sort((a, b) => parseInt(b.dbbId) - parseInt(a.dbbId));
+
+        dbbs.filter(dbb => {
+            delete dbb.id;
+            return dbb;
+        });
+        
+        fs.writeFile(outputFile, JSON.stringify(dbbs), err => {
+            if (err) {
+                console.log(err);
+            }
+            console.log(chalk.yellow.bgBlue(`\n Scraping dbbs finish! Success export ${dbbs.length} dbbs to ${outputFile}. \n`));
+    
+            const t1 = performance.now();
+            console.log(chalk.yellow.bgBlue(`\n Process took: ${milisConverter(t1 - t0)}. \n`));
+        });
     } catch (error) {
         console.log(error);
     }

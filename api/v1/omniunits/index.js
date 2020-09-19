@@ -8,7 +8,6 @@ module.exports = async (req, res) => {
     let keywords = req.query.keywords;
     const text = await fsPromises.readFile(file, 'utf8');
     const omniUnits = JSON.parse(text);
-    omniUnits.sort((a, b) => parseInt(b.id) - parseInt(a.id));
     let result = omniUnits;
 
     if (name && element && keywords) {

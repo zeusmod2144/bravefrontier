@@ -62,8 +62,11 @@ module.exports = async () => {
             }
             unit.keywords = [...new Set(selectedKeywords)];
             return unit;
-        })
-
+        });
+        
+        // Sort by id
+        omniUnits.sort((a, b) => parseInt(b.id) - parseInt(a.id));
+        
         return omniUnits;
     } catch (error) {
         console.log(error);

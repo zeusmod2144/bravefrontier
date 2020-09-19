@@ -7,7 +7,6 @@ module.exports = async (req, res) => {
     let unitname = req.query.unitname;
     const text = await fsPromises.readFile(file, 'utf8');
     const dbbs = JSON.parse(text);
-    dbbs.sort((a, b) => new Date(b.releaseDate) - new Date(a.releaseDate));
     let result = dbbs;
 
     if (esname && unitname) {
