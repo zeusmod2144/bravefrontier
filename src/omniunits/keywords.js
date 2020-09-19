@@ -17,5 +17,10 @@ module.exports = [
     "Adds Doom effect purge from self to BB/UBB",
     "purges Doom",
     "raises allies from KO",
-    "purges LS and ES Lock"
+    "purges LS and ES Lock",
+    "DoT mitigation",
+    "boost to Summoner Avatar EXP gained",
+    "boost to Summoner EXP gained",
+    "boost to EXP gained",
+    "removes all status ailments"
 ];
