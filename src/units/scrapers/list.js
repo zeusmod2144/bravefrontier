@@ -55,7 +55,7 @@ getMain = async (url) => {
         scrape(document);
 
         // Recursion start
-        const nextElementSibling = document.querySelector('div#mw-content-text > div > p > strong').nextElementSibling;
+        const nextElementSibling = document.querySelector('strong.mw-selflink.selflink').nextElementSibling;
         if (nextElementSibling !== null) {
             nextPageHref = nextElementSibling.getAttribute('href');
         } else {
@@ -80,7 +80,7 @@ getGlobalExclusive = async (url) => {
         scrape(document);
 
         // Recursion start
-        const nextElementSibling = document.querySelector('div#mw-content-text > div > div > p > strong').nextElementSibling;
+        const nextElementSibling = document.querySelector('a.mw-selflink.selflink').nextElementSibling;
         if (nextElementSibling !== null) {
             nextPageHref = nextElementSibling.getAttribute('href');
         } else {
