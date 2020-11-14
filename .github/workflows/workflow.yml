@@ -22,14 +22,6 @@ jobs:
       run: npm run omniunits:raw
     - name: Store scrapping dbbs into raw file
       run: npm run dbbs:raw
-    - name: Deploy to vercel
-      uses: amondnet/vercel-action@v19
-      with:
-        vercel-token: ${{ secrets.VERCEL_TOKEN }}
-        github-token: ${{ secrets.GITHUB_TOKEN }}
-        vercel-args: '--prod' #Optional
-        vercel-org-id: ${{ secrets.ORG_ID}}
-        vercel-project-id: ${{ secrets.PROJECT_ID}}
     - name: Commit files
       run: |
         git config --local user.email ${{ secrets.MY_EMAIL }}
@@ -40,3 +32,11 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
+    - name: Deploy to vercel
+      uses: amondnet/vercel-action@v19
+      with:
+        vercel-token: ${{ secrets.VERCEL_TOKEN }}
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        vercel-args: '--prod' #Optional
+        vercel-org-id: ${{ secrets.ORG_ID}}
+        vercel-project-id: ${{ secrets.PROJECT_ID}}
