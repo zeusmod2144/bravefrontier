@@ -47,7 +47,7 @@ function scrape(document) {
 
 const rootUrl = "https://bravefrontierglobal.fandom.com";
 
-getMain = async (url) => {
+getUnitSeries = async (url) => {
     try {
         const response = await axios.get(url);
         const { document } = (new JSDOM(response.data)).window;
@@ -55,7 +55,7 @@ getMain = async (url) => {
         scrape(document);
 
         // Recursion start
-        const nextElementSibling = document.querySelector('strong.mw-selflink.selflink').nextElementSibling;
+        const nextElementSibling = document.querySelector('.mw-selflink.selflink').nextElementSibling;
         if (nextElementSibling !== null) {
             nextPageHref = nextElementSibling.getAttribute('href');
         } else {
@@ -65,36 +65,61 @@ getMain = async (url) => {
         nextUrl = `${rootUrl}${nextPageHref}`;
         console.log(chalk.cyan(`Scraping next url: ${nextUrl}`));
 
-        return await getMain(nextUrl);
+        return await getUnitSeries(nextUrl);
         // Recursion end
     } catch (error) {
         console.error(error);
     }
 }
 
-getGlobalExclusive = async (url) => {
-    try {
-        const response = await axios.get(url);
-        const { document } = (new JSDOM(response.data)).window;
+// getMain = async (url) => {
+//     try {
+//         const response = await axios.get(url);
+//         const { document } = (new JSDOM(response.data)).window;
 
-        scrape(document);
+//         scrape(document);
 
-        // Recursion start
-        const nextElementSibling = document.querySelector('a.mw-selflink.selflink').nextElementSibling;
-        if (nextElementSibling !== null) {
-            nextPageHref = nextElementSibling.getAttribute('href');
-        } else {
-            return units;
-        }
+//         // Recursion start
+//         const nextElement = document.querySelector('.mw-selflink.selflink').nextElementSibling;
+//         if (nextElement !== null) {
+//             nextPageHref = nextElement.getAttribute('href');
+//         } else {
+//             return units;
+//         }
 
-        nextUrl = `${rootUrl}${nextPageHref}`;
-        console.log(chalk.cyan(`Scraping next url: ${nextUrl}`));
+//         nextUrl = `${rootUrl}${nextPageHref}`;
+//         console.log(chalk.cyan(`Scraping next url: ${nextUrl}`));
 
-        return await getGlobalExclusive(nextUrl);
-        // Recursion end
-    } catch (error) {
-        console.error(error);
-    }
-}
+//         return await getMain(nextUrl);
+//         // Recursion end
+//     } catch (error) {
+//         console.error(error);
+//     }
+// }
 
-module.exports = { getMain, getGlobalExclusive };
+// getGlobalExclusive = async (url) => {
+//     try {
+//         const response = await axios.get(url);
+//         const { document } = (new JSDOM(response.data)).window;
+
+//         scrape(document);
+
+//         // Recursion start
+//         const nextElementSibling = document.querySelector('.mw-selflink.selflink').nextElementSibling;
+//         if (nextElementSibling !== null) {
+//             nextPageHref = nextElementSibling.getAttribute('href');
+//         } else {
+//             return units;
+//         }
+
+//         nextUrl = `${rootUrl}${nextPageHref}`;
+//         console.log(chalk.cyan(`Scraping next url: ${nextUrl}`));
+
+//         return await getGlobalExclusive(nextUrl);
+//         // Recursion end
+//     } catch (error) {
+//         console.error(error);
+//     }
+// }
+
+module.exports = { getUnitSeries };
