@@ -17,14 +17,14 @@ function scrape(document) {
                     id = column.querySelector('center').textContent.trim();
                     break;
                 case 1:
-                    if (column.querySelector('a > img').hasAttribute('data-src')) {
-                        thumbnail = column.querySelector('a > img').getAttribute('data-src');
-                    } else {
-                        thumbnail = column.querySelector('a > img').getAttribute('src');
+                    const anchor = column.querySelector('a');
+                    if (anchor.firstElementChild !== null) {
+                        if (anchor.querySelector('img').hasAttribute('data-src')) {
+                            thumbnail = anchor.querySelector('img').getAttribute('data-src');
+                        } else {
+                            thumbnail = anchor.querySelector('img').getAttribute('src');
+                        }
                     }
-                    // const findPathThumbnail = "/scale-to-width-down/42";
-                    // const regex = new RegExp(findPathThumbnail, 'g');
-                    // thumbnail = thumbnail.replace(regex, '');
                     name = column.querySelectorAll('a')[1].getAttribute('title');
                     link = `${rootUrl}${column.querySelectorAll('a')[1].getAttribute('href')}`;
                     break;
