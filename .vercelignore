@@ -2,10 +2,7 @@
 .github
 /src/**/*.js
 /src/*.js
-/src/omniunits/artworks/*.webp
-/src/omniunits/artworks/*.png
-/src/omniunits/thumbnails/*.webp
-/src/omniunits/thumbnails/*.png
+tmp
 !api
 !vercel.json
 !*.html
