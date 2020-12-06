@@ -1,4 +1,5 @@
 const fs = require("fs");
+const fsPromises = fs.promises;
 const path = require('path');
 const { performance } = require('perf_hooks');
 const jsdom = require('jsdom');
@@ -9,6 +10,7 @@ const outputFile = path.join(__dirname, '..', '..', 'data', 'dbbs', 'raw.json');
 const { milisConverter } = require('../helper.js');
 const sourceUrl = 'https://bravefrontierglobal.fandom.com/wiki/List_of_Units_with_Dual_Brave_Burst';
 const keywords = require('./keywords');
+const omniUnitsFile = path.join(__dirname, '..', '..', 'data', 'omniunits', 'raw.json');
 
 (async () => {
     try {
@@ -64,8 +66,23 @@ const keywords = require('./keywords');
             number++;
         }
 
-        // Create keywords
+        const omniUnitsText = await fsPromises.readFile(omniUnitsFile, 'utf8');
+        const omniUnits = JSON.parse(omniUnitsText);
+
+        // Create keywords, get firstUnitId and secondUnitId
         dbbs.map(dbb => {
+            let selectedFirstUnit = {};
+            for (let omniUnit of omniUnits) {
+                if (omniUnit.name === dbb.firstUnitName) {
+                    selectedFirstUnit = omniUnit;
+                }
+            }
+            let selectedSecondUnit = {};
+            for (let omniUnit of omniUnits) {
+                if (omniUnit.name === dbb.secondUnitName) {
+                    selectedSecondUnit = omniUnit;
+                }
+            }
             let selectedKeywords = [];
             dbbDesc = dbb.dbbDesc.toLowerCase();
             for (const keyword of keywords) {
@@ -74,6 +91,8 @@ const keywords = require('./keywords');
                 }
             }
             dbb.keywords = [...new Set(selectedKeywords)];
+            dbb.firstUnitId = selectedFirstUnit.id;
+            dbb.secondUnitId = selectedSecondUnit.id;
             return dbb;
         });
         
