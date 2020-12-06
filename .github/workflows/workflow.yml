@@ -22,6 +22,10 @@ jobs:
       run: npm run omniunits:raw
     - name: Store scrapping dbbs into raw file
       run: npm run dbbs:raw
+    - name: Upload omniunits thumbnails to Cloudinary
+      run: npm run omniunits:thumbnails
+    - name: Upload omniunits artworks to Cloudinary
+      run: npm run omniunits:artworks
     - name: Commit files
       run: |
         git config --local user.email ${{ secrets.MY_EMAIL }}
