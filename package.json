@@ -8,7 +8,6 @@
     "omniunits:raw": "node src/omniunits/raw.js",
     "omniunits:artworks": "node src/omniunits/artworks.js",
     "omniunits:thumbnails": "node src/omniunits/thumbnails.js",
-    "omniunits:build": "node src/omniunits/build.js",
     "dbbs:raw": "node src/dbbs/raw.js"
   },
   "repository": {
@@ -26,13 +25,8 @@
     "axios": "^0.19.2",
     "chalk": "^4.0.0",
     "cloudinary": "^1.23.0",
-    "del": "^5.1.0",
     "dotenv": "^8.2.0",
-    "imagemin": "^7.0.1",
-    "imagemin-pngquant": "^8.0.0",
-    "imagemin-webp": "^6.0.0",
-    "jsdom": "^16.4.0",
-    "sharp": "^0.26.0"
+    "jsdom": "^16.4.0"
   },
   "engines": {
     "node": ">=12.14.1"
