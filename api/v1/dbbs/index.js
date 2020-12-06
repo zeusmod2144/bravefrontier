@@ -1,6 +1,6 @@
 const fsPromises = require('fs').promises;
 const { join } = require('path');
-const file = join(__dirname, '..', '..', '..', 'src', 'dbbs', 'raw.json');
+const file = join(__dirname, '..', '..', '..', 'data', 'dbbs', 'raw.json');
 
 module.exports = async (req, res) => {
     let esname = req.query.esname;
