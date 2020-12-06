@@ -1,26 +1,33 @@
+require('dotenv').config();
 const axios = require('axios');
 const fs = require('fs');
 const fsPromises = fs.promises;
-const { join } = require('path');
+const path = require('path');
+const cloudinary = require('cloudinary').v2;
+cloudinary.config({
+    cloud_name: process.env.CLOUDINARY_CLOUD_NAME,
+    api_key: process.env.CLOUDINARY_API_KEY,
+    api_secret: process.env.CLOUDINARY_API_SECRET
+});
 
-const omniUnitsFile = join(__dirname, '..', '..', 'data', 'omniunits', 'raw.json');
+const omniUnitsFile = path.join(__dirname, '..', '..', 'data', 'omniunits', 'raw.json');
 
 const downloadFile = (link) => {
     return new Promise((resolve, reject) => {
         axios.get(link, {
-            responseType: 'stream'
+            responseType: 'arraybuffer'
         }).then(response => {
             return resolve(response.data)
         })
-            .catch(error => {
-                return reject(error);
-            })
+        .catch(error => {
+            return reject(error);
+        })
     })
 }
 
 (async () => {
     try {
-        fs.mkdir(join(__dirname, '..', '..', 'tmp', 'omniunits', 'artworks'), { recursive: true }, (err) => {
+        fs.mkdir(path.join(__dirname, '..', '..', 'tmp', 'omniunits', 'artworks'), { recursive: true }, (err) => {
             if (err) throw err;
         });
         const text = await fsPromises.readFile(omniUnitsFile, 'utf8');
@@ -28,8 +35,14 @@ const downloadFile = (link) => {
         for (const omniUnit of omniUnits) {
             await downloadFile(omniUnit.artwork)
                 .then(data => {
-                    data.pipe(fs.createWriteStream(join(__dirname, '..', '..', 'tmp', 'omniunits', 'artworks', `${omniUnit.id}.png`)));
-                    console.log(`Success download thumbnails of ${omniUnit.name}`);
+                    let options = {
+                        public_id: omniUnit.id,
+                        folder: 'bravefrontier/omniunits/artworks/'
+                    };
+                    cloudinary.uploader.upload_stream(options, (error, result) => {
+                        if (error) throw error;
+                        console.log(`Success upload ${omniUnit.name}'s artwork to ${result.secure_url}`);
+                    }).end(data);
                 });
         }
     } catch (error) {
