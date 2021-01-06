@@ -2,7 +2,7 @@
 
 Unofficial source data of omni units for [BFWIKI website](https://bfwiki.satyakresna.io).
 
-> **NOTE**: I will not update the data of omni units and dbb of Brave Frontier Global regarding of Brave News Channel last episode. Again, this game was amazing in their era! Thanks for accompany me as summoner, Brave Frontier. 🙏
+> **NOTE**: I will not update the data of omni units and dbb of Brave Frontier Global regarding of [Brave News Channel last episode](https://www.youtube.com/watch?v=cMKAlUoSswE). Again, this game was amazing in their era! Thanks for accompany me as summoner, Brave Frontier. 🙏
 
 ## About
 
